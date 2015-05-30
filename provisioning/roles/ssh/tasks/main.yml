@@ -1,0 +1,7 @@
+---
+- name: disable root login
+  lineinfile: line="PermitRootLogin no" regexp="^PermitRootLogin\s.*$" dest=/etc/ssh/sshd_config
+  notify: restart ssh
+- name: enforce public/private key authentication
+  lineinfile: line="PasswordAuthentication no" regexp="^PasswordAuthentication\s.*$" dest=/etc/ssh/sshd_config
+  notify: restart ssh

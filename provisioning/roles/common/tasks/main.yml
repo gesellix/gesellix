@@ -10,7 +10,7 @@
   apt: name={{ item }} state=latest
   with_items:
     - curl
-    - glances
+#    - glances
     - python2.7
     - python-setuptools
     - whois

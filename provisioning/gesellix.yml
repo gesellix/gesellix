@@ -1,0 +1,24 @@
+---
+- name: common packages
+  hosts: all
+  tags: always
+  roles:
+    - common
+
+- name: docker
+  hosts: all
+  tags: docker
+  roles:
+    - docker
+
+- name: user accounts
+  hosts: all
+  tags: users
+  roles:
+    - users
+
+- name: ssh
+  hosts: all
+  tags: ssh
+  roles:
+    - ssh

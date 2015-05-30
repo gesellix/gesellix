@@ -1,0 +1,7 @@
+gesellix ansible_ssh_host=www.gesellix.net ansible_ssh_user=robot ansible_sudo=true
+
+[blog]
+gesellix
+
+[keepass]
+gesellix

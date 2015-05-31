@@ -94,8 +94,40 @@ class DockerVolumeManager(object):
                             tls=tls_config)
 
     def restore_volumes(self, container, source_file):
+        details = self.client.inspect_container(container['name'])
+        image = details['Image']
+
+        volume_mappings = details['Volumes']
+        volumes = volume_mappings.keys()
+
+        def create_bind(volume_name,ro=True):
+            return dict(bind=volume_name,ro=ro)
+
+        binds = dict(zip(volume_mappings, map(create_bind, volume_mappings.values())))
+
+        volumes.append('/backup')
+        binds[os.path.dirname(source_file)] = create_bind('/backup', False)
+        filename = os.path.basename(source_file)
+
+        restore_command = 'sh -c "tar xfz /backup/{filename} -C /"'.format(filename=filename)
+
+        params = {
+            'image':       image,
+            'command':     restore_command,
+            'volumes':     volumes,
+            'host_config': docker.utils.create_host_config(binds=binds)
+        }
+        container = self.client.create_container(**params)
+        response = self.client.start(container=container.get('Id'))
+        self.client.wait(container=container.get('Id'))
+        self.client.remove_container(container=container.get('Id'))
+
         return dict(
-            filename=source_file)
+            params=params,
+            filename=filename,
+            container=container.get('Id'),
+            response=response
+        )
 
     def backup_volumes(self, container, target_dir):
         details = self.client.inspect_container(container['name'])
@@ -113,7 +145,7 @@ class DockerVolumeManager(object):
         binds[target_dir] = create_bind('/backup', False)
         filename = str(uuid.uuid4()) + '.tgz'
 
-        backup_command = 'sh -c "tar cfz /backup/{filename} {volumes}"'.format(filename=filename, volumes=' '.join(details['Volumes'].keys()))
+        backup_command = 'sh -c "tar cfz /backup/{filename} -C / {volumes}"'.format(filename=filename, volumes=' '.join(details['Volumes'].keys()))
 
         params = {
             'image':       image,
@@ -123,8 +155,10 @@ class DockerVolumeManager(object):
         }
         container = self.client.create_container(**params)
         response = self.client.start(container=container.get('Id'))
+        self.client.wait(container=container.get('Id'))
+        self.client.remove_container(container=container.get('Id'))
 
-        backup_filename=os.path.expanduser(target_dir + '/' + filename)
+        backup_filename=os.path.expanduser(os.path.join(target_dir, filename))
         return dict(
             params=params,
             filename=backup_filename,

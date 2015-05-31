@@ -39,5 +39,8 @@
   docker_volume:
     task: restore
     name: "{{blog_data_container}}"
-    source_file: backup.filename
+    source_file: "{{backup.filename}}"
+  register: restore
 #  when: pulled_blog_data_image|changed
+
+- debug: var=restore

@@ -1,0 +1,43 @@
+---
+- name: pull image
+  command: "docker pull {{blog_data_image}}"
+  register: pulled_blog_data_image
+  changed_when: "'Downloaded newer image' in pulled_blog_data_image.stdout"
+
+#- name: create data-only container based on new image
+#  docker:
+#    name: "{{blog_data_container}}-update"
+#    image: "{{blog_data_image}}"
+#    detach: false
+#    volumes_from: "{{blog_data_container}}"
+#    command: "true"
+#    state: present
+#  when: pulled_blog_data_image|changed
+
+# TODO stop blog before data backup
+
+- name: backup data container
+  docker_volume:
+    task: backup
+    name: "{{blog_data_container}}"
+    target_dir: "/backup"
+  register: backup
+#  when: pulled_blog_data_image|changed
+
+- debug: var=backup
+
+#- name: create data-only container
+#  docker:
+#    name: "{{blog_data_container}}"
+#    image: "{{blog_data_image}}"
+#    detach: false
+#    volumes: /ghost/content/data,/ghost/content/images
+#    command: "true"
+#    state: present
+
+- name: restore data container
+  docker_volume:
+    task: restore
+    name: "{{blog_data_container}}"
+    source_file: backup.filename
+#  when: pulled_blog_data_image|changed

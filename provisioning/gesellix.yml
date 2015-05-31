@@ -22,3 +22,16 @@
   tags: ssh
   roles:
     - ssh
+
+- name: blog
+  hosts: blog
+  tags: blog
+  roles:
+    - blog-data
+#    - blog
+
+#- name: proxy
+#  hosts: blog
+#  tags: proxy
+#  roles:
+#    - proxy

@@ -100,16 +100,16 @@ class DockerVolumeManager(object):
         volume_mappings = details['Volumes']
         volumes = volume_mappings.keys()
 
-        def create_bind(volume_name,ro=True):
+        def create_bind(volume_name,ro=False):
             return dict(bind=volume_name,ro=ro)
 
-        binds = dict(zip(volume_mappings, map(create_bind, volume_mappings.values())))
+        binds = dict(zip(volume_mappings.values(), map(create_bind, volume_mappings.keys())))
 
         volumes.append('/backup')
-        binds[os.path.dirname(source_file)] = create_bind('/backup', False)
+        binds[os.path.dirname(source_file)] = create_bind('/backup', True)
         filename = os.path.basename(source_file)
 
-        restore_command = 'sh -c "tar xfz /backup/{filename} -C /"'.format(filename=filename)
+        restore_command = 'sh -c "tar xfz /backup/{filename} --overwrite -C /"'.format(filename=filename)
 
         params = {
             'image':       image,
@@ -124,6 +124,8 @@ class DockerVolumeManager(object):
 
         return dict(
             params=params,
+            volume_mappings=volume_mappings,
+            binds=binds,
             filename=filename,
             container=container.get('Id'),
             response=response
@@ -139,7 +141,7 @@ class DockerVolumeManager(object):
         def create_bind(volume_name,ro=True):
             return dict(bind=volume_name,ro=ro)
 
-        binds = dict(zip(volume_mappings, map(create_bind, volume_mappings.values())))
+        binds = dict(zip(volume_mappings.values(), map(create_bind, volume_mappings.keys())))
 
         volumes.append('/backup')
         binds[target_dir] = create_bind('/backup', False)
@@ -161,6 +163,8 @@ class DockerVolumeManager(object):
         backup_filename=os.path.expanduser(os.path.join(target_dir, filename))
         return dict(
             params=params,
+            volume_mappings=volume_mappings,
+            binds=binds,
             filename=backup_filename,
             container=container.get('Id'),
             response=response
@@ -197,7 +201,7 @@ def main():
         filename      = result['filename'],
         result        = result,
         ansible_facts = dict(filename=result['filename']),
-        changed       = False
+        changed       = True
     )
 
 

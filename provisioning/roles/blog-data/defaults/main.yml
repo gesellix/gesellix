@@ -1,3 +1,7 @@
 ---
 blog_data_image: gesellix/gesellix.net:latest
 blog_data_container: blog-data
+blog_image: gesellix/gesellix.net:latest
+blog_container: blog
+blog_port_intern: 2368
+blog_port_extern: 127.0.0.1:12368

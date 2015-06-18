@@ -27,11 +27,10 @@
   hosts: blog
   tags: blog
   roles:
-    - blog-data
-#    - blog
+    - blog
 
-#- name: proxy
-#  hosts: blog
-#  tags: proxy
-#  roles:
-#    - proxy
+- name: proxy
+  hosts: blog
+  tags: proxy
+  roles:
+    - proxy

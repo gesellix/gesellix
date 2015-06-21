@@ -1,2 +1,47 @@
 ---
-- debug: msg="todo"
+- name: collect docker facts
+  docker_facts:
+    name: blog
+  register: docker_facts
+#- debug: var=containers
+#- debug: var=inspected.NetworkSettings.IPAddress
+
+- name: directory for haproxy configuration should exist
+  file: path=/opt/haproxy state=directory
+
+- name: update haproxy configuration
+  template: src=haproxy.cfg.j2 dest=/opt/haproxy/haproxy.cfg
+  register: haproxy_config
+
+- name: create ssl-certs group
+  group: name=ssl-cert state=present
+  sudo: yes
+- name: add proxy user to ssl-certs group
+  user: name=docker groups=ssl-cert
+  sudo: yes
+
+- name: ensure ssl private dir exists
+  file: path=/opt/haproxy/private mode=700 state=directory owner=root
+  sudo: yes
+- name: copy the private key
+  copy:
+    content: "{{cert_chain_with_key}}"
+    dest: "/opt/haproxy/private/gesellix.net.pem"
+    mode: 640
+    group: ssl-cert
+  sudo: yes
+
+- name: start or update container
+  docker:
+    image: "haproxy:1.5"
+    name: proxy
+    volumes:
+      - "/opt/haproxy/private/gesellix.net.pem:/haproxy-override/gesellix.net.pem:ro"
+      - "/opt/haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro"
+    env:
+      BLOG_IP: "{{ inspected.NetworkSettings.IPAddress }}"
+      BLOG_PORT: 2368
+    expose: 80,81,443
+    ports: "9980:80/tcp,9981:81/tcp,443:443/tcp"
+    state: "{{ (haproxy_config|changed) | ternary('restarted','reloaded') }}"
+    restart_policy: always

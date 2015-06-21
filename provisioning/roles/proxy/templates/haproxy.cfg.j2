@@ -1,0 +1,50 @@
+global
+{#  debug#}
+  maxconn 2000
+{#  user  haproxy#}
+{#  group haproxy#}
+  pidfile /var/run/haproxy.pid
+  log   127.0.0.1       local0
+  stats socket /var/run/haproxy.sock mode 777
+  spread-checks 5
+  tune.ssl.default-dh-param 2048
+
+defaults
+  log global
+  mode http
+  balance roundrobin
+  maxconn 1000
+  option httplog
+  option abortonclose
+  option httpclose
+  option forwardfor
+  retries 3
+  option redispatch
+  timeout client  5s
+  timeout connect 10s
+  timeout server  10s
+  option httpchk HEAD /admin?stats HTTP/1.0
+  timeout check 5s
+
+listen admin
+  bind *:81
+  stats enable
+  stats uri /admin?stats
+  stats refresh 15s
+  stats realm stats
+{#  stats auth {{ haproxy.username }}:{{ haproxy.password }}#}
+
+frontend web
+  bind *:80
+  bind *:443 ssl crt /haproxy-override/gesellix.net.pem
+  redirect scheme https if !{ ssl_fc }
+  mode http
+  option http-server-close
+  option forceclose
+  default_backend blog
+
+backend blog
+  http-request set-header X-Forwarded-Port %[dst_port]
+  http-request add-header X-Forwarded-Proto https if { ssl_fc }
+
+  server ghost-blog ${BLOG_IP}:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100

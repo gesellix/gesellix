@@ -113,19 +113,38 @@ class DockerFacts(object):
 
         return containers_by_name
 
+    def inspect_container(self, name):
+        params = {
+            'container': name
+        }
+        container = self.client.inspect_container(**params)
+        return container
+
 
 def main():
     module = AnsibleModule(
         argument_spec=dict(
+            name=dict(type='str', required=False, default=''),
         )
     )
 
+    params = module.params
+
+    name = params['name']
+
     docker_facts = DockerFacts(module)
     existing_containers = docker_facts.list_existing_containes()
+    inspected_container = {}
+
+    if name != '':
+        inspected_container = docker_facts.inspect_container(name)
 
     module.exit_json(
         containers=existing_containers,
-        ansible_facts=dict(containers=existing_containers),
+        inspected=inspected_container,
+        ansible_facts=dict(
+            containers=existing_containers,
+            inspected=inspected_container),
         changed=False
     )
 

@@ -3,8 +3,6 @@
   docker_facts:
   register: docker_facts
 
-- debug: var=containers
-
 - name: pull image
   command: "docker pull {{blog_data_image}}"
   register: pulled_blog_data_image
@@ -73,7 +71,8 @@
   docker:
     name: "{{blog_container}}"
     image: "{{blog_image}}"
-    ports: "{{blog_port_extern}}:{{blog_port_intern}}/tcp"
+    expose: "{{blog_port_intern}}/tcp"
+#    ports: "{{blog_port_extern}}:{{blog_port_intern}}/tcp"
     volumes_from: "{{blog_data_container}}"
     restart_policy: always
     state: reloaded

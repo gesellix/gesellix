@@ -72,7 +72,6 @@
     name: "{{blog_container}}"
     image: "{{blog_image}}"
     expose: "{{blog_port_intern}}/tcp"
-#    ports: "{{blog_port_extern}}:{{blog_port_intern}}/tcp"
     volumes_from: "{{blog_data_container}}"
     restart_policy: always
     state: reloaded

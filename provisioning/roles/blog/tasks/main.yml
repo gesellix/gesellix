@@ -62,7 +62,7 @@
     name: "{{blog_data_container}}"
     source_file: "{{backup.filename}}"
   register: restore
-  when: backup|changed or blog_data_container not in containers.keys()
+  when: backup|changed or (blog_data_container not in containers.keys() and 'filename' in backup)
 
 - debug: var=restore.filename
   when: backup|changed or blog_data_container not in containers.keys()

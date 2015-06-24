@@ -32,7 +32,7 @@ listen admin
   stats uri /admin?stats
   stats refresh 15s
   stats realm stats
-{#  stats auth {{ haproxy.username }}:{{ haproxy.password }}#}
+  stats auth {{ haproxy.username }}:{{ haproxy.password }}
 
 frontend web
   bind *:80

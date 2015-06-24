@@ -29,6 +29,12 @@
   roles:
     - blog
 
+- name: keepass
+  hosts: keepass
+  tags: keepass
+  roles:
+    - keepass
+
 - name: proxy
   hosts: blog
   tags: proxy

@@ -1,2 +1,77 @@
 ---
-- debug: msg="todo"
+- name: collect docker facts
+  docker_facts:
+  register: docker_facts
+
+- name: pull image
+  command: "docker pull {{keepass_data_image}}"
+  register: pulled_keepass_data_image
+  changed_when: "'Downloaded newer image' in pulled_keepass_data_image.stdout"
+
+- name: create data container when missing
+  docker:
+    name: "{{keepass_data_container}}"
+    image: "{{keepass_data_image}}"
+    detach: false
+    volumes: /keepass/local
+    state: present
+  when: keepass_data_container not in containers.keys()
+
+- name: pull image
+  command: "docker pull {{keepass_image}}"
+  register: pulled_keepass_image
+  changed_when: "'Downloaded newer image' in pulled_keepass_image.stdout"
+
+- name: remove keepass container on image update
+  docker:
+    name: "{{keepass_container}}"
+    image: "{{keepass_image}}"
+    state: absent
+  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
+
+- name: backup data container on image update
+  docker_volume:
+    task: backup
+    name: "{{keepass_data_container}}"
+    target_dir: "/backup"
+  register: backup
+  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
+
+- debug: var=backup.filename
+  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
+
+- name: remove data container
+  docker:
+    name: "{{keepass_data_container}}"
+    image: "{{keepass_data_image}}"
+    state: absent
+  when: backup|changed
+
+- name: create data container on image update
+  docker:
+    name: "{{keepass_data_container}}"
+    image: "{{keepass_data_image}}"
+    detach: false
+    volumes: /keepass/local
+    state: present
+  when: backup|changed or pulled_keepass_image|changed or pulled_keepass_data_image|changed
+
+- name: restore data container
+  docker_volume:
+    task: restore
+    name: "{{keepass_data_container}}"
+    source_file: "{{backup.filename}}"
+  register: restore
+  when: backup|changed or (keepass_data_container not in containers.keys() and 'filename' in backup)
+
+- debug: var=restore.filename
+  when: backup|changed or keepass_data_container not in containers.keys()
+
+- name: start keepass container
+  docker:
+    name: "{{keepass_container}}"
+    image: "{{keepass_image}}"
+    expose: "{{keepass_port_intern}}/tcp"
+    volumes_from: "{{keepass_data_container}}"
+    restart_policy: always
+    state: reloaded

@@ -1,0 +1,7 @@
+---
+keepass_data_image: gesellix/keepass-node:latest
+keepass_data_container: keepass-data
+keepass_image: gesellix/keepass-node:latest
+keepass_container: keepass
+keepass_port_intern: 8443
+keepass_port_extern: 127.0.0.1:18443

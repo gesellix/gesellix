@@ -92,7 +92,7 @@ class DockerFacts(object):
         return DockerClient(base_url=docker_url,
                             tls=tls_config)
 
-    def list_existing_containes(self):
+    def list_existing_containers(self):
         params = {
             'all': True
         }
@@ -124,27 +124,29 @@ class DockerFacts(object):
 def main():
     module = AnsibleModule(
         argument_spec=dict(
-            name=dict(type='str', required=False, default=''),
+            names=dict(type='list', required=False, default=None),
         )
     )
 
     params = module.params
 
-    name = params['name']
+    names = params['names']
 
     docker_facts = DockerFacts(module)
-    existing_containers = docker_facts.list_existing_containes()
-    inspected_container = {}
+    existing_containers = docker_facts.list_existing_containers()
+    inspected_containers = {}
 
-    if name != '':
-        inspected_container = docker_facts.inspect_container(name)
+    if names:
+        for name in names:
+            inspected_containers[name] = docker_facts.inspect_container(name)
+
 
     module.exit_json(
         containers=existing_containers,
-        inspected=inspected_container,
+        inspected=inspected_containers,
         ansible_facts=dict(
             containers=existing_containers,
-            inspected=inspected_container),
+            inspected=inspected_containers),
         changed=False
     )
 

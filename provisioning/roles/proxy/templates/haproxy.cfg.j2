@@ -58,6 +58,6 @@ backend keepass
   http-request set-header X-Forwarded-Port %[dst_port]
   http-request add-header X-Forwarded-Proto https if { ssl_fc }
 
-  reqrep ^([^\ ]*\ /)web1[/]?(.*)     \1\2
+  reqrep ^([^\ ]*\ /)keepass[/]?(.*)     \1\2
 
-  server keepass ${KEEPASS_IP}:${KEEPASS_PORT} check fall 2 rise 2 observe layer7 weight 100
+  server keepass ${KEEPASS_IP}:${KEEPASS_PORT} weight 100

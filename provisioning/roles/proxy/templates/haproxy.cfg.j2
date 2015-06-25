@@ -41,6 +41,11 @@ frontend web
   mode http
   option http-server-close
   option forceclose
+
+  #acl routing to backend
+  acl keepass_path path_beg /keepass
+
+  use_backend keepass if keepass_path
   default_backend blog
 
 backend blog
@@ -48,3 +53,11 @@ backend blog
   http-request add-header X-Forwarded-Proto https if { ssl_fc }
 
   server ghost-blog ${BLOG_IP}:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100
+
+backend keepass
+  http-request set-header X-Forwarded-Port %[dst_port]
+  http-request add-header X-Forwarded-Proto https if { ssl_fc }
+
+  reqrep ^([^\ ]*\ /)web1[/]?(.*)     \1\2
+
+  server keepass ${KEEPASS_IP}:${KEEPASS_PORT} check fall 2 rise 2 observe layer7 weight 100

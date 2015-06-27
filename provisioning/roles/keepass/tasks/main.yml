@@ -3,6 +3,13 @@
   docker_facts:
   register: docker_facts
 
+- name: directory for keepass configuration should exist
+  file: path=/opt/keepass state=directory
+
+- name: update keepass configuration
+  template: src=keepass-node-config.js.j2 dest=/opt/keepass/keepass-node-config.js
+  register: keepass_config
+
 - name: pull image
   command: "docker pull {{keepass_data_image}}"
   register: pulled_keepass_data_image
@@ -72,6 +79,8 @@
     name: "{{keepass_container}}"
     image: "{{keepass_image}}"
     expose: "{{keepass_port_intern}}/tcp"
+    volumes:
+      - "/opt/keepass/keepass-node-config.js:/keepass/keepass-node-config.js:ro"
     volumes_from: "{{keepass_data_container}}"
     restart_policy: always
     state: reloaded

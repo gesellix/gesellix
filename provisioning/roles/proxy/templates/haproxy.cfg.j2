@@ -42,6 +42,13 @@ frontend web
   option http-server-close
   option forceclose
 
+  errorfile  503 /haproxy-override/maintenance.http
+
+  # maintenance mode - disabled by default
+  acl web_maintenance src --
+  acl web_maintenance_ex src --
+  use_backend web_maintenance if web_maintenance !web_maintenance_ex
+
   #acl routing to backend
   acl keepass_path path_beg /keepass
 
@@ -52,7 +59,7 @@ backend blog
   http-request set-header X-Forwarded-Port %[dst_port]
   http-request add-header X-Forwarded-Proto https if { ssl_fc }
 
-  server ghost-blog ${BLOG_IP}:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100
+  server blog ${BLOG_IP}:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100
 
 backend keepass
   http-request set-header X-Forwarded-Port %[dst_port]
@@ -61,3 +68,23 @@ backend keepass
   reqrep ^([^\ ]*\ /)keepass[/]?(.*)     \1\2
 
   server keepass ${KEEPASS_IP}:${KEEPASS_PORT} weight 100
+
+backend web_maintenance
+  mode http
+  errorfile  503 /haproxy-override/maintenance.http
+
+
+#
+# https://gist.github.com/sts/62d8dd59221ab68661aa
+#
+# Control the maintenance page during runtime using the stats socket:
+#
+# To put the whole site in maintenance mode (for all IPs):
+# > add acl #0 0.0.0.0/0
+#
+# To exclude your own ip, so you are able to test things out:
+# > add acl #1 8.8.8.8
+#
+# To exit maintenance mode again simply remove the mask from #0 again:
+# > del acl #0 0.0.0.0/0
+#

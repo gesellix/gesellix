@@ -8,6 +8,7 @@ global
   stats socket /var/run/haproxy.sock mode 777
   spread-checks 5
   tune.ssl.default-dh-param 2048
+{# todo check browser compatibility (e.g. at ssllabs.com)#}
 {#  ssl-default-bind-options no-sslv3 no-tls-tickets force-tlsv12#}
   ssl-default-bind-options no-sslv3 no-tlsv10
 {#  ssl-default-bind-ciphers AES128+EECDH:AES128+EDH#}

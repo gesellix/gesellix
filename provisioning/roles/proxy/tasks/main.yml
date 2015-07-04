@@ -51,5 +51,6 @@
       KEEPASS_PORT: 8443
     expose: 80,81,443
     ports: "80:80/tcp,81:81/tcp,443:443/tcp"
-    state: "{{ (haproxy_config|changed) | ternary('restarted','reloaded') }}"
+    state: reloaded
+#    state: "{{ (haproxy_config|changed) | ternary('restarted','reloaded') }}"
     restart_policy: always

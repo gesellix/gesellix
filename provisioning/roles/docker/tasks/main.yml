@@ -1,12 +1,12 @@
 ---
 - name: install apt-transport-https
   apt: name=apt-transport-https state=latest update_cache=yes cache_valid_time=86400
-- name: add key for apt repository
-  apt_key: keyserver=hkp://keyserver.ubuntu.com:80 id=36A1D7869245C8950F966E92D8576A8BA88D21E9 state=present
-- name: add apt repository
-  apt_repository: repo="deb https://get.docker.com/ubuntu docker main" state=present update_cache=yes
+- name: add key for new apt repository
+  apt_key: keyserver=hkp://keyserver.ubuntu.com:80 id=58118E89F3A912897C070ADBF76221572C52609D state=present
+- name: add new apt repository
+  apt_repository: repo="deb https://apt.dockerproject.org/repo ubuntu-precise main" state=present update_cache=yes
 - name: install docker
-  apt: name=lxc-docker state=present
+  apt: name=docker-engine state=present
 - name: make docker service start on boot
   service: name=docker enabled=yes
 - name: start docker service

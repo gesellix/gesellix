@@ -138,7 +138,8 @@ def main():
 
     if names:
         for name in names:
-            inspected_containers[name] = docker_facts.inspect_container(name)
+            if name in existing_containers:
+                inspected_containers[name] = docker_facts.inspect_container(name)
 
 
     module.exit_json(

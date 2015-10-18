@@ -5,6 +5,7 @@
   apt_key: keyserver=hkp://keyserver.ubuntu.com:80 id=58118E89F3A912897C070ADBF76221572C52609D state=present
 - name: add new apt repository
   apt_repository: repo="deb https://apt.dockerproject.org/repo ubuntu-precise main" state=present update_cache=yes
+# TODO explicitly configure the desired storage driver (currently OverlayFS)
 - name: install docker
   apt: name=docker-engine state=present
 - name: make docker service start on boot

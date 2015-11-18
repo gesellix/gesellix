@@ -3,8 +3,8 @@
 import docker.client
 import docker.utils
 import os
-from urlparse import urlparse
 from docker import Client as DockerClient
+from urlparse import urlparse
 
 
 class DockerFacts(object):
@@ -120,12 +120,27 @@ class DockerFacts(object):
         container = self.client.inspect_container(**params)
         return container
 
+    def get_container_env(self, name):
+        params = {
+            'container': name
+        }
+        container = self.client.inspect_container(**params)
+
+        def env_by_key(acc, env):
+            k, v = env.strip().split('=')
+            acc[k] = v
+            return acc
+
+        container_env = reduce(env_by_key, container.get('Config').get('Env'), {})
+
+        return container_env
+
 
 def main():
     module = AnsibleModule(
-        argument_spec=dict(
-            names=dict(type='list', required=False, default=None),
-        )
+            argument_spec=dict(
+                    names=dict(type='list', required=False, default=None),
+            )
     )
 
     params = module.params
@@ -135,20 +150,22 @@ def main():
     docker_facts = DockerFacts(module)
     existing_containers = docker_facts.list_existing_containers()
     inspected_containers = {}
+    container_env = {}
 
     if names:
         for name in names:
             if name in existing_containers:
                 inspected_containers[name] = docker_facts.inspect_container(name)
-
+                container_env[name] = docker_facts.get_container_env(name)
 
     module.exit_json(
-        containers=existing_containers,
-        inspected=inspected_containers,
-        ansible_facts=dict(
             containers=existing_containers,
-            inspected=inspected_containers),
-        changed=False
+            inspected=inspected_containers,
+            ansible_facts=dict(
+                    containers=existing_containers,
+                    inspected=inspected_containers,
+                    container_env=container_env),
+            changed=False
     )
 
 

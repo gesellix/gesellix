@@ -97,7 +97,7 @@ class DockerVolumeManager(object):
         details = self.client.inspect_container(container['name'])
         image = details['Image']
 
-        volume_mappings = details['Volumes']
+        volume_mappings = details['Config']['Volumes']
         volumes = volume_mappings.keys()
 
         def create_bind(volume_name,ro=False):
@@ -135,7 +135,7 @@ class DockerVolumeManager(object):
         details = self.client.inspect_container(container['name'])
         image = details['Image']
 
-        volume_mappings = details['Volumes']
+        volume_mappings = details['Config']['Volumes']
         volumes = volume_mappings.keys()
 
         def create_bind(volume_name,ro=True):
@@ -147,7 +147,9 @@ class DockerVolumeManager(object):
         binds[target_dir] = create_bind('/backup', False)
         filename = str(uuid.uuid4()) + '.tgz'
 
-        backup_command = 'sh -c "tar cfz /backup/{filename} -C / {volumes}"'.format(filename=filename, volumes=' '.join(details['Volumes'].keys()))
+        backup_command = 'sh -c "tar cfz /backup/{filename} -C / {volumes}"'.format(
+                filename=filename,
+                volumes=' '.join(details['Config']['Volumes'].keys()))
 
         params = {
             'image':       image,

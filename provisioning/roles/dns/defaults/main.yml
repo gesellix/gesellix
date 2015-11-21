@@ -1,0 +1,5 @@
+---
+dns_image: gesellix/mini-dns:latest
+dns_container: dns
+dns_port_intern: 5353
+dns_port_extern: 127.0.0.1:5353

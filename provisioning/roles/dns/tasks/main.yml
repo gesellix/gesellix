@@ -1,0 +1,21 @@
+---
+- name: pull image
+  command: "docker pull {{dns_image}}"
+  register: pulled_dns_image
+  changed_when: "'Downloaded newer image' in pulled_dns_image.stdout"
+
+- name: remove dns container on image update
+  docker:
+    name: "{{dns_container}}"
+    image: "{{dns_image}}"
+    state: absent
+  when: pulled_dns_image|changed
+
+- name: start dns container
+  docker:
+    name: "{{dns_container}}"
+    image: "{{dns_image}}"
+    expose: "{{dns_port_extern}}"
+    ports: "{{dns_port_extern}}:{{dns_port_intern}}/udp"
+    state: reloaded
+    restart_policy: always

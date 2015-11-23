@@ -5,3 +5,6 @@
 - name: enforce public/private key authentication
   lineinfile: line="PasswordAuthentication no" regexp="^PasswordAuthentication\s.*$" dest=/etc/ssh/sshd_config
   notify: restart ssh
+- name: allow only known users
+  lineinfile: line="AllowUsers {{ssh_usernames | join(' ')}}" regexp="^AllowUsers\s.*$" dest=/etc/ssh/sshd_config
+  notify: restart ssh

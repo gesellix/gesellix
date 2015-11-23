@@ -35,8 +35,20 @@
   roles:
     - keepass
 
+- name: dns
+  hosts: dns
+  tags: dns
+  roles:
+    - dns
+
 - name: proxy
-  hosts: blog
+  hosts: proxy
   tags: proxy
   roles:
     - proxy
+
+#- name: debug
+#  hosts: all
+#  tags: debug
+#  roles:
+#    - debug

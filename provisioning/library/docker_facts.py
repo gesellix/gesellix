@@ -127,7 +127,7 @@ class DockerFacts(object):
         container = self.client.inspect_container(**params)
 
         def env_by_key(acc, env):
-            k, v = env.strip().split('=')
+            k, v = env.strip().split('=', 1)
             acc[k] = v
             return acc
 

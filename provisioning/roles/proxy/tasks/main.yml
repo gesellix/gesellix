@@ -2,9 +2,12 @@
 - name: collect docker facts
   docker_facts:
     names:
+#      - dns
       - blog
       - keepass
   register: docker_facts
+#  changed_when: inspected['proxy'] is defined and inspected['dns'] is defined and (inspected['dns'].NetworkSettings.IPAddress != container_env['proxy']['DNS_ADDR'])
+
 #- debug: var=containers
 #- debug: var=inspected
 
@@ -31,20 +34,21 @@
 - name: copy the private key
   copy:
     content: "{{cert_chain_with_key}}"
-    dest: "/opt/haproxy/private/gesellix.net.pem"
+    dest: "/opt/haproxy/private/cert.pem"
     mode: 640
     group: ssl-cert
   sudo: yes
 
 - name: start or update container
   docker:
-    image: "haproxy:1.5"
+    image: "haproxy:1.6"
     name: proxy
     volumes:
-      - "/opt/haproxy/private/gesellix.net.pem:/haproxy-override/gesellix.net.pem:ro"
+      - "/opt/haproxy/private/cert.pem:/haproxy-override/cert.pem:ro"
       - "/opt/haproxy/maintenance.http:/haproxy-override/maintenance.http:ro"
       - "/opt/haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro"
     env:
+#      DNS_ADDR: "{{ inspected['dns'].NetworkSettings.IPAddress }}"
       BLOG_IP: "{{ inspected['blog'].NetworkSettings.IPAddress }}"
       BLOG_PORT: 2368
       KEEPASS_IP: "{{ inspected['keepass'].NetworkSettings.IPAddress }}"
@@ -52,5 +56,5 @@
     expose: 80,81,443
     ports: "80:80/tcp,81:81/tcp,443:443/tcp"
     state: reloaded
-#    state: "{{ (haproxy_config|changed) | ternary('restarted','reloaded') }}"
+#    state: "{{ ((haproxy_config|changed) or (docker_facts|changed)) | ternary('restarted','reloaded') }}"
     restart_policy: always

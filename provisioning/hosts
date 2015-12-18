@@ -1,7 +1,19 @@
-gesellix ansible_ssh_host=www.gesellix.net ansible_ssh_user=robot ansible_sudo=true
+# www.gesellix.net
+gesellix  ansible_ssh_host=178.79.171.218   ansible_ssh_user=robot ansible_sudo=true
+# ci.gesellix.net
+gesellix2 ansible_ssh_host=139.162.145.228  ansible_ssh_user=robot ansible_sudo=true
+
+#[dns]
+#gesellix2
 
 [blog]
 gesellix
+gesellix2
 
 [keepass]
 gesellix
+gesellix2
+
+[proxy]
+gesellix
+gesellix2

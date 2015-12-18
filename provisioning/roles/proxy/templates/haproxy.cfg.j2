@@ -61,7 +61,7 @@ frontend web
   use_backend web_maintenance if web_maintenance !web_maintenance_ex
 
   #acl routing to backend
-  acl keepass_path path_beg /keepass
+  acl keepass_path path_reg ^/keepass/.*$
 
   use_backend keepass if keepass_path
   default_backend blog

@@ -8,6 +8,11 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -y software-properties-common
     && DEBIAN_FRONTEND=noninteractive apt-get update \
     && DEBIAN_FRONTEND=noninteractive apt-get install -y ansible python python-simplejson
 
+# workaround for Ansible <= 1.9.4
+# see https://github.com/ansible/ansible-modules-core/pull/2258
+RUN find . -type f -name "docker.py" -exec sed -i "s/image\['ContainerConfig'\]\['ExposedPorts'\]/image['ContainerConfig'].get('ExposedPorts')/g" {} +
+RUN find . -type f -name "docker.py" -exec sed -i "s/container\[\"Config\"]\[\"ExposedPorts\"\]/container['Config'].get('ExposedPorts')/g" {} +
+
 WORKDIR /ansible
 ADD . /ansible
 

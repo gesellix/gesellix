@@ -14,6 +14,7 @@ RUN find . -type f -name "docker.py" -exec sed -i "s/image\['ContainerConfig'\]\
 RUN find . -type f -name "docker.py" -exec sed -i "s/container\[\"Config\"]\[\"ExposedPorts\"\]/container['Config'].get('ExposedPorts')/g" {} +
 
 WORKDIR /ansible
+ADD ./known_hosts /root/.ssh/known_hosts
 ADD . /ansible
 
 CMD ["ansible", "--version"]

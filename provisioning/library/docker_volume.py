@@ -4,11 +4,11 @@ import docker.client
 import docker.utils
 import os
 import uuid
-from urlparse import urlparse
 from docker import Client as DockerClient
+from urlparse import urlparse
+
 
 class DockerVolumeManager(object):
-
     def __init__(self, module):
         self.module = module
         self.client = self.create_docker_client(module)
@@ -100,8 +100,8 @@ class DockerVolumeManager(object):
         volume_mappings = details['Config']['Volumes']
         volumes = volume_mappings.keys()
 
-        def create_bind(volume_name,ro=False):
-            return dict(bind=volume_name,ro=ro)
+        def create_bind(volume_name, ro=False):
+            return dict(bind=volume_name, ro=ro)
 
         binds = dict(zip(volume_mappings.values(), map(create_bind, volume_mappings.keys())))
 
@@ -112,9 +112,9 @@ class DockerVolumeManager(object):
         restore_command = 'sh -c "tar xfz /backup/{filename} --overwrite -C /"'.format(filename=filename)
 
         params = {
-            'image':       image,
-            'command':     restore_command,
-            'volumes':     volumes,
+            'image': image,
+            'command': restore_command,
+            'volumes': volumes,
             'host_config': docker.utils.create_host_config(binds=binds)
         }
         container = self.client.create_container(**params)
@@ -123,12 +123,12 @@ class DockerVolumeManager(object):
         self.client.remove_container(container=container.get('Id'))
 
         return dict(
-            params=params,
-            volume_mappings=volume_mappings,
-            binds=binds,
-            filename=filename,
-            container=container.get('Id'),
-            response=response
+                params=params,
+                volume_mappings=volume_mappings,
+                binds=binds,
+                filename=filename,
+                container=container.get('Id'),
+                response=response
         )
 
     def backup_volumes(self, container, target_dir):
@@ -138,8 +138,8 @@ class DockerVolumeManager(object):
         volume_mappings = details['Config']['Volumes']
         volumes = volume_mappings.keys()
 
-        def create_bind(volume_name,ro=True):
-            return dict(bind=volume_name,ro=ro)
+        def create_bind(volume_name, ro=True):
+            return dict(bind=volume_name, ro=ro)
 
         binds = dict(zip(volume_mappings.values(), map(create_bind, volume_mappings.keys())))
 
@@ -152,9 +152,9 @@ class DockerVolumeManager(object):
                 volumes=' '.join(details['Config']['Volumes'].keys()))
 
         params = {
-            'image':       image,
-            'command':     backup_command,
-            'volumes':     volumes,
+            'image': image,
+            'command': backup_command,
+            'volumes': volumes,
             'host_config': docker.utils.create_host_config(binds=binds)
         }
         container = self.client.create_container(**params)
@@ -162,24 +162,25 @@ class DockerVolumeManager(object):
         self.client.wait(container=container.get('Id'))
         self.client.remove_container(container=container.get('Id'))
 
-        backup_filename=os.path.expanduser(os.path.join(target_dir, filename))
+        backup_filename = os.path.expanduser(os.path.join(target_dir, filename))
         return dict(
-            params=params,
-            volume_mappings=volume_mappings,
-            binds=binds,
-            filename=backup_filename,
-            container=container.get('Id'),
-            response=response
+                params=params,
+                volume_mappings=volume_mappings,
+                binds=binds,
+                filename=backup_filename,
+                container=container.get('Id'),
+                response=response
         )
+
 
 def main():
     module = AnsibleModule(
-        argument_spec = dict(
-            task        = dict(type='str', required=True),
-            name        = dict(type='str', required=True),
-            target_dir  = dict(type='str', required=False),
-            source_file = dict(type='str', required=False)
-        )
+            argument_spec=dict(
+                    task=dict(type='str', required=True),
+                    name=dict(type='str', required=True),
+                    target_dir=dict(type='str', required=False),
+                    source_file=dict(type='str', required=False)
+            )
     )
 
     params = module.params
@@ -189,21 +190,21 @@ def main():
     task = params['task']
     if task == 'backup':
         result = manager.backup_volumes(
-            dict(name=params['name']),
-            os.path.expanduser(params['target_dir']))
+                dict(name=params['name']),
+                os.path.expanduser(params['target_dir']))
     elif task == 'restore':
         result = manager.restore_volumes(
-            dict(name=params['name']),
-            os.path.expanduser(params['source_file']))
+                dict(name=params['name']),
+                os.path.expanduser(params['source_file']))
     else:
         module.fail_json(msg='Unrecognized task %s. Must be one of: '
                              'backup; restore.' % task)
 
     module.exit_json(
-        filename      = result['filename'],
-        result        = result,
-        ansible_facts = dict(filename=result['filename']),
-        changed       = True
+            filename=result['filename'],
+            result=result,
+            ansible_facts=dict(filename=result['filename']),
+            changed=True
     )
 
 

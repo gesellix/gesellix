@@ -16,7 +16,7 @@
     - whois
 - name: install pip
   easy_install: name=pip
-- pip: name=docker-py version=1.5.0
+- pip: name=docker-py version=1.6.0
 - pip: name=httplib2
 - pip: name=python-apt
 - apt: name=postfix state=present

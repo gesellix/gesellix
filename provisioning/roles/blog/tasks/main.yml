@@ -31,7 +31,7 @@
 
 - name: backup data container on image update
   docker_volume:
-    task: backup
+    state: backup
     name: "{{blog_data_container}}"
     target_dir: "/backup"
   register: backup
@@ -58,7 +58,7 @@
 
 - name: restore data container
   docker_volume:
-    task: restore
+    state: restore
     name: "{{blog_data_container}}"
     source_file: "{{backup.filename}}"
   register: restore

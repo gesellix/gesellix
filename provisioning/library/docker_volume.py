@@ -92,6 +92,18 @@ class DockerVolumeManager(object):
 
         return DockerClient(base_url=docker_url,
                             tls=tls_config)
+        # return DockerClient(base_url=docker_url,
+        #                     tls=tls_config,
+        #                     version='1.21')
+        #                     version='auto')
+
+    def create_volume(self, name):
+        volume = self.client.create_volume(
+                name=name,
+                driver='local'
+        )
+        # print(volume)
+        return volume
 
     def restore_volumes(self, container, source_file):
         details = self.client.inspect_container(container['name'])
@@ -176,7 +188,7 @@ class DockerVolumeManager(object):
 def main():
     module = AnsibleModule(
             argument_spec=dict(
-                    task=dict(type='str', required=True),
+                    state=dict(type='str', required=True),
                     name=dict(type='str', required=True),
                     target_dir=dict(type='str', required=False),
                     source_file=dict(type='str', required=False)
@@ -187,18 +199,21 @@ def main():
 
     manager = DockerVolumeManager(module)
 
-    task = params['task']
-    if task == 'backup':
+    state = params['state']
+    if state == 'present':
+        result = manager.create_volume(
+                params['name'])
+    elif state == 'backup':
         result = manager.backup_volumes(
                 dict(name=params['name']),
                 os.path.expanduser(params['target_dir']))
-    elif task == 'restore':
+    elif state == 'restore':
         result = manager.restore_volumes(
                 dict(name=params['name']),
                 os.path.expanduser(params['source_file']))
     else:
-        module.fail_json(msg='Unrecognized task %s. Must be one of: '
-                             'backup; restore.' % task)
+        module.fail_json(msg='Unrecognized state %s. Must be one of: '
+                             'present; backup; restore.' % state)
 
     module.exit_json(
             filename=result['filename'],

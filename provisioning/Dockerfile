@@ -1,7 +1,4 @@
-#FROM alpine:3.2
-#RUN apk update && apk add --update-cache -t ansible python
-
-FROM gesellix/ansible:1.9.4
+FROM gesellix/ansible:2.1.0.0
 
 WORKDIR /ansible
 ADD ./known_hosts /root/.ssh/known_hosts

@@ -6,6 +6,8 @@
     - en_US.UTF-8
 - name: update apt cache
   apt: update_cache=yes cache_valid_time=86400
+  become: yes
+  become_user: root
 - name: install packages
   apt: name={{ item }} state=latest
   with_items:
@@ -15,11 +17,21 @@
     - python-setuptools
     - whois
     - haveged
+  become: yes
+  become_user: root
 - name: install pip
   easy_install: name=pip
 - pip: name=docker-py
+  become: yes
+  become_user: root
 - pip: name=docker-compose
+  become: yes
+  become_user: root
 - pip: name=httplib2
 - pip: name=python-apt
 - apt: name=postfix state=present
+  become: yes
+  become_user: root
 - service: name=postfix state=stopped enabled=no
+  become: yes
+  become_user: root

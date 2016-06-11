@@ -1,17 +1,27 @@
 ---
 - name: install apt-transport-https
   apt: name=apt-transport-https state=latest update_cache=yes cache_valid_time=86400
+  become: yes
+  become_user: root
 - name: add key for new apt repository
   apt_key: keyserver=hkp://keyserver.ubuntu.com:80 id=58118E89F3A912897C070ADBF76221572C52609D state=present
 - name: add new apt repository
   apt_repository: repo="deb https://apt.dockerproject.org/repo ubuntu-trusty main" state=present update_cache=yes
+  become: yes
+  become_user: root
 - name: Docker upstart default config file
   template: src=docker-defaults.j2 dest=/etc/default/docker
   notify:
     - restart docker
+  become: yes
+  become_user: root
 - name: install docker
   apt: name=docker-engine state=present
+  become: yes
+  become_user: root
 - name: make docker service start on boot
   service: name=docker enabled=yes
+  become: yes
+  become_user: root
 - name: start docker service
   service: name=docker state=started

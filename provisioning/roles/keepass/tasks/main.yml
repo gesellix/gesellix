@@ -1,7 +1,13 @@
 ---
-- name: collect docker facts
-  docker_facts:
-  register: docker_facts
+- name: check existing local network
+  shell: docker network ls | grep -q local
+  register: net_local
+  changed_when: false
+  failed_when: net_local.rc == 2
+
+- name: ensure local network exists
+  command: docker network create local
+  when: net_local.rc == 1
 
 - name: directory for keepass configuration should exist
   file: path=/opt/keepass state=directory
@@ -9,78 +15,29 @@
 - name: update keepass configuration
   template: src=keepass-node-config.js.j2 dest=/opt/keepass/keepass-node-config.js
   register: keepass_config
+  become: yes
+  become_user: root
 
-- name: pull image
-  command: "docker pull {{keepass_data_image}}"
-  register: pulled_keepass_data_image
-  changed_when: "'Downloaded newer image' in pulled_keepass_data_image.stdout"
+- name: check existing keepass volume
+  shell: docker volume ls | grep -q keepass
+  register: vol_keepass
+  changed_when: false
+  failed_when: vol_keepass.rc == 2
 
-- name: create data container when missing
-  docker:
-    name: "{{keepass_data_container}}"
-    image: "{{keepass_data_image}}"
-    detach: false
-    volumes: /keepass/local
-    state: present
-  when: keepass_data_container not in containers.keys()
-
-- name: pull image
-  command: "docker pull {{keepass_image}}"
-  register: pulled_keepass_image
-  changed_when: "'Downloaded newer image' in pulled_keepass_image.stdout"
-
-- name: remove keepass container on image update
-  docker:
-    name: "{{keepass_container}}"
-    image: "{{keepass_image}}"
-    state: absent
-  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
-
-- name: backup data container on image update
-  docker_volume:
-    state: backup
-    name: "{{keepass_data_container}}"
-    target_dir: "/backup"
-  register: backup
-  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
-
-- debug: var=backup.filename
-  when: pulled_keepass_image|changed or pulled_keepass_data_image|changed
-
-- name: remove data container
-  docker:
-    name: "{{keepass_data_container}}"
-    image: "{{keepass_data_image}}"
-    state: absent
-  when: backup|changed
-
-- name: create data container on image update
-  docker:
-    name: "{{keepass_data_container}}"
-    image: "{{keepass_data_image}}"
-    detach: false
-    volumes: /keepass/local
-    state: present
-  when: backup|changed or pulled_keepass_image|changed or pulled_keepass_data_image|changed
-
-- name: restore data container
-  docker_volume:
-    state: restore
-    name: "{{keepass_data_container}}"
-    source_file: "{{backup.filename}}"
-  register: restore
-  when: backup|changed or (keepass_data_container not in containers.keys() and 'filename' in backup)
-
-- debug: var=restore.filename
-  when: backup|changed or keepass_data_container not in containers.keys()
+- name: ensure keepass volume exists
+  command: docker volume create --name keepass
+  when: vol_keepass.rc == 1
 
 - name: start keepass container
   docker:
-    name: "{{keepass_container}}"
     image: "{{keepass_image}}"
-    expose: "{{keepass_port_intern}}/tcp"
+    pull: always
+    name: "{{keepass_container}}"
     volumes:
       - "/opt/keepass/keepass-node-config.js:/keepass/keepass-node-config.js:ro"
+      - "keepass:/keepass/local"
     volumes_from: "{{keepass_data_container}}"
-    restart_policy: always
+    expose: "{{keepass_port_intern}}/tcp"
+    net: local
     state: reloaded
+    restart_policy: unless-stopped

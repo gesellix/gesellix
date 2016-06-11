@@ -1,60 +1,67 @@
 ---
-- name: collect docker facts
-  docker_facts:
-    names:
-#      - dns
-      - blog
-      - keepass
-  register: docker_facts
-#  changed_when: inspected['proxy'] is defined and inspected['dns'] is defined and (inspected['dns'].NetworkSettings.IPAddress != container_env['proxy']['DNS_ADDR'])
+- name: check existing local network
+  shell: docker network ls | grep -q local
+  register: net_local
+  changed_when: false
+  failed_when: net_local.rc == 2
 
-#- debug: var=containers
-#- debug: var=inspected
+- name: ensure local network exists
+  command: docker network create local
+  when: net_local.rc == 1
 
-- name: directory for haproxy configuration should exist
+- name: ensure directory for haproxy configuration exists
   file: path=/opt/haproxy state=directory
 
 - name: update haproxy configuration
   template: src=haproxy.cfg.j2 dest=/opt/haproxy/haproxy.cfg
   register: haproxy_config
+  become: yes
+  become_user: root
 
 - name: update maintenance stuff
   copy: src=maintenance.http dest=/opt/haproxy/maintenance.http
+  become: yes
+  become_user: root
 
 - name: create ssl-certs group
   group: name=ssl-cert state=present
-  sudo: yes
+  become: yes
+  become_user: root
 - name: add proxy user to ssl-certs group
   user: name=docker groups=ssl-cert
-  sudo: yes
+  become: yes
+  become_user: root
 
 - name: ensure ssl private dir exists
   file: path=/opt/haproxy/private mode=700 state=directory owner=root
-  sudo: yes
+  become: yes
+  become_user: root
 - name: copy the private key
   copy:
     content: "{{cert_chain_with_key}}"
     dest: "/opt/haproxy/private/cert.pem"
     mode: 640
     group: ssl-cert
-  sudo: yes
+    force: no
+  become: yes
+  become_user: root
 
 - name: start or update container
   docker:
     image: "haproxy:1.6"
+    pull: always
     name: proxy
     volumes:
       - "/opt/haproxy/private/cert.pem:/haproxy-override/cert.pem:ro"
       - "/opt/haproxy/maintenance.http:/haproxy-override/maintenance.http:ro"
       - "/opt/haproxy/haproxy.cfg:/usr/local/etc/haproxy/haproxy.cfg:ro"
     env:
-#      DNS_ADDR: "{{ inspected['dns'].NetworkSettings.IPAddress }}"
-      BLOG_IP: "{{ inspected['blog'].NetworkSettings.IPAddress }}"
+      DNS_ADDR: "127.0.0.11"
       BLOG_PORT: 2368
-      KEEPASS_IP: "{{ inspected['keepass'].NetworkSettings.IPAddress }}"
       KEEPASS_PORT: 8443
     expose: 80,81,443
     ports: "80:80/tcp,81:81/tcp,443:443/tcp"
+    net: local
     state: reloaded
 #    state: "{{ ((haproxy_config|changed) or (docker_facts|changed)) | ternary('restarted','reloaded') }}"
-    restart_policy: always
+    restart_policy: unless-stopped

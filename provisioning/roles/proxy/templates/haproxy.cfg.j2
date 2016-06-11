@@ -17,8 +17,8 @@ global
 {#  ssl-default-bind-ciphers ECDHE+aRSA+AES256+GCM+SHA384:ECDHE+aRSA+AES128+GCM+SHA256:ECDHE+aRSA+AES256+SHA384:ECDHE+aRSA+AES128+SHA256:ECDHE+aRSA+RC4+SHA:ECDHE+aRSA+AES256+SHA:ECDHE+aRSA+AES128+SHA:AES256+GCM+SHA384:AES128+GCM+SHA256:AES128+SHA256:AES256+SHA256:DHE+aRSA+AES128+SHA:RC4+SHA:HIGH:!aNULL:!eNULL:!LOW:!3DES:!MD5:!EXP:!PSK:!SRP:!DSS:!RC4#}
   ssl-default-bind-ciphers EECDH+ECDSA+AESGCM:EECDH+aRSA+AESGCM:EECDH+ECDSA+SHA384:EECDH+ECDSA+SHA256:EECDH+aRSA+SHA384:EECDH+aRSA+SHA256:EECDH+aRSA+RC4:EECDH:EDH+aRSA:RC4:!aNULL:!eNULL:!LOW:!3DES:!MD5:!EXP:!PSK:!SRP:!DSS:!RC4
 
-{#resolvers docker#}
-{#  nameserver dns ${DNS_ADDR}:53#}
+resolvers docker
+  nameserver dns ${DNS_ADDR}:53
 
 defaults
   log global
@@ -58,36 +58,32 @@ frontend web
   # maintenance mode - disabled by default
   acl web_maintenance src --
   acl web_maintenance_ex src --
-  use_backend web_maintenance if web_maintenance !web_maintenance_ex
+  use_backend maintenance if web_maintenance !web_maintenance_ex
 
   #acl routing to backend
-  acl keepass_path path_reg ^/keepass/.*$
+  acl sub_keepass   hdr(host) -i keepass.gesellix.net
+  use_backend keepass if sub_keepass
 
-  use_backend keepass if keepass_path
-  default_backend blog
+  default_backend maintenance
 
 backend blog
   http-request set-header X-Forwarded-Port %[dst_port]
   http-request add-header X-Forwarded-Proto https if { ssl_fc }
 
 {#  server blog blog:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100#}
-  server blog ${BLOG_IP}:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100
+  server blog blog:${BLOG_PORT} check resolvers docker resolve-prefer ipv4 fall 2 rise 2 observe layer7 weight 100
 
 backend keepass
+  option httpchk GET / HTTP/1.1\r\nHost:\ www
+
   http-request set-header X-Forwarded-Port %[dst_port]
   http-request add-header X-Forwarded-Proto https if { ssl_fc }
 
-  reqrep ^([^\ ]*\ /)keepass[/]?(.*)     \1\2
+  server keepass keepass:${KEEPASS_PORT} check resolvers docker resolve-prefer ipv4 fall 2 rise 2 observe layer7 weight 100
 
-{#  server keepass keepass:${KEEPASS_PORT} weight 100#}
-  server keepass ${KEEPASS_IP}:${KEEPASS_PORT} weight 100
-
-backend web_maintenance
+backend maintenance
   mode http
   errorfile  503 /haproxy-override/maintenance.http
-
-{#backend docker_app#}
-{#  server app app:8888 check resolvers docker resolve-prefer ipv4#}
 
 #
 # https://gist.github.com/sts/62d8dd59221ab68661aa

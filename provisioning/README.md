@@ -26,6 +26,10 @@ limited to a certain host:
 
     docker run --rm -it -v ~/.gesellix_vault_pass.txt:/root/.gesellix_vault_pass.txt -v ~/.ssh/id_rsa:/root/.ssh/id_rsa gesellix.net ansible-playbook gesellix.yml --vault-password-file=~/.gesellix_vault_pass.txt --ask-sudo-pass --tags "ssh,users" -l gesellix2
 
+
+    docker run --rm -it -v ~/.gesellix_vault_pass.txt:/root/.gesellix_vault_pass.txt -v ~/.ssh/id_rsa:/root/.ssh/id_rsa gesellix.net ansible-playbook gesellix.yml --vault-password-file=~/.gesellix_vault_pass.txt --ask-sudo-pass --tags "docker,keepass,proxy" -l gesellix2
+
+
 ### update `known_hosts`
 
     docker run -it --rm -v `pwd`/known_hosts:/root/.ssh/known_hosts -v ~/.gesellix_vault_pass.txt:/root/.gesellix_vault_pass.txt -v ~/.ssh/id_rsa:/root/.ssh/id_rsa gesellix.net ansible-playbook --vault-password-file=~/.gesellix_vault_pass.txt --ask-sudo-pass --tags=ssh gesellix.yml -l gesellix2

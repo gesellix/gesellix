@@ -6,7 +6,7 @@
     - en_US.UTF-8
 - name: update apt cache
   apt: update_cache=yes cache_valid_time=86400
-- name: install apt packages
+- name: install packages
   apt: name={{ item }} state=latest
   with_items:
     - curl
@@ -14,9 +14,11 @@
     - python2.7
     - python-setuptools
     - whois
+    - haveged
 - name: install pip
   easy_install: name=pip
-- pip: name=docker-py version=1.6.0
+- pip: name=docker-py
+- pip: name=docker-compose
 - pip: name=httplib2
 - pip: name=python-apt
 - apt: name=postfix state=present

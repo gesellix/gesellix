@@ -35,12 +35,6 @@
   roles:
     - keepass
 
-- name: dns
-  hosts: dns
-  tags: dns
-  roles:
-    - dns
-
 - name: proxy
   hosts: proxy
   tags: proxy

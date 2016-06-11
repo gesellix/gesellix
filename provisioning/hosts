@@ -5,9 +5,6 @@ gesellix  ansible_ssh_host=178.79.171.218   ansible_ssh_user=robot ansible_sudo=
 gesellix2 ansible_ssh_host=139.162.145.228  ansible_ssh_user=robot ansible_sudo=true
 
 
-#[dns]
-#gesellix2
-
 [blog]
 gesellix
 gesellix2

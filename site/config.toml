@@ -1,0 +1,13 @@
+baseurl = "https://blog.gesellix.net"
+title = "blog.gesellix.net"
+copyright = "&copy; Tobias Gesellchen"
+
+[params]
+  subtitle = "a senior hipster developer blog"
+  twitter = "gesellix"
+  github = "gesellix"
+#  stackoverflow = "372019"
+#  linkedin = "gesellix"
+#  xing = "Tobias_Gesellchen"
+#  googleplus = "TobiasGesellchen"
+  ga_api_key = "UA-45011104-1"

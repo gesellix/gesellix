@@ -1,5 +1,5 @@
-baseurl = "https://blog.gesellix.net"
-title = "blog.gesellix.net"
+baseurl = "https://www.gesellix.net"
+title = "gesellix.net"
 copyright = "&copy; Tobias Gesellchen"
 
 [params]

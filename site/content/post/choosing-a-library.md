@@ -11,7 +11,7 @@ aliases = ['/choosing-a-library/']
 
 As maintainer for publicly available libraries one sometimes has to answer feature requests or handle feedback about missing features of the library. How does one prepare for different requirements? I'd like to tell you how and why I opted to implement yet another docker http client on my own and I'll also try to explain where I see its benefits and disadvantages.
 
-##not invented here syndrome?
+## not invented here syndrome?
 
 You have probably seen several [Docker remote api client libraries](https://docs.docker.com/reference/api/remote_api_client_libraries/) for different environments or programming languages. During the development of the [Gradle Docker plugin](https://github.com/gesellix/gradle-docker-plugin) I had to choose how to communicate with the Docker remote api. The [Java Docker API Client](https://github.com/docker-java/docker-java) aka docker-java already existed, but wasn't mature enough to simply use it for my needs. Other alternatives have been rare, so I decided to implement the remote api client on my own.
 

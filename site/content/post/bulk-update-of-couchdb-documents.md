@@ -13,7 +13,7 @@ Sometimes you need to apply a change on all of your CouchDB documents. I actuall
 
 CouchDB conceptually doesn't allow you to update a document without knowing its revision, so you would end up reading all your documents, modify them and update them one by one. Sounds nice, eh?
 
-###update handlers
+### update handlers
 There's a better way, though. CouchDB has a concept of [Document Update Handlers](http://wiki.apache.org/couchdb/Document_Update_Handlers), which are saved in the database's design document and are accessible through the HTTP API. The update handler takes a document id and can perform any modification on the referenced document. On success, the changes will be saved as an updated (or newly created) document.
 
 So, in my case, I created an updated handler function `removeProperty` like this:
@@ -36,7 +36,7 @@ As you see, I only need two instructions:
 
 What's missing is how to call the update handler for every document in the database.
 
-###iterating over all document ids
+### iterating over all document ids
 
 First, I got all documents by GETing the `/_all_docs` resource on the database. The response contains an array of all documents with the ids and revisions. I needed to extract the document ids, so the very convenient [jq JSON processor](http://stedolan.github.io/jq/) came into my mind. It allows you to filter any JSON and is very handy when using it in scripts or on the command line. Applying it to the `/_all_docs` response looked like this:
 ```
@@ -62,7 +62,7 @@ Using xargs with the option `-I <anything>` allows you to replace `<anything>` o
 
 Since I implemented the update handler to return the document as JSON, all updated documents had been returned as a response. The complete update results in many requests to the CouchDB, but I didn't notice any problems or performance issues.
 
-###Couchtato
+### Couchtato
 
 My colleagues at [Hypoport](http://blog-it.hypoport.de/) showed me an alternative tool named [Couchtato](https://github.com/cliffano/couchtato). It'll sadly need a bit more setup as only the usual command line tools, but it makes the update look a bit more beautiful than the long and cryptic command line above. I won't go into detail here, everything is explained in the official [readme](https://github.com/cliffano/couchtato/blob/master/README.md).
 

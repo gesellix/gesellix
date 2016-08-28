@@ -11,7 +11,7 @@ aliases = ['/portable-processes-pipeline/']
 
 You have certainly heard about deployment pipelines and Docker. If not, please [read this article](https://gesellix.net/have-fun-with-gradle-and-docker/), as it contains enough links to other relevant posts, articles, and examples.
 
-#Status Quo
+# Status Quo
 Most descriptions of a deployment pipeline describe several steps where application sources are compiled, tested, packaged, and ultimately distributed to a production server. Regardless of the actual language or environments of the application and the deployment pipeline, most of them have one thing in common: the pipeline steps get some artifacts (sources, packages, config) as input, do some stuff with them, and produce another artifact to be used in subsequent steps.
 
 With Docker, the overall concept doesn't need to change. The advantages of Docker are easier setup of a build environment, a faster wrap up for throw-away test environments, and more stable packaging of an application including its runtime dependencies. Containerized builds also provide better encapsulation so that different builds on the same host don't interfere with each other. I have already described a [dockerized pipeline](https://github.com/gesellix/pipeline-with-gradle-and-docker) including example code, while another article (in German) describes a [server agnostic build environment](https://entwickler.de/?p=114302) for a node.js application.
@@ -22,7 +22,7 @@ Along with those concepts you also need to monitor disc space, consider retentio
 
 What if it's ok not to keep the build artifacts around as soon as the production ready artifact has gone live? You might keep older versions available on mirrored production servers, just like a Blue/Green or A/B deployment allows by design. So, being prepared for a rollback doesn't imply to maintain a respository manager, huge storage or similar setup.
 
-#(Trans-) Portable Processes
+# (Trans-) Portable Processes
 Allowing to remove intermediary build artifacts as soon as possible makes you think about variants of the standard pipeline. You might allow to perform several build steps on the sources, compiler artifacts, and packages not by passing the artifacts around, but by subsequently performing different actions on the same data -- in place.
 
 With Docker you'll have a way to describe not only your data in volumes, but you can also describe actions similar to processes, no matter how complex an action is. The fact that every single tool of your toolbox is self contained and executable by a single command makes every action so simple.

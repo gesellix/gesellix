@@ -60,11 +60,15 @@ frontend web
   acl web_maintenance_ex src --
   use_backend maintenance if web_maintenance !web_maintenance_ex
 
+{#  acl want_blog hdr(host) -i blog.gesellix.net#}
+{#  redirect prefix https://www.gesellix.net code 302 if want_blog#}
+
   #acl routing to backend
   acl sub_keepass   hdr(host) -i keepass.gesellix.net
   use_backend keepass if sub_keepass
 
   default_backend maintenance
+{#  default_backend blog#}
 
 backend blog
   http-request set-header X-Forwarded-Port %[dst_port]

@@ -1,0 +1,32 @@
+version: "2"
+
+services:
+  traefik:
+    image: traefik:v1.0.0-rc2
+    ports:
+      - "8081:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - /dev/null:/traefik.toml
+    command: --web --docker --docker.domain=gesellix.net --logLevel=DEBUG --docker.watch
+    restart: unless-stopped
+
+  keepass:
+    image: gesellix/keepass-node:latest
+    depends_on:
+        - traefik
+    ports:
+      - "8843"
+    labels:
+      - "traefik.backend=keepass"
+      - "traefik.port=8443"
+      - "traefik.frontend.rule=Host:keepass.gesellix.net"
+    volumes:
+      - "./keepass-node-config.js:/keepass/keepass-node-config.js:ro"
+      - "keepass-data:/keepass/local"
+    restart: unless-stopped
+
+volumes:
+  keepass-data:
+    external: true

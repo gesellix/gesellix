@@ -60,12 +60,9 @@ frontend web
   acl web_maintenance_ex src --
   use_backend maintenance if web_maintenance !web_maintenance_ex
 
-{#  acl want_blog hdr(host) -i blog.gesellix.net#}
-{#  redirect prefix https://www.gesellix.net code 302 if want_blog#}
-
-  #acl routing to backend
-  acl sub_keepass   hdr(host) -i keepass.gesellix.net
-  use_backend keepass if sub_keepass
+  acl wants_blog hdr(host) -i blog.gesellix.net
+  acl wants_apex hdr(host) -i gesellix.net
+  redirect prefix https://www.gesellix.net code 302 if wants_blog or wants_apex
 
   default_backend maintenance
 {#  default_backend blog#}

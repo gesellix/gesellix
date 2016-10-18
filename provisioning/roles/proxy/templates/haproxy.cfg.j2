@@ -55,32 +55,24 @@ frontend web
 
   errorfile  503 /haproxy-override/maintenance.http
 
+  acl wants_blog hdr(host) -i blog.gesellix.net
+  acl wants_apex hdr(host) -i gesellix.net
+  redirect prefix https://www.gesellix.net code 302 if wants_blog or wants_apex
+
   # maintenance mode - disabled by default
   acl web_maintenance src --
   acl web_maintenance_ex src --
   use_backend maintenance if web_maintenance !web_maintenance_ex
 
-  acl wants_blog hdr(host) -i blog.gesellix.net
-  acl wants_apex hdr(host) -i gesellix.net
-  redirect prefix https://www.gesellix.net code 302 if wants_blog or wants_apex
-
   default_backend maintenance
-{#  default_backend blog#}
 
-backend blog
-  http-request set-header X-Forwarded-Port %[dst_port]
-  http-request add-header X-Forwarded-Proto https if { ssl_fc }
-
-{#  server blog blog:${BLOG_PORT} check fall 2 rise 2 observe layer7 weight 100#}
-  server blog blog:${BLOG_PORT} check resolvers docker resolve-prefer ipv4 fall 2 rise 2 observe layer7 weight 100
-
-backend keepass
-  option httpchk GET / HTTP/1.1\r\nHost:\ www
-
-  http-request set-header X-Forwarded-Port %[dst_port]
-  http-request add-header X-Forwarded-Proto https if { ssl_fc }
-
-  server keepass keepass:${KEEPASS_PORT} check resolvers docker resolve-prefer ipv4 fall 2 rise 2 observe layer7 weight 100
+# backend keepass
+#  option httpchk GET / HTTP/1.1\r\nHost:\ www
+#
+#  http-request set-header X-Forwarded-Port %[dst_port]
+#  http-request add-header X-Forwarded-Proto https if { ssl_fc }
+#
+#  server keepass keepass:${KEEPASS_PORT} check resolvers docker resolve-prefer ipv4 fall 2 rise 2 observe layer7 weight 100
 
 backend maintenance
   mode http

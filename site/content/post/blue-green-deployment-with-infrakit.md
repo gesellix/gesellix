@@ -1,7 +1,7 @@
 
 +++
 date = "2016-10-20"
-draft = true
+draft = false
 title = "Blue/Green Deployment with Docker InfraKit"
 slug = "blue-green-deployment-with-docker-infrakit"
 tags = ['continuous deployment', 'blue/green deployment', 'docker', 'infrakit', 'automation']

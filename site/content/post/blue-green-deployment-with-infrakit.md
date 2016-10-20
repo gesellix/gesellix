@@ -292,3 +292,6 @@ What I wanted to show is another perspective on the tutorial, and show an option
 Since InfraKit is still in an early state there are some options missing - consider security management or notifications to the admin when InfraKit 
 needs to react on an invalid state. Nevertheless there is a huge potential to improve the current state of infrastructure
 management and maybe even service deployment.
+
+The idea behind InfraKit (and SwarmKit being available in the Docker engine) with consensus driven protocols and flexible plugins
+has a huge potential to make our lifes easier in the near future. Now is the time to start playing with the new concepts!

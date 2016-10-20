@@ -295,3 +295,15 @@ management and maybe even service deployment.
 
 The idea behind InfraKit (and SwarmKit being available in the Docker engine) with consensus driven protocols and flexible plugins
 has a huge potential to make our lifes easier in the near future. Now is the time to start playing with the new concepts!
+
+You should watch the Docker repos for new plugins, e.g. like the [AWS plugin](https://github.com/docker/infrakit.aws),
+or discuss with other adopters in the Docker Community [#Infrakit Channel](https://dockercommunity.slack.com/archives/infrakit).
+
+# P.S.
+
+Destroying your infrastructure is maybe too easy:
+
+````
+build/infrakit group destroy app-blue
+build/infrakit group destroy app-green
+````

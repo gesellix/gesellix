@@ -248,7 +248,7 @@ for you to describe the desired state of your whole application setup. Similarly
 
 [Blue/green deployment](http://martinfowler.com/bliki/BlueGreenDeployment.html) is a concept to allow continuous deployment without interrupting your clients' interactions with your app.
 Your clients' don't care about your deployment, in fact: they don't want to be disturbed by technical details. So, in essence, blue/green deployment
-describes how to manage different versions of your app and switching between them with the help pf a reverse proxy in front of them.
+describes how to manage different versions of your app and switching between them with the help of a reverse proxy in front of them.
 Deployments are a multi-step process, where a new version is deployed as an "offline" version and afterwards the reverse proxy is reconfigured to use that fresh release instead of the old one.
 
 Question is: how do you perform your deployments? Some use shell scripts, some use tools originally designed for provisioning (e.g. Puppet or Ansible, which [I described in another article](https://github.com/gesellix/pipeline-with-gradle-and-docker/blob/master/articles/part5.md#ansible-for-application-deployment)), some might leverage modern orchestration tools.

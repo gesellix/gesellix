@@ -1,0 +1,5 @@
+[context.deploy-preview]
+  command = "hugo --buildDrafts --buildFuture -s site -b https://www.gesellix.net/ -t vienna"
+
+[context.deploy-preview.environment]
+  HUGO_VERSION = "0.20"

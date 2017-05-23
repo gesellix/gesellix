@@ -39,9 +39,9 @@ But why all the fuzz about that? Let's first take a look at our status quo in my
 
 We already posted an article series about the way we implemented [a continuous deployment pipeline](http://tech.europace.de/a-continuous-deployment-pipeline-with-gradle-and-docker/).
 The underlying concept hasn't changed too much, so even the [code samples on GitHub](https://github.com/gesellix/pipeline-with-gradle-and-docker)
-are still a good reference is you want to start with a small application with a small number of services.
+are still a good reference if you want to start with a small application with a small number of services.
 
-Meanwhile, our code base has grown... which is certainly a good thing. We still rely on Ansible to perform
+Meanwhile, our code base has grown - which is certainly a good thing. We still rely on Ansible to perform
 provisioning and blue-green deployments. The number of services has grown, though. More advanced stuff has been added,
 e.g. Consul (-template) in combination with Registrator, and NGINX as reverse proxy. Our setup isn't very
 special, there are plenty of articles out there for such a setup and you can find very
@@ -66,7 +66,7 @@ I wish for less abstractions.
 
 Consider the alternative: TeamCity performs a simple `docker -H target.node.local:2376 service update ...`.
 
-Nothing more... yeah, that's kind of an understatement, but you get the idea.
+Nothing more. Yeah, that's kind of an understatement, but you get the idea.
 
 Ansible helped us to drop shell scripts when we started to scale our deployment pipeline with the growing number
 of services and nodes. In fact, we can consider TeamCity + Ansible + Consul + Registrator + Consul Template to be
@@ -86,7 +86,7 @@ Yes. I want the hard coded actual bit to perform a container deployment. But I d
 So I'll need to configure that externally maintained code to fit my needs. I wouldn't really need a full fledged
 rules engine or a special DSL, if the tool of choice is simple enough to use.
 
-There comes the tricky part: _fit my needs ... simple to use_. You might argue that a generic tool won't be possible
+There comes the tricky part: _fit my needs - simple to use_. You might argue that a generic tool won't be possible
 with such constraints. And I guess you're right.
 
 # The Ugly
@@ -125,7 +125,7 @@ made it easy for us to create an example application.
 
 # The Awakening 
 
-The example application is available at [gesellix/graceful-shutdown-spring-boot](https://github.com/gesellix/graceful-shutdown-spring-boot).
+An example application is available at [gesellix/graceful-shutdown-spring-boot](https://github.com/gesellix/graceful-shutdown-spring-boot).
 Since we wanted to check a possible Docker Services setup as potential replacement for our Ansible based deployments,
 the example app can easily be [deployed as a Docker Stack](https://github.com/gesellix/graceful-shutdown-spring-boot#docker-stackservice).
 If you're not familiar with Docker Stacks, I recommend you to read the little introduction at [docs.docker.com](https://docs.docker.com/engine/swarm/stack-deploy/).
@@ -135,8 +135,8 @@ to configure replicas, rolling update policies, and service constraints. The mos
 the service deployment across several nodes. Everything is powered by Docker Swarm, so most you know about Swarm and Docker Services
 also applies to Stacks.
 
-Back to our example stack: it consists of Træfik as Docker aware reverse proxy and the example app as replicated service. To ease
-testing the shutdown hook timeout, a delay can be configured via Spring Boot mechanisms using the `catalina.threadpool.execution.timeout.seconds`
+Back to our example stack: it consists of [Træfik](https://traefik.io/) as Docker aware reverse proxy and the example app as replicated Spring Boot service.
+To ease testing the shutdown hook timeout, a delay can be configured via Spring Boot mechanisms using the `catalina.threadpool.execution.timeout.seconds`
 property. Its value defaults to `30` seconds. Docker also needs to be aware of our delay, so that it won't `SIGKILL` the service
 instances after 10 seconds. The necessary properties (`stop-grace-period` and `update-config.delay`) are already configured
 in the [stack file](https://github.com/gesellix/graceful-shutdown-spring-boot/blob/825b56761c217dcf607f39f4c799b4414eb3a4fe/stack.yml) with a value of 60 seconds. 

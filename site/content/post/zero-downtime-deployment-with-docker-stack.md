@@ -34,6 +34,7 @@ restarts, rolling updates, networking, internal DNS, simple load balancing, and 
 are some of the features you get for free and without much hazzle.
 
 But why all the fuzz about that? Let's first take a look at our status quo in my team.
+If you want to skip the gossip and continue with the real stuff, just head over to the [relevant section below](#the-awakening).
 
 # The Good
 
@@ -140,3 +141,44 @@ To ease testing the shutdown hook timeout, a delay can be configured via Spring 
 property. Its value defaults to `30` seconds. Docker also needs to be aware of our delay, so that it won't `SIGKILL` the service
 instances after 10 seconds. The necessary properties (`stop-grace-period` and `update-config.delay`) are already configured
 in the [stack file](https://github.com/gesellix/graceful-shutdown-spring-boot/blob/825b56761c217dcf607f39f4c799b4414eb3a4fe/stack.yml) with a value of 60 seconds. 
+
+# Get Real
+
+Starting the full stack works like described below. If you didn't already initialize your swarm you're going to need it now:
+
+    docker swarm init 
+
+Then, clone or download the [gesellix/graceful-shutdown-spring-boot](https://github.com/gesellix/graceful-shutdown-spring-boot) repository
+and change into the _graceful-shutdown-spring-boot_ directory. You should find a `stack.yml` file in the repository root.
+
+With the following command you'll advice Docker to create a virtual network named _traefik_, download the necessary Docker images and create
+the configured services _traefik_ and _app_. The stack will be named `grace`:
+
+    docker stack deploy --compose-file stack.yml grace
+
+When all services are running (you can check their current state via `docker stack ps grace`),
+please open your browser at [http://localhost](http://localhost). You should see a little web page with two columns, each
+with a button. The left one allows you to check the basic connectivity by calling the app's echo endpoint. The button in the
+right column allows you to simulate a long running request by generating an endless stream of random bytes. If you click that
+button, the blue area at the bottom should show an increasing number of received bytes.
+
+You can follow the service logs with:
+
+    docker service logs -f grace_app
+
+A service update with task downtime can be triggered e.g. by adding a new environment variable. Please use a new terminal window
+if you're already following the service logs. 
+
+    docker service update --env-add "foo=bar" grace_app
+
+The logs should emit log messages like this one:
+
+> grace_app.1.ki669xys5x6x@moby    | 2017-05-23 12:34:31.981  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Context closed. Going to await termination for 30 SECONDS.
+
+Docker will randomly choose either `grace_app.1` or `grace_app.2`, and your endless request should keep one of both delaying the
+shutdown for 30 seconds. After that delay, a new log message should appear:
+
+> grace_app.1.ki669xys5x6x@moby    | 2017-05-23 12:34:01.989  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Tomcat thread pool did not shut down gracefully within 30 SECONDS. Proceeding with forceful shutdown
+
+So, the application paused the shutdown for 30 seconds, and Docker didn't forcefully kill the container. If you have a look at
+your browser window, the increasing number of received bytes have stopped.

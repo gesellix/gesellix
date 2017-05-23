@@ -112,3 +112,31 @@ our application environment, and some people use Docker. Some use both, just lik
 container to shut down gracefully (see [spring-projects/spring-boot/4657](https://github.com/spring-projects/spring-boot/issues/4657)),
 and some want to perform rolling upgrades with Docker (see [moby/moby/30321](https://github.com/moby/moby/issues/30321)).
 
+We cannot expect from either Spring Boot or Docker, now also known as Moby, to generically keep pending connections
+and block a container shutdown. 
+
+But Brian Goff's [suggestion](https://github.com/moby/moby/issues/30321#issuecomment-296261856) to handle the `TERM` signal
+inside our application made us dig a bit deeper into JVM shutdown hooks.
+Reading the Runtime Javadoc about [addShutdownHook()](https://docs.oracle.com/javase/8/docs/api/java/lang/Runtime.html#addShutdownHook-java.lang.Thread-)
+made us wonder whether the JVM would accept our idea to block the shutdown for several minutes. In fact, you cannot simply ignore
+a statement like _Shutdown hooks should also finish their work quickly_. You never know if you don't try, so we gave
+it a try and using Andy Wilkinson's [code snippet](https://github.com/spring-projects/spring-boot/issues/4657#issuecomment-161354811)
+made it easy for us to create an example application.
+
+# The Awakening 
+
+The example application is available at [gesellix/graceful-shutdown-spring-boot](https://github.com/gesellix/graceful-shutdown-spring-boot).
+Since we wanted to check a possible Docker Services setup as potential replacement for our Ansible based deployments,
+the example app can easily be [deployed as a Docker Stack](https://github.com/gesellix/graceful-shutdown-spring-boot#docker-stackservice).
+If you're not familiar with Docker Stacks, I recommend you to read the little introduction at [docs.docker.com](https://docs.docker.com/engine/swarm/stack-deploy/).
+
+You can consider a Docker Stack to be the extended version of Docker Compose. The difference lies in the additional options
+to configure replicas, rolling update policies, and service constraints. The most important difference to Compose is probably
+the service deployment across several nodes. Everything is powered by Docker Swarm, so most you know about Swarm and Docker Services
+also applies to Stacks.
+
+Back to our example stack: it consists of Træfik as Docker aware reverse proxy and the example app as replicated service. To ease
+testing the shutdown hook timeout, a delay can be configured via Spring Boot mechanisms using the `catalina.threadpool.execution.timeout.seconds`
+property. Its value defaults to `30` seconds. Docker also needs to be aware of our delay, so that it won't `SIGKILL` the service
+instances after 10 seconds. The necessary properties (`stop-grace-period` and `update-config.delay`) are already configured
+in the [stack file](https://github.com/gesellix/graceful-shutdown-spring-boot/blob/825b56761c217dcf607f39f4c799b4414eb3a4fe/stack.yml) with a value of 60 seconds. 

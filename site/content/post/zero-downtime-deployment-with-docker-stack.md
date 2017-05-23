@@ -34,7 +34,7 @@ restarts, rolling updates, networking, internal DNS, simple load balancing, and 
 are some of the features you get for free and without much hazzle.
 
 But why all the fuzz about that? Let's first take a look at our status quo in my team.
-If you want to skip the gossip and continue with the real stuff, just head over to the [relevant section below](#the-awakening).
+If you want to skip the gossip and continue with the real stuff, just head over to the [relevant section below](#get-real).
 
 # The Good
 
@@ -180,5 +180,6 @@ shutdown for 30 seconds. After that delay, a new log message should appear:
 
 > grace_app.1.ki669xys5x6x@moby    | 2017-05-23 12:34:01.989  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Tomcat thread pool did not shut down gracefully within 30 SECONDS. Proceeding with forceful shutdown
 
-So, the application paused the shutdown for 30 seconds, and Docker didn't forcefully kill the container. If you have a look at
-your browser window, the increasing number of received bytes have stopped.
+So, the application paused the shutdown for 30 seconds, and Docker didn't forcefully kill the container (the application decided itself
+to allow the shutdown regardless of the ongoing requests). If you have a look at your browser window,
+the increasing number of received bytes have stopped.

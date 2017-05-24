@@ -100,8 +100,8 @@ you solved with the DSL.
 It's always a bit harder to change ones mind, but I assume from time to time it is essential to move forward.
 
 I already mentioned the tricky part when talking about my wishes for a good orchestration tool: _fit my needs - simple to use_.
-You might argue that a generic tool won't be possible with such constraints. And I guess you're right. That's why our current setup
-still has its right to exist.
+You might argue that a generic tool won't be possible with such constraints. And I guess you're right: there are reasons
+why our current setup still has its right to exist.
 
 # The Ugly
 

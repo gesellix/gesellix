@@ -151,7 +151,7 @@ also applies to Stacks.
 
 Back to our example stack: it consists of [Træfik](https://traefik.io/) as Docker aware reverse proxy and the example app as replicated Spring Boot service.
 To ease testing the shutdown hook timeout, a delay can be configured via Spring Boot mechanisms using the `catalina.threadpool.execution.timeout.seconds`
-property. Its value defaults to `30` seconds. Docker also needs to be aware of our delay, so that it won't `SIGKILL` the service
+property. Its value defaults to 30 seconds. Docker also needs to be aware of our delay, so that it won't `SIGKILL` the service
 instances after 10 seconds. The necessary properties (`stop-grace-period` and `update-config.delay`) are already configured
 in the [stack file](https://github.com/gesellix/graceful-shutdown-spring-boot/blob/825b56761c217dcf607f39f4c799b4414eb3a4fe/stack.yml) with a value of 60 seconds. 
 
@@ -185,7 +185,7 @@ if you're already following the service logs:
 
     docker service update --env-add "foo=bar" grace_app
 
-The logs should emit messages like this one:
+Apart from the usual Spring Boot and Tomcat shutdown messages, the logs should emit messages like this one:
 
 > grace_app.1.ki669xys5x6x@moby    | 2017-05-24 12:34:31.981  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Context closed. Going to await termination for 30 SECONDS.
 

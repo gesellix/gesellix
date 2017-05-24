@@ -29,11 +29,17 @@ If you wonder how to add more manager nodes, the Engine will help you if you ent
 In your production environment you might be tempted to have a more resilient setup, using
 3 or 5 Swarm manager nodes (to build a quorum) and even more worker nodes depending on your workload.
 
-Docker Swarm will then manage your services with their tasks to be deployed on your cluster. Automated
-restarts, rolling updates, networking, internal DNS, simple load balancing, and built-in security
-are some of the features you get for free and without much hazzle.
+Deploying a replicated service then is a no-brainer:
 
-But why all the fuzz about that? Let's first take a look at our status quo in my team.
+    docker service create --name nginx --publish 8080:80 --replicas 2 nginx:alpine
+
+Docker Swarm will manage your services with their tasks to be deployed on your cluster. Automated
+restarts, rolling updates, networking, internal DNS, simple load balancing, and built-in security
+are some of the features you get for free and without much hassle.
+
+But why all the fuzz about that?
+
+Let's first take a look at our status quo in my team and find out why we cannot simply switch to an orchestrator like Docker Swarm.
 If you want to skip the gossip and continue with the real stuff, just head over to the [relevant section below](#get-real).
 
 # The Good
@@ -65,7 +71,7 @@ When I look at an actual deployment, where our TeamCity goal runs an Ansible ima
 talking to a Docker Engine on another node and ultimately triggers the `docker pull` and `docker run` api commands,
 I wish for less abstractions.
 
-Consider the alternative: TeamCity performs a simple `docker -H target.node.local:2376 service update ...`.
+Consider the alternative: TeamCity could perform a simple `docker -H target.swarm.local:2376 service update ...`.
 
 Nothing more. Yeah, that's kind of an understatement, but you get the idea.
 
@@ -80,15 +86,20 @@ If not, please go and read it! I'll wait for you to come back here.
 
 ...
 
-I wouldn't really say that we should go full circle around that clock. I would prefer to find better tools
+I wouldn't really say that we should go full circle around that complexity clock. I would prefer to find better tools
 and stay at, don't know, maybe 4 o'clock? Maybe what we need is a little bit of every hour on that clock?
+Only the good parts of each hour?
 
-Yes. I want the hard coded actual bit to perform a container deployment. But I don't want to maintain it myself.
+Maybe yes. I want the hard coded actual bit to perform a container deployment - but I don't want to maintain it myself.
 So I'll need to configure that externally maintained code to fit my needs. I wouldn't really need a full fledged
-rules engine or a special DSL, if the tool of choice is simple enough to use.
+rules engine or a special DSL, if the tool of choice is simple enough to use. Every DSL ties yourself to that very abstraction
+and getting rid of it will not only be a matter of the tool, but also getting rid of the way you _think_ about the problem space.
 
-There comes the tricky part: _fit my needs - simple to use_. You might argue that a generic tool won't be possible
-with such constraints. And I guess you're right.
+It's always a bit harder to change ones mind, but I assume from time to time it is essential to move forward.
+
+I already mentioned the tricky part when talking about my wishes for a good orchestration tool: _fit my needs - simple to use_.
+You might argue that a generic tool won't be possible with such constraints. And I guess you're right. That's why our current setup
+still has its right to exist.
 
 # The Ugly
 
@@ -99,7 +110,7 @@ some services which are not as fast as we'd prefer them to be. We actually have 
 
 That's why we need to consider long running requests during our continuous deployments. Using blue-green deployment,
 we have the option to deploy new releases of our service, use those for new incoming requests, but keep our old
-instances running for several minutes. That way, pending connections won't be cut during a certain timeout.
+instances running for several minutes. That way pending connections won't be cut during a certain timeout.
 
 Can you implement such a scenario with any orchestration tool? Well, I'm not aware of a simple tool to fit such needs.
 I consider Docker Swarm to be very simple to use, but it sadly won't keep pending connections after service updates.
@@ -176,10 +187,10 @@ The logs should emit log messages like this one:
 > grace_app.1.ki669xys5x6x@moby    | 2017-05-23 12:34:31.981  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Context closed. Going to await termination for 30 SECONDS.
 
 Docker will randomly choose either `grace_app.1` or `grace_app.2`, and your endless request should keep one of both delaying the
-shutdown for 30 seconds. After that delay, a new log message should appear:
+shutdown for 30 seconds. After that delay a new log message should appear:
 
 > grace_app.1.ki669xys5x6x@moby    | 2017-05-23 12:34:01.989  WARN 1 --- [       Thread-3] d.g.d.zerodowntime.GracefulShutdown      : Tomcat thread pool did not shut down gracefully within 30 SECONDS. Proceeding with forceful shutdown
 
 So, the application paused the shutdown for 30 seconds, and Docker didn't forcefully kill the container (the application decided itself
 to allow the shutdown regardless of the ongoing requests). If you have a look at your browser window,
-the increasing number of received bytes have stopped.
+the number of received bytes won't increase anymore.

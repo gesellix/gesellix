@@ -1,0 +1,39 @@
+/* Widgets */
+
+.widget header, #main-nav {
+  text-transform: uppercase;
+  margin: 0.5rem 0;
+  border-bottom: 3px solid {{ .Get "accent" }};
+}
+
+.widget ul li {
+  border-bottom: 1px dotted {{ .Get "body_text" }};
+  padding: 0.2rem;
+  font-size: 0.9rem;
+}
+
+.widget-title {
+  font-size: 1.3rem;
+}
+
+/* Widgets -- Authorbox/Memberbox */
+
+.memberbox {
+  background-color: {{ .Get "main_bg" }};
+  color: {{ .Get "body_text" }};
+  padding: 1rem 0.7rem;
+  border-style: solid hidden;
+  border-color: {{ .Get "body_text" }};
+  border-width: 1px;
+  flex-wrap: nowrap;
+}
+
+.memberbox img {
+  border: 3px solid {{ .Get "body_text" }};
+}
+
+/* Widgets -- Patreon */
+  /* Contain the banner within the sidebar */
+#patreon-banner {
+  width: 100%;
+}

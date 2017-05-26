@@ -1,0 +1,7 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<ul class="menu">
+  <li class="{{ if .Paginator.HasPrev }}"><a class="pagination" href="{{ .Paginator.Prev.URL }}">{{else}} disabled">{{end}} << Previous{{ if .Paginator.HasPrev }}</a>{{end}}</li>
+  <li class="pagination disabled">{{ .Paginator.PageNumber }}</li>
+  <li class="{{ if .Paginator.HasNext }}"><a class="pagination" href="{{ .Paginator.Next.URL }}">{{else}} disabled">{{end}}Next >>{{ if .Paginator.HasNext }}</a>{{end}}</li>
+</ul>
+{{ end }}

@@ -1,0 +1,62 @@
+/* Fix some of the resets */
+* {
+  box-sizing: border-box;
+}
+body { font-family: "Clear Sans", sans-serif; }
+p { margin-bottom: 1rem; }
+p, li { line-height: 1.5; }
+ul {
+  list-style: none;
+  margin-bottom: 1rem;
+}
+main ul { list-style: disc outside; }
+
+li > ul {
+  margin-left: 2rem;
+}
+
+div, article {
+  margin: 0.5rem 0;
+}
+
+h1 { font-size: 2.5rem; }
+h2 { font-size: 2.24rem; }
+h3 { font-size: 1.98rem; }
+h4 { font-size: 1.72rem; }
+h5 { font-size: 1.46rem; }
+h6 { font-size: 1.2rem; }
+h1,h2,h3,h4,h5,h6 {
+  margin: 0.5rem 0;
+}
+
+table {
+  margin-bottom: 1rem;
+}
+
+code { padding: 0.2rem; display: inline-block;}
+code, pre {
+  max-width: 100%;
+  font-family: "Source Code Pro", monospace;
+}
+th, td {
+  padding: 0.6rem;
+  vertical-align: middle;
+}
+
+blockquote {
+  padding-top: 0.5rem;
+  padding-left: 1rem;
+  border-left: 1px solid {{ .Get "body_text" }};
+  color: #8a8a8a;
+}
+
+a { text-decoration: none; }
+
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+small { font-size: 0.8em;}
+
+sup { position: relative; top: -0.5em; font-size: 80%; }

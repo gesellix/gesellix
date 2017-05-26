@@ -1,0 +1,142 @@
+/* Entire page */
+
+::-moz-selection {
+  color: {{ .Get "header_text" }};
+  background-color: {{ .Get "accent" }};
+}
+
+::selection {
+  color: {{ .Get "body_text" }};
+  background-color: {{ .Get "accent" }};
+}
+
+#site-container {
+  margin: auto;
+  background-color: {{ .Get "main_bg" }};
+  color: {{ .Get "body_text" }};
+  width: 100%;
+	max-width: 1080px;
+	margin: 25px auto;
+}
+
+body {
+  background-color: {{ .Get "page_bg" }};
+  background-attachment: fixed;
+  {{ if (not (eq (.Get "background_src") "")) }}
+  background-image: url("{{ .Get "background_src" }}");
+  background-repeat: {{ .Get "background_tile" }};
+  background-size: {{ .Get "background_fit" }};
+  {{ end }}
+}
+
+/* Site header */
+
+#site-header ::-moz-selection, .tag ::-moz-selection {
+  color: {{ .Get "body_text" }};
+  background-color: {{ .Get "main_bg" }};
+}
+
+#site-header ::selection, .tag ::selection {
+  color: {{ .Get "body_text" }};
+  background-color: {{ .Get "main_bg" }};
+}
+
+header a:hover, header a:active, header a:focus {
+  text-decoration: underline;
+  color: {{ .Get "body_text" }};
+}
+
+header a:link, header a:visited, #site-header header a:hover, #site-header header a:active {
+  color: {{ .Get "body_text" }};
+  text-decoration: none;
+}
+
+#site-header {
+  background-color: {{ .Get "accent" }};
+  color: {{ .Get "header_text" }};
+}
+
+#site-header header {
+  padding: 1rem 2rem;
+}
+
+#site-title, #site-tagline {
+  text-transform: uppercase;
+  font-weight: bold;
+  display:inline-block;
+  color: {{ .Get "header_text" }};
+}
+
+#site-title {
+  font-size: 3rem;
+  padding-bottom: 0.5rem;
+}
+
+#site-tagline {
+  font-size: 1.2rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid {{ .Get "header_text" }};
+}
+
+code {
+  background-color: {{ .Get "alt_bg" }};
+  color: {{ .Get "body_text" }};
+  border-color: {{ .Get "alt_bg" }};
+  overflow-wrap: break-word;
+}
+
+pre {
+  padding: 1.2rem;
+  background-color: {{ .Get "alt_bg" }};
+  font-size: 1rem;
+  overflow-x: scroll;
+}
+
+#main-container {
+  margin: 0.5rem 0.5rem;
+  padding: 15px 20px 20px;
+}
+
+#page-header h1 {
+  font-weight: bold;
+  margin-top: 0;
+}
+
+main a:hover, aside a:hover {
+  text-decoration: underline;
+}
+
+main a, main a:hover {
+  color: {{ .Get "accent" }};
+}
+
+main header a:hover, main header a:active, main header a:focus {
+  color: {{ .Get "body_text" }};
+}
+
+/* Sidebar */
+
+aside {
+  padding-bottom: 20px;
+}
+
+aside a:link, aside a:visited {
+  color: {{ .Get "body_text" }};
+  text-decoration: none;
+}
+
+aside a:hover, aside a:active, aside a:focus {
+  text-decoration: underline;
+}
+
+/* Footer */
+
+footer {
+  padding: 0.5rem 1rem;
+  background-color: {{ .Get "alt_bg" }};
+  border-top: 3px solid #999999;
+}
+
+footer p {
+  margin-bottom: 0;
+}

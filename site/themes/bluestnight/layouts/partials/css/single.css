@@ -1,0 +1,45 @@
+/* Site main - single */
+
+#post-metadata a {
+  color: {{ .Get "body_text" }};
+}
+
+#post-tags {
+  margin: 1rem 0.4rem 1rem;
+}
+
+main img {
+  max-width: 100%;
+}
+
+/* Site main - taxonomy list */
+
+.taxonomy-item {
+  list-style-type: none;
+}
+
+/* Tables */
+
+table, table thead th, table tbody td {
+  border: 1px solid {{ .Get "body_text" }};
+  border-collapse: collapse;
+}
+
+table thead th {
+  background-color: {{ .Get "accent" }};
+  color: {{ .Get "header_text" }};
+}
+
+table thead th a, table thead th a:hover {
+  color: {{ .Get "header_text" }};
+  text-decoration: underline;
+}
+
+table tbody tr {
+  color: {{ .Get "body_text" }};
+  background-color: {{ .Get "main_bg" }};
+}
+
+table tbody tr:nth-child(even) {
+  background-color: {{ .Get "alt_bg" }};
+}

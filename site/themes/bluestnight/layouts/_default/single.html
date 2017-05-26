@@ -1,0 +1,41 @@
+{{ partial "header.html" . }}
+  <main class="row-item small-full medium-two-thirds">
+    <article id="post-article">
+      <header id="page-header">
+        <h1>{{ .Title }}</h1>
+        {{ if or (not .Date.IsZero) (.Params.categories) }}
+  			<p id="post-metadata" class="row">
+          {{ if not .Date.IsZero }}
+          <span class="row-item">
+    				<i class="fi-clock"></i>
+    				<time datetime="{{ .Date.Format "2006-01-02" }}">{{.Date.Format "January 02, 2006"}}</time>
+          </span>
+  				{{ end }}
+  				{{ if .Params.categories }}
+  				<span class="row-item">
+  					<i class="fi-folder"></i>
+  					{{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "categories/" | absLangURL }}{{ . | urlize | lower }}" rel="category">{{ . }}</a>{{ end }}
+          </span>
+  				{{ end }}
+          {{ if not .Params.hide_readingtime }}
+          <span class="row-item">Estimated reading time: ~{{ .ReadingTime }} minutes</span>
+          {{ end }}
+  			</p>
+  			{{ end }}
+      </header>
+      <div id="post-content">
+        {{ if .Params.thumbnail }}
+  			<figure class="thumbnail">
+  				<img src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}">
+  			</figure>
+  			{{ end }}
+        {{ if and (isset .Params "enable_toc") (eq .Params.enable_toc true) }}{{ .TableOfContents }}{{ end }}
+  			{{ .Content }}
+  		</div>
+      {{ partial "post_tags.html" . }}
+    </article>
+    {{ partial "authorbox.html" . }}
+  	{{ partial "post_nav.html" . }}
+  	{{ partial "comments.html" . }}
+  </main>
+{{ partial "footer.html" . }}

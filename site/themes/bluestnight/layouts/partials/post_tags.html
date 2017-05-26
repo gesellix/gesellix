@@ -1,0 +1,10 @@
+{{ if .Params.tags }}
+<div id="post-tags">
+	<ul class="menu">
+    <li class="row-item">{{if (eq (len .Site.Taxonomies.tags) 1) }}<i class="fi-price-tag"></i>{{ else }}<i class="fi-pricetag-multiple"></i>{{ end }}&nbsp;&nbsp;</li>
+		{{ range .Params.tags }}
+		<li><a class="row-item button" href="{{ "tags/" | relLangURL }}{{ . | urlize }}/" rel="tag">{{ lower . }}</a></li>
+		{{ end }}
+	</ul>
+</div>
+{{ end }}

@@ -1,0 +1,20 @@
+{{ if and (.Site.Params.authorbox) (not .Params.hide_authorbox) }}
+
+{{ range $.Site.Data.members }}
+	{{ if or (and (and (isset $.Site.Params "author") (not (isset $.Params "author"))) (eq .Name $.Site.Params.author )) (and (isset $.Params "author") (eq .Name $.Params.author)) }}
+	<div id="authorbox" class="row vcenter memberbox">
+		<div class="row-item member-avatar">
+				<img alt="{{ .Name }} avatar" src="{{ .Img | absURL }}" height="90" width="90">
+		</div>
+		<div class="row-item member-bio">
+			<div>
+				<span class="widget-title">About {{ .Name }}</span>
+			</div>
+			<p>
+				{{ .Bio }}
+			</p>
+		</div>
+	</div>
+	{{ end }}
+{{ end }}
+{{ end }}

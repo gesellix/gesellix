@@ -1,0 +1,12 @@
+{{ if .Site.Params.widgets.recent_articles }}
+<div class="widget">
+	<header>
+		<h4><i class="fi-megaphone"></i> <a href="{{ $.Site.BaseURL }}post/">Recent Posts</a></h4>
+	</header>
+	<ul>
+		{{ range first 10 (where .Site.Pages "Section" "post") }}
+		{{ if not (eq .URL "/post/") }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+		{{ end }}
+	</ul>
+</div>
+{{ end }}

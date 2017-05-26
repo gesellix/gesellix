@@ -1,0 +1,42 @@
+{{ if or (.Paginator.HasPrev) (.Paginator.HasNext) }}
+<ul>
+	{{ $pageSplit := 4 }}
+	{{ $pagesBefore := false }}
+	{{ $pagesAfter := false }}
+  {{ $paginateArgs := .Data.Pages }}
+
+	{{ if lt .Paginator.PageNumber $pageSplit }}
+    {{ $paginateArgs := first (sub (mul $pageSplit  2) 1) .Data.Pages }}
+		{{ $pagesAfter := true }}
+	{{ else if gt .Paginator.PageNumber (sub .Paginator.TotalPages $pageSplit) }}
+    {{ $paginateArgs := last (sub (mul $pageSplit  2) 1) .Data.Pages }}
+		{{ $pagesBefore := true }}
+	{{ else }}
+    {{ $paginateArgs := first (mul $pageSplit 2) (after (sub (div .Paginator.TotalPages 2) $pageSplit)) }}
+	{{ end }}
+
+  {{ $paginator := .Paginate $paginateArgs }}
+
+  <li class="pagination-previous{{ if $paginator.HasPrev }}"><a href="#" aria-label="Previous page">{{else}} disabled">{{end}}Previous <span class="show-for-sr">page</span>{{ if $paginator.HasPrev }}</a>{{end}}</li>
+
+  {{ if $pagesBefore }}
+	<li class="ellipsis"></li>
+	{{ end }}
+
+	{{ $pages := 1 }}
+  {{ $pageNum := $paginator.PageNumber }}
+  {{ $pageURL := $paginator.URL }}
+	{{ range $paginator.Pages }}
+	<li{{ if eq $pages $pageNum }} class="current"{{ end }}>
+		<a href="{{ $pageURL | absURL }}" aria-label="Page {{ $pages }}">{{ $pages }}</a>
+	</li>
+	{{ $pages := add $pages 1 }}
+	{{ end }}
+
+	{{ if $pagesAfter }}
+	<li class="ellipsis"></li>
+	{{ end }}
+
+	<li class="pagination-next{{ if $paginator.HasNext }}"><a href="#" aria-label="Next page">{{else}} disabled">{{end}}Next <span class="show-for-sr">page</span>{{ if $paginator.HasNext }}</a>{{end}}</li>
+</ul>
+{{ end }}

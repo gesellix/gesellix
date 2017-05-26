@@ -1,0 +1,29 @@
+/* PRINTED PAGE STYLING */
+@media print {
+  body {
+    font-size: 12pt;
+    font-family: "Georgia", "Liberation Serif", serif;
+    background-image: none !important;
+    background-color: #ffffff !important;
+    color: #000000 !important;
+  }
+  #hashover, aside, #site-header, footer, #authorbox, #post-tags {
+    display: none !important;
+  }
+  a:link:after, a:visited:after {
+    content: "";
+  }
+  main, p, header, a, th, td { color: #000000 !important; }
+  a { text-decoration: none; }
+  #site-container { margin: 0 auto; background-color: #ffffff; }
+  #main-container { display: block; padding: 0; }
+  #main-container main {
+    width: 100%;
+    max-width: 100%;
+    background-color: #ffffff;
+    color: #000000;
+  }
+  @page {
+    margin: 0.75in 0.5in;
+  }
+}

@@ -1,0 +1,13 @@
+{{ if and (isset .Site.Params "hashover") (or (not (isset .Params "disable_comments")) (not .Params.disable_comments)) }}
+<div class="post-comments">
+  {{ if (.Site.Params.hashover) }}
+    <div id="hashover"></div>
+    <script>var canon_url = (document.querySelector('link[rel="canonical"]') != null) ? '?canon_url=' + encodeURIComponent(document.querySelector('link[rel="canonical"]').getAttribute('href')) : ''; document.write('<script src="/hashover.php' + canon_url + '"><\/script>');</script>
+    <script defer type="text/javascript" src="{{ .Site.BaseURL }}hashover.php"></script>
+    <script defer type="text/javascript" src="{{ .Site.BaseURL }}js/hashoverride.js"></script>
+    <noscript>You must have JavaScript enabled to use the comments.</noscript>
+  {{ else }}
+    {{ template "_internal/disqus.html" . }}
+  {{ end }}
+</div>
+{{ end }}

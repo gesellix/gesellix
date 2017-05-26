@@ -1,0 +1,17 @@
+{{ $page := .page }}
+{{ $site := .site }}
+{{ range sort .menu }}
+  <li class="no-select">
+      <input type="checkbox" id="nav-{{ .Name | plainify | urlize }}" class="hide"/>
+      {{ if .HasChildren }}<label class="button{{if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{end}}" for="nav-{{ .Name | plainify | urlize }}">{{ end }}
+        <a class="main-nav{{ if not .HasChildren }} button{{if or ($page.IsMenuCurrent "main" .) ($page.HasMenuCurrent "main" .) }} active{{end}}{{end}}" href="{{ .URL }}">
+          {{ .Name | upper }}{{ if .HasChildren }}&nbsp;&nbsp;<span class="nav-arrow">&#9656;</span>{{ end }}
+        </a>
+      {{ if .HasChildren }}
+      </label>
+      <ul>
+      {{ partial "nested_menu.html" (dict "menu" .Children "page" $page "site" $site) }}
+      </ul>
+    {{ end }}
+  </li>
+{{ end }}

@@ -1,0 +1,18 @@
+{{ if .Site.Params.widgets.tags }}
+{{ if isset .Site.Taxonomies "tags" }}
+{{ if not (eq (len .Site.Taxonomies.tags) 0) }}
+<div class="widget">
+	<header>
+		<h4><i class="fi-pricetag-multiple"></i> <a href="{{ $.Site.BaseURL }}tags/">Tags</a></h4>
+	</header>
+	<div>
+		{{ range $key, $val := .Site.Taxonomies.tags.ByCount }}
+			<a class="button" href="{{ $.Site.BaseURL }}tags/{{ $val.Name | urlize | lower  }}" title="{{ $val.Name }}" style="font-size: 12px;">
+				{{ $val.Name }}{{ if $.Site.Params.widgets.tags_counter }} ({{ $val.Count }}){{ end }}
+			</a>
+		{{ end }}
+	</div>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}

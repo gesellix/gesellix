@@ -1,0 +1,32 @@
+<article>
+  {{ if .Params.thumbnail }}
+  <div>
+    <figure>
+      <a href="{{ .Permalink }}">
+        <img src="{{ .Params.thumbnail | absURL }}" alt="{{ .Title }}" />
+      </a>
+    </figure>
+  </div>
+  {{ end }}
+  <div>
+    <header class="post-list-title">
+      <a href="{{ .Permalink }}">
+        <h4>{{ .Title }}</h4>
+      </a>
+      <div class="metadata">
+        <i class="fi-clock"></i>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{.Date.Format "January 02, 2006"}}</time>
+      </div>
+    </header>
+    <div class="post-list-summary">
+      <p>
+        {{ $page := . }}
+        {{ with .Description }}
+          {{ . | markdownify }} <a href="{{ $page.RelPermalink }}">[Read more...]</a>
+        {{ else }}
+          {{ .Summary | markdownify }}{{ if .Truncated }} <a href="{{ $page.RelPermalink }}">[Read more...]</a>{{ end }}
+        {{ end }}
+      </p>
+    </div>
+  </div>
+</article>

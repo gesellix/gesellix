@@ -1,0 +1,7 @@
+<label for="menu-toggle-box"><div id="menu-toggle" class="main-nav no-select"><span><i class="fi-list"></i> MENU</span></div></label>
+<input type="checkbox" id="menu-toggle-box" class="hide"/>
+<nav id="main-nav">
+  <ul class="menu">
+  {{ partial "nested_menu.html" (dict "menu" .Site.Menus.main "page" . "site" .Site) . }}
+  </ul>
+</nav>

@@ -1,0 +1,16 @@
+{{ if or (and (.Site.Params.post_navigation) (not (eq .Params.post_navigation false))) (.Params.post_navigation) }}
+{{ if or (.PrevInSection) (.NextInSection) }}
+	<nav id="post-nav" class="row">
+		{{ if .PrevInSection }}
+		<div>
+			<a href="{{.PrevInSection.Permalink}}" rel="prev"><span>«Previous</span><p>{{.PrevInSection.Title}}</p></a>
+		</div>
+		{{ end }}
+		{{ if .NextInSection }}
+		<div>
+			<a href="{{.NextInSection.Permalink}}" rel="next"><span>Next»</span><p>{{.NextInSection.Title}}</p></a>
+		</div>
+		{{ end }}
+	</nav>
+{{ end }}
+{{ end }}

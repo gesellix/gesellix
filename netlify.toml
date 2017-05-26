@@ -1,5 +1,5 @@
 [context.deploy-preview]
-  command = "hugo --buildDrafts --buildFuture -s site -b / -t vienna"
+  command = "hugo --buildDrafts --buildFuture -s site -b / -t bluestnight"
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.20"

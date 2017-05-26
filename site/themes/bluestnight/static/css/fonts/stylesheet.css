@@ -1,0 +1,272 @@
+/* Clear Sans */
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Italic.woff') format('woff');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-BoldItalic.woff') format('woff');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-MediumItalic.woff') format('woff');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Clear Sans";
+  src: url('clear-sans/ClearSans-Thin.woff') format('woff');
+  font-weight: 200;
+  font-style: normal;
+}
+/* End Clear Sans */
+
+/* Source Code Pro */
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-regular.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-it.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-it.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-bold.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-boldit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-boldit.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-light.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-lightit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-lightit.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-extralight.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-extralight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-extralightit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-extralightit.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-medium.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-mediumit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-mediumit.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-semibold.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-semiboldit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-semiboldit.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-black.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-black.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Source Code Pro";
+    src: url('sourcecodepro/sourcecodepro-blackit.woff2') format('woff2'),
+         url('sourcecodepro/sourcecodepro-blackit.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+/* End Source Code Pro */
+
+/* Handwriting fonts */
+@font-face {
+    font-family: 'allura';
+    src: url('allura/allura-regular.woff2') format('woff2'),
+         url('allura/allura-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'calligraffiti';
+    src: url('calligraffiti/calligraffiti.woff2') format('woff2'),
+         url('calligraffiti/calligraffiti.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'dancingscript';
+    src: url('dancingscript/dancingscript-regular.woff2') format('woff2'),
+         url('dancingscript/dancingscript-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'euphoriascript';
+    src: url('euphoriascript/euphoriascript-regular.woff2') format('woff2'),
+         url('euphoriascript/euphoriascript-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'journal';
+    src: url('journal/journal.woff2') format('woff2'),
+         url('journal/journal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'kingthings-wrote';
+    src: url('kingthings-wrote/kingthings-wrote.woff2') format('woff2'),
+         url('kingthings-wrote/kingthings-wrote.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'note-this';
+    src: url('note-this/note-this.woff2') format('woff2'),
+         url('note-this/note-this.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'vag-handwritten';
+    src: url('vag-handwritten/vag-handwritten.woff2') format('woff2'),
+         url('vag-handwritten/vag-handwritten.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'danielblack';
+    src: url('daniel/daniel-black-webfont.woff2') format('woff2'),
+         url('daniel/daniel-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'daniel';
+    src: url('daniel/daniel-bold.woff2') format('woff2'),
+         url('daniel/daniel-bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'daniel';
+    src: url('daniel/daniel-regular.woff2') format('woff2'),
+         url('daniel/daniel-regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+/* End handwriting fonts */

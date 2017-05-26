@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{{ .Title }}</title>
+    {{ $.Scratch.Set "desc" "" }}
+    {{ with $.Site.Params.description }}{{ $.Scratch.Set "desc" . }}{{ end }}
+    {{ with .Summary }}{{ $.Scratch.Set "desc" . }}{{ end }}
+    {{ with $.Params.description }}{{ $.Scratch.Set "desc" . }}{{ end }}
+    {{ if (not (eq ($.Scratch.Get "desc") "")) }}
+    <meta name="description" content="{{ $.Scratch.Get "desc" }}">
+    {{ end }}
+    {{ .Hugo.Generator }}
+    {{ if .RSSLink }}<link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }} Feed" href="{{ .RSSLink }}">{{ end }}
+    {{ if .Params.tags }}
+      <meta name="keywords" content="{{ delimit .Params.tags "," }}">
+    {{ end }}
+    <link rel="canonical" href="{{ .URL | absURL }}">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}css/foundation/foundation-icons.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}hashover/comments.css">
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}styles.css">
+  </head>
+  <body>
+    <div id="site-container">
+      <div id="site-header">
+        <header>
+          <a href="{{ .Site.BaseURL }}">
+            <span id="site-title">{{ .Site.Title }}</span>
+            {{ with .Site.Params.tagline }}<br/><span id="site-tagline">{{ . }}</span>{{ end }}
+          </a>
+        </header>
+        {{ partial "menu.html" . }}
+      </div>
+      <div id="main-container" class="row" role="main">
+        {{ if .Site.Params.leftsidebar }}{{ partial "sidebar.html" . }}{{ end }}

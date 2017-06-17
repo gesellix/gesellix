@@ -37,7 +37,7 @@ The LinuxKit Readme already tells you how to get started, so I'll only post the 
 I assume you have [Golang](https://golang.org/) already installed and [Docker](https://www.docker.com/get-docker) is running.
 
 The exciting part is probably the last command where the `moby` tool is used to create a standard ISO image based on the `sshd.yml` config.
-When you start the command for the first time you'll see `moby` downloading and precessing the referenced Docker images,
+When you start the command for the first time you'll see `moby` downloading and processing the referenced Docker images,
 adding your SSH public key, and creating the desired output image as ISO format:
 
     $ moby build -output iso-bios examples/sshd.yml 
@@ -148,7 +148,9 @@ This is how it looks like when running on Docker for Mac:
     
     / # uname -a
     Linux linuxkit-025000000004 4.9.32-linuxkit #1 SMP Thu Jun 15 20:49:23 UTC 2017 x86_64 Linux
-    / # 
+    / #
+    / # halt
+    / #
 
 If you watched [Inception](http://www.imdb.com/title/tt1375666/) and didn't have any issues with the different levels of _dreaming_
 then the current example with a setup of sshd in a minimal LinuxKit in a hypervised Alpine Linux running on a Mac
@@ -157,20 +159,20 @@ is certainly no problem to you...
 # LinuxKit on Linode
 
 Ok, let's run the sshd LinuxKit image in a more realistic scenario, namely on a provider like Linode.
-I chose Linode because I use it for my personal experiments, but the `sshd.iso` image should run on any KVM based provider, though.
+I chose Linode because I use it for my personal experiments, but the `sshd.iso` image should run on any KVM based provider.
 If you're more into Amazon AWS, you can read a more specific introduction at the [bee42 blog](https://bee42.com/blog/linuxkit-with-initial-aws-support/).
 
 The folks at Linode already have a good article to [get you started with custom images](https://www.linode.com/docs/tools-reference/custom-kernels-distros/install-a-custom-distribution-on-a-linode).
 So, all I needed to do was following their instructions - and even skipping some of the described steps, because
-the LinuxKit image doesn't even need a custom installer like other Linux distributions. So, here's the essence of what you need
+the LinuxKit image doesn't need a custom installer like other Linux distributions. So, here's the essence of what you need
 to run LinuxKit on a Linode.
 
 Since we would now like to copy our `.iso` image to a Linode disc, we somehow have to provide the image online.
 I simply uploaded the `sshd.iso` to another server and temporarily made it available via Nginx:
 
     local$ scp sshd.iso gesellix@web.example.com:~/nginx-content/sshd.iso
-    local$ ssh gesellix@web1.example.com
-    web1$ docker run -d -p 8080:80 -v `pwd`/nginx-content:/usr/share/nginx/html:ro nginx:alpine
+    local$ ssh gesellix@web.example.com
+    web$ docker run -d -p 8080:80 -v `pwd`/nginx-content:/usr/share/nginx/html:ro nginx:alpine
 
 Now the `sshd.iso` image is available on the internet and can be downloaded to any server. Let's prepare one.
 
@@ -182,7 +184,7 @@ Then you'll need to use the rescue mode with your disc being mounted at `/dev/sd
 to connect yourself to your Linode. The following commands will download your LinuxKit image and copy its contents
 to your empty disc:
 
-    linode/lish$ wget http://web1.example.com:8080/sshd.iso
+    linode/lish$ wget http://web.example.com:8080/sshd.iso
     linode/lish$ dd if=sshd.iso of=/dev/sda
 
 Almost done - you can now close the Lish console and reboot your Linode. After a short while you should be able
@@ -196,7 +198,11 @@ Linode allows additional optimizations to [increase compatibility](https://www.l
 but that's probably a bit too specific for now.
 
 The more interesting part is automation of all the steps above. Linode allows you to use their api and even provide
-a cli tool. As far as I could see they won't allow full automation, yet. I'll give it a try at a later time.
+a [cli tool](https://github.com/linode/cli). As far as I could see they won't allow full automation, yet,
+but I'll give it a try at a later time.
+
+Please note that LinuxKit is under heavy development. Usually, the architecture won't change too much, but some
+command line options or the image description format might change.
 
 # Feedback
 

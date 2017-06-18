@@ -26,7 +26,44 @@ I picked the [sshd.yml](https://github.com/linuxkit/linuxkit/blob/98028d417b6efa
 There are several main sections to configure the desired target image, e.g. the underlying Kernel, init processes, boot time executables, and
 the relevant services you'd like to run. Some sections like `files` allow to add custom files or specific configuration at build time.
 
-The LinuxKit Readme already tells you how to get started, so I'll only post the bare commands I used for your convenience:
+A LinuxKit config to run a sshd server looks like this, as taken from the LinuxKit repo:
+
+    # examples/sshd.yml
+    kernel:
+      image: "linuxkit/kernel:4.9.x"
+      cmdline: "console=ttyS0 page_poison=1"
+    init:
+      - linuxkit/init:17693d233dd009b2a3a8d23673cb85969e1dce80
+      - linuxkit/runc:3a4e6cbf15470f62501b019b55e1caac5ee7689f
+      - linuxkit/containerd:04880f344709830aa4c938baa765764e644fc973
+      - linuxkit/ca-certificates:75cf419fb58770884c3464eb687ec8dfc704169d
+    onboot:
+      - name: sysctl
+        image: "linuxkit/sysctl:3aa6bc663c2849ef239be7d941d3eaf3e6fcc018"
+    services:
+      - name: getty
+        image: "linuxkit/getty:d0765e0a14733f9454010ac109a7c846a4e67fc5"
+        env:
+         - INSECURE=true
+      - name: rngd
+        image: "linuxkit/rngd:1fa4de44c961bb5075647181891a3e7e7ba51c31"
+      - name: dhcpcd
+        image: "linuxkit/dhcpcd:7d2b8aaaf20c24ad7d11a5ea2ea5b4a80dc966f1"
+      - name: sshd
+        image: "linuxkit/sshd:abc1f5e096982ebc3fb61c506aed3ac9c2ae4d55"
+    files:
+      - path: root/.ssh/authorized_keys
+        source: ~/.ssh/id_rsa.pub
+        mode: "0600"
+        optional: true
+    trust:
+      org:
+        - linuxkit
+
+I guess if you already know Docker, there's nothing special to it. The interesting aspect is the usage of content hashes
+as tags, which you might be a bit unused with.
+
+As the LinuxKit Readme already tells you how to get started, I'll only post the bare commands I used for your convenience:
 
     go get -u github.com/moby/tool/cmd/moby
     go get -u github.com/linuxkit/linuxkit/src/cmd/linuxkit

@@ -1,5 +1,6 @@
 baseurl = "https://www.gesellix.net"
 title = "gesellix.net"
+description = "A senior hipster developer blog about software development, Docker, DevOps, and other topics by Tobias Gesellchen."
 copyright = "&copy; Tobias Gesellchen"
 
 [params]

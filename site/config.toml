@@ -4,6 +4,7 @@ description = "A senior hipster developer blog about software development, Docke
 copyright = "&copy; Tobias Gesellchen"
 
 [params]
+  description = "A senior hipster developer blog about software development, Docker, DevOps, and other topics by Tobias Gesellchen."
   subtitle = "a senior hipster developer blog"
   twitter = "gesellix"
   github = "gesellix"

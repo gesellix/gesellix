@@ -15,7 +15,7 @@ jobs:
       - name: 'Get markscribe'
         run: go get -u github.com/muesli/markscribe
       - name: 'Update README.md'
-        run: markscribe README.md.tpl > README.md
+        run: $(go env GOPATH)/bin/markscribe README.md.tpl > README.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 'Commit and Push updated README.md'

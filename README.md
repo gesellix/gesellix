@@ -5,15 +5,15 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 🌱 Check out what I'm currently working on
 
 - [gesellix/maven-gradle-resolution](https://github.com/gesellix/maven-gradle-resolution) - Example to show different dependency resolution for org.apache.cxf:cxf-rt-ws-security:3.2.11
-- [gesellix/gradle-testng-inherited](https://github.com/gesellix/gradle-testng-inherited) - 
-- [gesellix/elasticsearch-client](https://github.com/gesellix/elasticsearch-client) - 
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) - GitHub Action for opencredo/terrahelp
-- [gesellix/docker-client-terraform](https://github.com/gesellix/docker-client-terraform) - 
 - [gesellix/gradle-input-normalization](https://github.com/gesellix/gradle-input-normalization) - 
 - [gesellix/.github](https://github.com/gesellix/.github) - 
-- [gesellix/europace-email-signature](https://github.com/gesellix/europace-email-signature) - 
 - [gesellix/release-test](https://github.com/gesellix/release-test) - 
 - [gesellix/awsume](https://github.com/gesellix/awsume) - Containerized AWSume and AWS CLI
+- [gesellix/groovy-visibility](https://github.com/gesellix/groovy-visibility) - 
+- [gesellix/github-package-registry-demo](https://github.com/gesellix/github-package-registry-demo) - Demo project for the GitHub Package Registry
+- [gesellix/spring-oauth2-example](https://github.com/gesellix/spring-oauth2-example) - Playground/minimal example for Spring&#43;OAuth2 integration
+- [gesellix/gradle-testkit-junixsocket-issue](https://github.com/gesellix/gradle-testkit-junixsocket-issue) - 
 
 #### 🔭 Latest releases I've contributed to
 
@@ -23,8 +23,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v16.0.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v16.0.3), 4 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [europace/api-schnellstart](https://github.com/europace/api-schnellstart) ([1](https://github.com/europace/api-schnellstart/releases/tag/1), 10 months ago) - Ein sanfter Einstieg in die APIs
 - [apache/groovy](https://github.com/apache/groovy) ([](), a long while ago) - Apache Groovy: A powerful multi-faceted programming language for the JVM platform
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([](), a long while ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([](), a long while ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([](), a long while ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) ([](), a long while ago) - Gradle-Docker-Plugin example
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([](), a long while ago) - 
 
@@ -38,11 +38,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [somera](https://github.com/somera)
 - [atomfrede](https://github.com/atomfrede)
 - [EPRENELANGE](https://github.com/EPRENELANGE)
 - [zhouyuanzhen](https://github.com/zhouyuanzhen)
 - [thejeshgn](https://github.com/thejeshgn)
-- [alexoeducative](https://github.com/alexoeducative)
 
 #### 💬 Feedback
 

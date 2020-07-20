@@ -1,0 +1,29 @@
+---
+name: 'Update GitHub Profile'
+on:
+  schedule:
+    # At 20:00 on Monday.
+    # https://crontab.guru/#0_20_*_*_MON
+    - cron: '0 20 * * MON'
+jobs:
+  update-readme:
+    name: 'Markscribe README.md'
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'Checkout'
+        uses: actions/checkout@master
+      - name: 'Get markscribe'
+        run: go get -u github.com/muesli/markscribe
+      - name: 'Update README.md'
+        run: markscribe README.md.tpl > README.md
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: 'Commit and Push updated README.md'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add README.md
+          git commit -m "[bot] Update README.md"
+          git push
+...

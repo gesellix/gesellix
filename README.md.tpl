@@ -2,7 +2,12 @@
 
 I'm Tobias Gesellchen, a software developer from Germany.
 
-#### 🌱 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
 {{range recentRepos 10}}
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
@@ -12,10 +17,24 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}) - {{.Description}}
 {{- end}}
 
-#### ⚡ My recent blog posts
+#### 📜 My recent blog posts
 {{range rss "https://www.gesellix.net/index.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+{{/*
+
+#### 📓 Gists I wrote
+{{range gists 5}}
+- [{{.Description}}]({{.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+#### ❤️ These awesome people sponsor me (thank you!)
+{{range sponsors 5}}
+- [{{.User.Login}}]({{.User.URL}}) ({{humanize .CreatedAt}})
+{{- end}}
+
+*/}}
 
 #### 👯 Check out some of my recent followers
 {{range followers 5}}
@@ -34,4 +53,5 @@ Say Hello, I don't bite!
 
 #### 🙇 Credits
 
-Want your own awesome profile page? Check out [markscribe](https://github.com/muesli/markscribe) by [@mueslix](https://twitter.com/mueslix)!
+Want your own self-generating profile page? Check out [markscribe](https://github.com/muesli/markscribe)
+and [readme-scribe](https://github.com/muesli/readme-scribe) by [@mueslix](https://twitter.com/mueslix)!

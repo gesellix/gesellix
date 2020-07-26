@@ -17,7 +17,7 @@ jobs:
       - name: 'Update README.md'
         run: $(go env GOPATH)/bin/markscribe README.md.tpl > README.md
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
       - name: 'Commit and Push updated README.md'
         run: |
           git config --global user.name "github-actions[bot]"

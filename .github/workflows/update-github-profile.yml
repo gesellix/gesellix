@@ -2,9 +2,9 @@
 name: 'Update GitHub Profile'
 on:
   schedule:
-    # At 20:00 on Monday.
-    # https://crontab.guru/#0_20_*_*_MON
-    - cron: '0 20 * * MON'
+    # Daily at 20:00.
+    # https://crontab.guru/#0_20_*_*_*
+    - cron: '0 20 * * *'
 jobs:
   update-readme:
     name: 'Markscribe README.md'

@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 days ago)
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (2 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 days ago)
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (3 days ago)
 - [gesellix/maven-gradle-resolution](https://github.com/gesellix/maven-gradle-resolution) - Example to show different dependency resolution for org.apache.cxf:cxf-rt-ws-security:3.2.11 (2 weeks ago)
 - [gesellix/.github](https://github.com/gesellix/.github) -  (3 weeks ago)
 - [gesellix/prometheus-indicator](https://github.com/gesellix/prometheus-indicator) - Show Prometheus Alerts in Your System Tray (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.0), 2 days ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 2 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.0), 3 days ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 3 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.3](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.3), 1 month ago) - API um automatisch Vorgänge auszulesen
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 3 months ago) - GitHub Action for opencredo/terrahelp
 - [europace/api-schnellstart](https://github.com/europace/api-schnellstart) ([1](https://github.com/europace/api-schnellstart/releases/tag/1), 10 months ago) - Ein sanfter Einstieg in die APIs

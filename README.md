@@ -4,15 +4,15 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 day ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 weeks ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 weeks ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (2 weeks ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 month ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/maven-gradle-resolution](https://github.com/gesellix/maven-gradle-resolution) - Example to show different dependency resolution for org.apache.cxf:cxf-rt-ws-security:3.2.11 (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.1), today) - CouchDB stats exporter for Prometheus
 - [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.4](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.4), 3 weeks ago) - API um automatisch Vorgänge auszulesen
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 4 months ago) - GitHub Action for opencredo/terrahelp
 - [europace/api-schnellstart](https://github.com/europace/api-schnellstart) ([1](https://github.com/europace/api-schnellstart/releases/tag/1), 11 months ago) - Ein sanfter Einstieg in die APIs

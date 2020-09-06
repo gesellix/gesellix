@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (6 days ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (6 days ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (6 days ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)

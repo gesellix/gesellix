@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.2), 1 week ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v28.0.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v28.0.2), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.4](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.4), 1 month ago) - API um automatisch Vorgänge auszulesen
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.0-rc1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.0-rc1), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.

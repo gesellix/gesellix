@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (today)
+- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (1 day ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 weeks ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.6](https://github.com/gesellix/gh-deployments/releases/tag/v0.6), today) - Util to manage GitHub Deployments
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.0), 1 week ago) - CouchDB stats exporter for Prometheus
+- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.6](https://github.com/gesellix/gh-deployments/releases/tag/v0.6), 1 day ago) - Util to manage GitHub Deployments
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.0-rc2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.0-rc2), 2 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 2 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 6 months ago) - GitHub Action for opencredo/terrahelp
@@ -49,11 +49,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [markotitel](https://github.com/markotitel)
 - [karuppiah7890](https://github.com/karuppiah7890)
 - [Rodri9o](https://github.com/Rodri9o)
 - [xiaozhiliaoo](https://github.com/xiaozhiliaoo)
 - [plaidshirtakos](https://github.com/plaidshirtakos)
-- [simondodson](https://github.com/simondodson)
 
 #### 💬 Feedback
 

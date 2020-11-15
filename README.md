@@ -35,7 +35,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [europace/authorization-api](https://github.com/europace/authorization-api) ([v1.0](https://github.com/europace/authorization-api/releases/tag/v1.0), 2 months ago) - Dokumentation für die Europace Plattform Autorisierung
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 3 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 6 months ago) - GitHub Action for opencredo/terrahelp
+- [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 7 months ago) - GitHub Action for opencredo/terrahelp
 
 #### 📜 My recent blog posts
 

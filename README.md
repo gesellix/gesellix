@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (3 weeks ago)
+- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (4 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.1), 2 days ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.1), 3 days ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.0), 2 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.9](https://github.com/gesellix/gh-deployments/releases/tag/v0.9), 3 weeks ago) - Util to manage GitHub Deployments
+- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.9](https://github.com/gesellix/gh-deployments/releases/tag/v0.9), 4 weeks ago) - Util to manage GitHub Deployments
 - [europace/authorization-api](https://github.com/europace/authorization-api) ([v1.0](https://github.com/europace/authorization-api/releases/tag/v1.0), 2 months ago) - Dokumentation für die Europace Plattform Autorisierung
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 4 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 7 months ago) - GitHub Action for opencredo/terrahelp
@@ -50,10 +50,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👯 Check out some of my recent followers
 
 - [buraksahin](https://github.com/buraksahin)
-- [Chamepp](https://github.com/Chamepp)
 - [Lisprez](https://github.com/Lisprez)
 - [markotitel](https://github.com/markotitel)
 - [karuppiah7890](https://github.com/karuppiah7890)
+- [Rodri9o](https://github.com/Rodri9o)
 
 #### 💬 Feedback
 

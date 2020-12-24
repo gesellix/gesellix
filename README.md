@@ -51,11 +51,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [SeaLife](https://github.com/SeaLife)
 - [buraksahin](https://github.com/buraksahin)
 - [Lisprez](https://github.com/Lisprez)
 - [markotitel](https://github.com/markotitel)
 - [karuppiah7890](https://github.com/karuppiah7890)
-- [Rodri9o](https://github.com/Rodri9o)
 
 #### 💬 Feedback
 

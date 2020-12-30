@@ -35,7 +35,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) ([v0.5](https://github.com/gesellix/teamcity-deployments-status-publisher/releases/tag/v0.5), 3 weeks ago) - A TeamCity plugin to publish deployment status updates to an external system.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v29.3.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v29.3.1), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.9](https://github.com/gesellix/gh-deployments/releases/tag/v0.9), 2 months ago) - Util to manage GitHub Deployments
-- [europace/authorization-api](https://github.com/europace/authorization-api) ([v1.0](https://github.com/europace/authorization-api/releases/tag/v1.0), 3 months ago) - Dokumentation für die Europace Plattform Autorisierung
+- [europace/authorization-api](https://github.com/europace/authorization-api) ([v1.0](https://github.com/europace/authorization-api/releases/tag/v1.0), 4 months ago) - Dokumentation für die Europace Plattform Autorisierung
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.0.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.0.0), 5 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) ([v1.0](https://github.com/gesellix/terrahelp-github-action/releases/tag/v1.0), 8 months ago) - GitHub Action for opencredo/terrahelp
 

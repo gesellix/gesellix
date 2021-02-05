@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system. (today)
+- [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system. (1 day ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (3 months ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (4 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) ([v0.6](https://github.com/gesellix/teamcity-deployments-status-publisher/releases/tag/v0.6), today) - A TeamCity plugin to publish deployment status updates to an external system.
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M1), 1 week ago) - Spring Boot
+- [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) ([v0.6](https://github.com/gesellix/teamcity-deployments-status-publisher/releases/tag/v0.6), 1 day ago) - A TeamCity plugin to publish deployment status updates to an external system.
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M1), 2 weeks ago) - Spring Boot
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.0.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.1), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) ([v0.9](https://github.com/gesellix/gh-deployments/releases/tag/v0.9), 3 months ago) - Util to manage GitHub Deployments

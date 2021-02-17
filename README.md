@@ -4,6 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (today)
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system. (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (3 months ago)
@@ -13,10 +14,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (4 months ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (4 months ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (4 months ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (5 months ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) - 
 - [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system.
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments
@@ -26,11 +27,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-input-normalization](https://github.com/gesellix/gradle-input-normalization) - 
 - [gesellix/.github](https://github.com/gesellix/.github) - 
 - [gesellix/release-test](https://github.com/gesellix/release-test) - 
-- [gesellix/awsume](https://github.com/gesellix/awsume) - Containerized AWSume and AWS CLI
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 5 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) ([v2021-02-16T12-54-56](https://github.com/gesellix/ossrh-test/releases/tag/v2021-02-16T12-54-56), 1 day ago) - 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 6 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) ([v0.6](https://github.com/gesellix/teamcity-deployments-status-publisher/releases/tag/v0.6), 1 week ago) - A TeamCity plugin to publish deployment status updates to an external system.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M1), 3 weeks ago) - Spring Boot
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.0.0), 1 month ago) - CouchDB stats exporter for Prometheus

@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (1 day ago)
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (2 days ago)
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system. (2 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments (3 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.4.3](https://github.com/spring-projects/spring-boot/releases/tag/v2.4.3), today) - Spring Boot
-- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) ([v2021-02-16T12-54-56](https://github.com/gesellix/ossrh-test/releases/tag/v2021-02-16T12-54-56), 2 days ago) - 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M2](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M2), today) - Spring Boot
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) ([v2021-02-16T12-54-56](https://github.com/gesellix/ossrh-test/releases/tag/v2021-02-16T12-54-56), 3 days ago) - 
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) ([v0.6](https://github.com/gesellix/teamcity-deployments-status-publisher/releases/tag/v0.6), 2 weeks ago) - A TeamCity plugin to publish deployment status updates to an external system.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.0.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.0.0), 1 month ago) - CouchDB stats exporter for Prometheus

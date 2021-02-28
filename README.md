@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (6 days ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (6 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 week ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-02-21T11-25-35](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-02-21T11-25-35), 6 days ago) - Gradle Docker plugin
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-02-21T11-25-35](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-02-21T11-25-35), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-02-20T21-57-11](https://github.com/gesellix/docker-client/releases/tag/v2021-02-20T21-57-11), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-02-20T00-49-21](https://github.com/docker-client/docker-engine/releases/tag/v2021-02-20T00-49-21), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-02-19T23-58-16](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-02-19T23-58-16), 1 week ago) - 

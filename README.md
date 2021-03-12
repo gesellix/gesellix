@@ -12,7 +12,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
-- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (2 weeks ago)
+- [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) -  (3 weeks ago)
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system. (1 month ago)
 
 #### 🌱 My latest projects
@@ -34,10 +34,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-03-01T19-18-38](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-03-01T19-18-38), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-03-01T18-45-03](https://github.com/gesellix/docker-client/releases/tag/v2021-03-01T18-45-03), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-03-01T18-15-39](https://github.com/docker-client/docker-engine/releases/tag/v2021-03-01T18-15-39), 1 week ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-02-19T23-58-16](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-02-19T23-58-16), 2 weeks ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-02-19T23-44-24](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-02-19T23-44-24), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-02-19T22-58-27](https://github.com/docker-client/testutil/releases/tag/v2021-02-19T22-58-27), 2 weeks ago) - 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M2](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M2), 2 weeks ago) - Spring Boot
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-02-19T23-58-16](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-02-19T23-58-16), 3 weeks ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-02-19T23-44-24](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-02-19T23-44-24), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-02-19T22-58-27](https://github.com/docker-client/testutil/releases/tag/v2021-02-19T22-58-27), 3 weeks ago) - 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M2](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M2), 3 weeks ago) - Spring Boot
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) ([v2021-02-16T12-54-56](https://github.com/gesellix/ossrh-test/releases/tag/v2021-02-16T12-54-56), 3 weeks ago) - 
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 4 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [sajaniishara](https://github.com/sajaniishara)
 - [alexispomares](https://github.com/alexispomares)
 - [unstko](https://github.com/unstko)
 - [roamingthings](https://github.com/roamingthings)
 - [irevenko](https://github.com/irevenko)
-- [timohirt](https://github.com/timohirt)
 
 #### 💬 Feedback
 

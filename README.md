@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-02-19T22-58-27](https://github.com/docker-client/testutil/releases/tag/v2021-02-19T22-58-27), 3 weeks ago) - 
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-M2](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-M2), 3 weeks ago) - Spring Boot
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) ([v2021-02-16T12-54-56](https://github.com/gesellix/ossrh-test/releases/tag/v2021-02-16T12-54-56), 3 weeks ago) - 
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 4 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.2](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.2), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 #### 📜 My recent blog posts
 
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [schmidthappens](https://github.com/schmidthappens)
 - [sajaniishara](https://github.com/sajaniishara)
 - [alexispomares](https://github.com/alexispomares)
 - [unstko](https://github.com/unstko)
 - [roamingthings](https://github.com/roamingthings)
-- [irevenko](https://github.com/irevenko)
 
 #### 💬 Feedback
 

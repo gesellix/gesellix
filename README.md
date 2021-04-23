@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 day ago)
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626 (1 week ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
@@ -30,11 +30,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-04-22T01-01-15](https://github.com/docker-client/docker-engine/releases/tag/v2021-04-22T01-01-15), 1 day ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-04-22T00-21-01](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-04-22T00-21-01), 1 day ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-04-21T23-43-41](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-04-21T23-43-41), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-04-21T23-29-14](https://github.com/docker-client/testutil/releases/tag/v2021-04-21T23-29-14), 1 day ago) - 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-RC1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-RC1), 6 days ago) - Spring Boot
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-04-22T01-01-15](https://github.com/docker-client/docker-engine/releases/tag/v2021-04-22T01-01-15), 2 days ago) - Bare HTTP client for the Docker engine api
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-04-22T00-21-01](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-04-22T00-21-01), 2 days ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-04-21T23-43-41](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-04-21T23-43-41), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-04-21T23-29-14](https://github.com/docker-client/testutil/releases/tag/v2021-04-21T23-29-14), 2 days ago) - 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-RC1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-RC1), 1 week ago) - Spring Boot
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.3), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-04-10T14-34-47](https://github.com/gesellix/docker-client/releases/tag/v2021-04-10T14-34-47), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-04-07T17-02-20](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-04-07T17-02-20), 2 weeks ago) - Gradle Docker plugin
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [ghaku](https://github.com/ghaku)
 - [schmidthappens](https://github.com/schmidthappens)
 - [sajaniishara](https://github.com/sajaniishara)
 - [unstko](https://github.com/unstko)
 - [roamingthings](https://github.com/roamingthings)
-- [irevenko](https://github.com/irevenko)
 
 #### 💬 Feedback
 

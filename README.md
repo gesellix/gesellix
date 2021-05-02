@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (6 days ago)
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626 (2 weeks ago)
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [saigyo](https://github.com/saigyo)
 - [cn-kali-team](https://github.com/cn-kali-team)
 - [akkuman](https://github.com/akkuman)
 - [schmidthappens](https://github.com/schmidthappens)
 - [sajaniishara](https://github.com/sajaniishara)
-- [unstko](https://github.com/unstko)
 
 #### 💬 Feedback
 

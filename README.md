@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 days ago)
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (3 days ago)
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626 (3 weeks ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-05-07T23-43-26](https://github.com/gesellix/docker-client/releases/tag/v2021-05-07T23-43-26), 1 day ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-05-05T22-41-13](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-05-05T22-41-13), 3 days ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-05-07T23-43-26](https://github.com/gesellix/docker-client/releases/tag/v2021-05-07T23-43-26), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-05-05T22-41-13](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-05-05T22-41-13), 4 days ago) - Gradle Docker plugin
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-04-22T01-01-15](https://github.com/docker-client/docker-engine/releases/tag/v2021-04-22T01-01-15), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-04-22T00-21-01](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-04-22T00-21-01), 2 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-04-21T23-43-41](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-04-21T23-43-41), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client

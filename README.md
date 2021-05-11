@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 days ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (4 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 day ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (4 days ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (5 days ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626 (3 weeks ago)
@@ -30,9 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.0.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.0.0), today) - Plugin to create and publish a docker image of a spring-boot-service
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-05-07T23-43-26](https://github.com/gesellix/docker-client/releases/tag/v2021-05-07T23-43-26), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-05-05T22-41-13](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-05-05T22-41-13), 5 days ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-05-07T23-43-26](https://github.com/gesellix/docker-client/releases/tag/v2021-05-07T23-43-26), 4 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-05-05T22-41-13](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-05-05T22-41-13), 6 days ago) - Gradle Docker plugin
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-04-22T01-01-15](https://github.com/docker-client/docker-engine/releases/tag/v2021-04-22T01-01-15), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-04-22T00-21-01](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-04-22T00-21-01), 2 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-04-21T23-43-41](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-04-21T23-43-41), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
@@ -40,6 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.0-RC1](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.0-RC1), 3 weeks ago) - Spring Boot
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.15.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.15.3), 3 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2021-04-05T21-19-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2021-04-05T21-19-00), 1 month ago) - Gradle plugin to create Debian packages
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2021-03-02T23-21-53](https://github.com/gesellix/couchdb-client/releases/tag/v2021-03-02T23-21-53), 2 months ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

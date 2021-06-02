@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    # Daily at 20:00.
-    # https://crontab.guru/#0_20_*_*_*
+    # Every hour.
+    # https://crontab.guru/#0_*/1_*_*_*
     - cron: '0 */1 * * *'
 jobs:
   markscribe:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@@v2
       - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}

@@ -22,7 +22,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          commit_message: [bot] Update README.md
+          commit_message: "[bot] Update README.md"
           branch: master
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com

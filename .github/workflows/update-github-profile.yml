@@ -1,29 +1,30 @@
 ---
 name: 'Update GitHub Profile'
 on:
+  workflow_dispatch:
+  push:
   schedule:
     # Daily at 20:00.
     # https://crontab.guru/#0_20_*_*_*
-    - cron: '0 20 * * *'
+    - cron: '0 */1 * * *'
 jobs:
-  update-readme:
-    name: 'Markscribe README.md'
+  markscribe:
     runs-on: ubuntu-latest
     steps:
-      - name: 'Checkout'
-        uses: actions/checkout@master
-      - name: 'Get markscribe'
-        run: go get -u github.com/muesli/markscribe
-      - name: 'Update README.md'
-        run: $(go env GOPATH)/bin/markscribe README.md.tpl > README.md
+      - uses: actions/checkout@master
+      - uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-      - name: 'Commit and Push updated README.md'
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add README.md
-          git commit -m "[bot] Update README.md"
-          git push
+        with:
+          template: "README.md.tpl"
+          writeTo: "README.md"
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          commit_message: [bot] Update README.md
+          branch: master
+          commit_user_name: readme-scribe 🤖
+          commit_user_email: actions@github.com
+          commit_author: readme-scribe 🤖 <actions@github.com>
 ...

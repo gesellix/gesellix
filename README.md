@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.0.2](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.0.2), today) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-09T13-51-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-09T13-51-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-08T19-57-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-08T19-57-00), 1 week ago) - Gradle Docker plugin
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-08-08T13-24-00](https://github.com/docker-client/docker-engine/releases/tag/v2021-08-08T13-24-00), 1 week ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.6.0-M1](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-M1), 3 weeks ago) - Spring Boot
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.16.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.16.0), 3 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2021-04-05T21-19-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2021-04-05T21-19-00), 4 months ago) - Gradle plugin to create Debian packages
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2021-03-02T23-21-53](https://github.com/gesellix/couchdb-client/releases/tag/v2021-03-02T23-21-53), 5 months ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

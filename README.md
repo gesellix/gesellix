@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (6 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-09T13-51-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-09T13-51-00), 6 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-09T13-51-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-09T13-51-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-08T19-57-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-08T19-57-00), 1 week ago) - Gradle Docker plugin
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-08-08T13-24-00](https://github.com/docker-client/docker-engine/releases/tag/v2021-08-08T13-24-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-08-06T13-40-45](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-08-06T13-40-45), 1 week ago) - 

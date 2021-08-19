@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.4.10](https://github.com/spring-projects/spring-boot/releases/tag/v2.4.10), today) - Spring Boot
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.0.2](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.0.2), 3 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-09T13-51-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-09T13-51-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-08T19-57-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-08T19-57-00), 1 week ago) - Gradle Docker plugin
@@ -37,7 +38,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-08-06T13-40-45](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-08-06T13-40-45), 1 week ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-08-05T22-09-32](https://github.com/docker-client/testutil/releases/tag/v2021-08-05T22-09-32), 2 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-08-05T21-58-10](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-08-05T21-58-10), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.6.0-M1](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-M1), 4 weeks ago) - Spring Boot
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.16.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.16.0), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2021-04-05T21-19-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2021-04-05T21-19-00), 4 months ago) - Gradle plugin to create Debian packages
 

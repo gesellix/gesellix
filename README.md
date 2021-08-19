@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.4](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.4), today) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.6.0-M2](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-M2), today) - Spring Boot
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.0.2](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.0.2), 3 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-09T13-51-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-09T13-51-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-08T19-57-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-08T19-57-00), 1 week ago) - Gradle Docker plugin

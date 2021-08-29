@@ -38,8 +38,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-08-05T22-09-32](https://github.com/docker-client/testutil/releases/tag/v2021-08-05T22-09-32), 3 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-08-05T21-58-10](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-08-05T21-58-10), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [moby/moby](https://github.com/moby/moby) ([v20.10.8](https://github.com/moby/moby/releases/tag/v20.10.8), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.16.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.16.0), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2021-04-05T21-19-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2021-04-05T21-19-00), 4 months ago) - Gradle plugin to create Debian packages
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2021-03-02T23-21-53](https://github.com/gesellix/couchdb-client/releases/tag/v2021-03-02T23-21-53), 6 months ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.0.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.0.3), today) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-27T21-11-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-27T21-11-00), 3 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2021-08-27T19-47-00](https://github.com/gesellix/docker-client/releases/tag/v2021-08-27T19-47-00), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-08-27T18-31-00](https://github.com/docker-client/docker-engine/releases/tag/v2021-08-27T18-31-00), 3 days ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-08-05T21-58-10](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-08-05T21-58-10), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [moby/moby](https://github.com/moby/moby) ([v20.10.8](https://github.com/moby/moby/releases/tag/v20.10.8), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2021-04-05T21-19-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2021-04-05T21-19-00), 4 months ago) - Gradle plugin to create Debian packages
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2021-03-02T23-21-53](https://github.com/gesellix/couchdb-client/releases/tag/v2021-03-02T23-21-53), 6 months ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.4.11](https://github.com/spring-projects/spring-boot/releases/tag/v2.4.11), today) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.5](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.5), today) - Spring Boot
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-09-21T08-00-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-09-21T08-00-00), 2 days ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-09-20T20-10-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-09-20T20-10-00), 3 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-09-20T20-00-00](https://github.com/docker-client/testutil/releases/tag/v2021-09-20T20-00-00), 3 days ago) - 

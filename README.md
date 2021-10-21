@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.5.6](https://github.com/spring-projects/spring-boot/releases/tag/v2.5.6), today) - Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.6.0-RC1](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-RC1), today) - Spring Boot
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2021-10-16T19-28-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2021-10-16T19-28-00), 5 days ago) - 
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.1.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.1.0), 6 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.7](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.7), 6 days ago) - API um Vorgänge auszulesen

@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (5 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) -  (2 weeks ago)

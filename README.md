@@ -35,11 +35,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-11-06T18-40-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-11-06T18-40-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.8](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.8), 1 week ago) - API um Vorgänge auszulesen
 - [moby/moby](https://github.com/moby/moby) ([v20.10.10](https://github.com/moby/moby/releases/tag/v20.10.10), 2 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) ([v2.6.0-RC1](https://github.com/spring-projects/spring-boot/releases/tag/v2.6.0-RC1), 3 weeks ago) - Spring Boot
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2021-10-16T19-28-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2021-10-16T19-28-00), 4 weeks ago) - 
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.1.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.1.0), 4 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-09-21T08-00-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-09-21T08-00-00), 1 month ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-09-20T20-00-00](https://github.com/docker-client/testutil/releases/tag/v2021-09-20T20-00-00), 1 month ago) - 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-08-27T21-11-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-08-27T21-11-00), 2 months ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

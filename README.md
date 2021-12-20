@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-12-13T07-10-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-12-13T07-10-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2021-11-21T21-26-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2021-11-21T21-26-00), 4 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [moby/moby](https://github.com/moby/moby) ([v20.10.11](https://github.com/moby/moby/releases/tag/v20.10.11), 1 month ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.8](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.8), 1 month ago) - API um Vorgänge auszulesen
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.1.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.1.0), 2 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

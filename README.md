@@ -4,19 +4,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) -  (today)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (5 days ago)
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (1 week ago)
 - [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one. (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - 
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) - 
 - [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
@@ -26,7 +27,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/maven-gradle-resolution](https://github.com/gesellix/maven-gradle-resolution) - Example to show different dependency resolution for org.apache.cxf:cxf-rt-ws-security:3.2.11
 - [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) - GitHub Action for opencredo/terrahelp
 - [gesellix/gradle-input-normalization](https://github.com/gesellix/gradle-input-normalization) - 
-- [gesellix/.github](https://github.com/gesellix/.github) - 
 
 #### 🔭 Latest releases I've contributed to
 

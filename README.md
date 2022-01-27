@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-01-27T23-52-00](https://github.com/gesellix/docker-client/releases/tag/v2022-01-27T23-52-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-01-27T22-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-01-27T22-10-00), today) - 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-01-27T20-25-00](https://github.com/gesellix/docker-client/releases/tag/v2022-01-27T20-25-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [moby/moby](https://github.com/moby/moby) ([v20.10.12](https://github.com/moby/moby/releases/tag/v20.10.12), 2 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2021-12-18T23-58-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2021-12-18T23-58-00), 1 month ago) - Gradle Docker plugin
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-12-18T14-29-00](https://github.com/docker-client/testutil/releases/tag/v2021-12-18T14-29-00), 1 month ago) - 

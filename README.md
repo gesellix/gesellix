@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.1.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.1.0), today) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-01T13-00-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-01T13-00-00), 4 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-02-01T12-00-00](https://github.com/gesellix/docker-client/releases/tag/v2022-02-01T12-00-00), 4 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-01T11-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-01T11-40-00), 4 days ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-12-18T13-34-00](https://github.com/docker-client/docker-engine/releases/tag/v2021-12-18T13-34-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-12-18T12-41-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-12-18T12-41-00), 1 month ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-12-13T07-10-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-12-13T07-10-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.1.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.1.0), 3 months ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

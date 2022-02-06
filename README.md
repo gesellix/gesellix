@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 day ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
 - [apache/couchdb-docker](https://github.com/apache/couchdb-docker) - Semi-official Apache CouchDB Docker images (3 days ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.1.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.1.0), 1 day ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.2.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.2.0), today) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-01T13-00-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-01T13-00-00), 5 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-02-01T12-00-00](https://github.com/gesellix/docker-client/releases/tag/v2022-02-01T12-00-00), 5 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-01T11-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-01T11-40-00), 5 days ago) - 

@@ -5,13 +5,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👷 Check out what I'm currently working on
 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (today)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 days ago)
 - [apache/couchdb-docker](https://github.com/apache/couchdb-docker) - Semi-official Apache CouchDB Docker images (3 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (5 days ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (5 days ago)
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (6 days ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (6 days ago)
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (6 days ago)
 - [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - Example project for the issue at https://github.com/gradle/gradle/issues/18671 (2 weeks ago)
 - [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one. (1 month ago)
 

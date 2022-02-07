@@ -4,13 +4,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (today)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 day ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 days ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 days ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 days ago)
 - [apache/couchdb-docker](https://github.com/apache/couchdb-docker) - Semi-official Apache CouchDB Docker images (4 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (6 days ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (6 days ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 week ago)
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (1 week ago)
 - [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - Example project for the issue at https://github.com/gradle/gradle/issues/18671 (2 weeks ago)
 - [rnorth/gh-combine-prs](https://github.com/rnorth/gh-combine-prs) - A `gh` extension for combining multiple PRs (e.g. Dependabot PRs) into one. (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-07T21-51-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-07T21-51-00), today) - Gradle Docker plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.2.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.2.0), 1 day ago) - CouchDB stats exporter for Prometheus
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-01T13-00-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-01T13-00-00), 6 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-02-01T12-00-00](https://github.com/gesellix/docker-client/releases/tag/v2022-02-01T12-00-00), 6 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-01T11-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-01T11-40-00), 6 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-02-01T11-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-02-01T11-07-00), 6 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/kex-vorgang-export-api](https://github.com/europace/kex-vorgang-export-api) ([v3.9](https://github.com/europace/kex-vorgang-export-api/releases/tag/v3.9), today) - API um Vorgänge auszulesen
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-07T21-51-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-07T21-51-00), 2 days ago) - Gradle Docker plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.2.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.2.0), 3 days ago) - CouchDB stats exporter for Prometheus
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-02-01T12-00-00](https://github.com/gesellix/docker-client/releases/tag/v2022-02-01T12-00-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2021-12-18T14-29-00](https://github.com/docker-client/testutil/releases/tag/v2021-12-18T14-29-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2021-12-18T13-34-00](https://github.com/docker-client/docker-engine/releases/tag/v2021-12-18T13-34-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2021-12-18T12-41-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2021-12-18T12-41-00), 1 month ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2021-12-13T07-10-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2021-12-13T07-10-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

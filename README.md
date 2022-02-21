@@ -32,7 +32,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-02-12T00-08-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-02-12T00-08-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-02-11T23-38-00](https://github.com/docker-client/testutil/releases/tag/v2022-02-11T23-38-00), 1 week ago) - 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-07T21-51-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-07T21-51-00), 1 week ago) - Gradle Docker plugin
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-02-07T21-51-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-02-07T21-51-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.2.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.2.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-02-01T12-00-00](https://github.com/gesellix/docker-client/releases/tag/v2022-02-01T12-00-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-01T11-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-01T11-40-00), 2 weeks ago) - 

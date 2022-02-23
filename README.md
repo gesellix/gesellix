@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-02-23T21-45-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-02-23T21-45-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-23T13-45-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-23T13-45-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-02-23T11-47-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-02-23T11-47-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-02-23T11-08-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-02-23T11-08-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-02-22T23-12-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-02-22T23-12-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-02-22T19-32-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-02-22T19-32-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-02-11T23-38-00](https://github.com/docker-client/testutil/releases/tag/v2022-02-11T23-38-00), 1 week ago) - 

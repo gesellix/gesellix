@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-02-27T13-38-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-02-27T13-38-00), 1 day ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-02-28T21-42-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-02-28T21-42-00), today) - 
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-02-23T22-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-02-23T22-16-00), 5 days ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-02-23T13-45-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-02-23T13-45-00), 5 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-02-23T11-47-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-02-23T11-47-00), 5 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

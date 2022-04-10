@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-04-10T17-45-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-04-10T17-45-00), today) - 
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-04-10T17-22-00](https://github.com/docker-client/testutil/releases/tag/v2022-04-10T17-22-00), today) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-04-10T17-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-04-10T17-15-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-04-09T23-24-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-04-09T23-24-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-04-09T16-18-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-04-09T16-18-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-04-09T16-04-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-04-09T16-04-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-04-09T15-48-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-04-09T15-48-00), 1 day ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-04-08T22-27-00](https://github.com/docker-client/echo-server/releases/tag/v2022-04-08T22-27-00), 2 days ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-03-28T22-19-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-03-28T22-19-00), 1 week ago) - 
 - [moby/moby](https://github.com/moby/moby) ([v20.10.14](https://github.com/moby/moby/releases/tag/v20.10.14), 2 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-03-06T22-36-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-03-06T22-36-00), 1 month ago) - A CouchDB client written in Groovy
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-02-23T22-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-02-23T22-16-00), 1 month ago) - 
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-02-11T23-38-00](https://github.com/docker-client/testutil/releases/tag/v2022-02-11T23-38-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

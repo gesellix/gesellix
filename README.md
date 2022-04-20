@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 day ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-04-19T16-14-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-04-19T16-14-00), today) - A Windows Named Pipe Http Echo Server
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-04-19T16-14-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-04-19T16-14-00), 1 day ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-04-10T21-46-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-04-10T21-46-00), 1 week ago) - 
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-04-10T17-45-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-04-10T17-45-00), 1 week ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-04-10T17-22-00](https://github.com/docker-client/testutil/releases/tag/v2022-04-10T17-22-00), 1 week ago) - 

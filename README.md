@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (6 days ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (6 days ago)
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (1 week ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 week ago)
 - [gesellix/unix-socket-factory](https://github.com/gesellix/unix-socket-factory) - Adds unix socket support to the Apache HttpClient (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.3.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.3.0), 5 days ago) - Plugin to create and publish a docker image of a spring-boot-service
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.3.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.3.0), 6 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-04-25T22-30-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-04-25T22-30-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2022-04-24T14-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2022-04-24T14-15-00), 1 week ago) - Gradle plugin to create Debian packages
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-04-23T15-43-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-04-23T15-43-00), 1 week ago) - Gradle Docker plugin

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v20.10.15](https://github.com/moby/moby/releases/tag/v20.10.15), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-05-05T20-38-00](https://github.com/gesellix/docker-client/releases/tag/v2022-05-05T20-38-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-05-04T21-01-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-05-04T21-01-00), 1 day ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-05-03T22-53-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-05-03T22-53-00), 2 days ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-05-03T21-30-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-05-03T21-30-00), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.3.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.3.0), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2022-04-24T14-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2022-04-24T14-15-00), 1 week ago) - Gradle plugin to create Debian packages
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-04-23T15-43-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-04-23T15-43-00), 1 week ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

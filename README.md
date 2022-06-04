@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v22.06.0-beta.0](https://github.com/moby/moby/releases/tag/v22.06.0-beta.0), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v22.06.0-beta.0](https://github.com/moby/moby/releases/tag/v22.06.0-beta.0), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.3.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.3.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-05-24T07-36-00](https://github.com/gesellix/docker-client/releases/tag/v2022-05-24T07-36-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-05-24T00-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-05-24T00-30-00), 1 week ago) - 
@@ -46,7 +46,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)
 - [Blue/Green Deployment with Docker InfraKit](https://www.gesellix.net/post/blue-green-deployment-with-docker-infrakit/) (5 years ago)
-- [On Library Dependencies and API Evolution](https://www.gesellix.net/post/choosing-a-library/) (6 years ago)
+- [On Library Dependencies and API Evolution](https://www.gesellix.net/post/choosing-a-library/) (7 years ago)
 - [Where Continuous Deployment ends](https://www.gesellix.net/post/where-continuous-deployment-ends/) (7 years ago)
 
 

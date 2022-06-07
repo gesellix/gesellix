@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v20.10.17](https://github.com/moby/moby/releases/tag/v20.10.17), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-06-06T11-52-00](https://github.com/docker-client/echo-server/releases/tag/v2022-06-06T11-52-00), 1 day ago) - 
-- [moby/moby](https://github.com/moby/moby) ([v22.06.0-beta.0](https://github.com/moby/moby/releases/tag/v22.06.0-beta.0), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.3.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.3.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-05-24T07-36-00](https://github.com/gesellix/docker-client/releases/tag/v2022-05-24T07-36-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-05-24T00-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-05-24T00-30-00), 2 weeks ago) - 

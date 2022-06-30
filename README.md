@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-06-19T15-06-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-06-19T15-06-00), 1 week ago) - 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-06-30T19-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-06-30T19-16-00), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-06-19T12-36-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-06-19T12-36-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-06-19T12-35-00](https://github.com/docker-client/testutil/releases/tag/v2022-06-19T12-35-00), 1 week ago) - 
 - [moby/moby](https://github.com/moby/moby) ([v20.10.17](https://github.com/moby/moby/releases/tag/v20.10.17), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems

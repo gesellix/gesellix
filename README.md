@@ -6,8 +6,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API (1 week ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 weeks ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (4 weeks ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (4 weeks ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 month ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)

@@ -32,8 +32,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.0), 2 weeks ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-07-04T00-00-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-07-04T00-00-00), 2 weeks ago) - A CouchDB client written in Groovy
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-06-30T19-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-06-30T19-16-00), 2 weeks ago) - 
-- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 4 weeks ago) - Go library for accessing the GitHub v3 API
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-06-30T19-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-06-30T19-16-00), 3 weeks ago) - 
+- [google/go-github](https://github.com/google/go-github) ([v45.2.0](https://github.com/google/go-github/releases/tag/v45.2.0), 1 month ago) - Go library for accessing the GitHub v3 API
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-06-19T12-36-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-06-19T12-36-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-06-19T12-35-00](https://github.com/docker-client/testutil/releases/tag/v2022-06-19T12-35-00), 1 month ago) - 
 - [moby/moby](https://github.com/moby/moby) ([v20.10.17](https://github.com/moby/moby/releases/tag/v20.10.17), 1 month ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems

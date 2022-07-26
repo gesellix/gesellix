@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.1](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.1), today) - Plugin to create and publish a docker image of a spring-boot-service
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-07-25T21-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-07-25T21-05-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-07-25T20-54-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-07-25T20-54-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-07-25T19-52-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-07-25T19-52-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-07-25T19-43-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-07-25T19-43-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-07-25T19-40-00](https://github.com/docker-client/testutil/releases/tag/v2022-07-25T19-40-00), 1 day ago) - 
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-07-25T00-00-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-07-25T00-00-00), 1 day ago) - A CouchDB client written in Groovy
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.0](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.0), 3 weeks ago) - Plugin to create and publish a docker image of a spring-boot-service
 
 #### 📜 My recent blog posts
 

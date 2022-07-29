@@ -2,4 +2,4 @@
   command = "hugo --buildDrafts --buildFuture -s site -b / -t vienna"
 
 [context.deploy-preview.environment]
-  HUGO_VERSION = "0.23"
+  HUGO_VERSION = "0.85.0"

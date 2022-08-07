@@ -5,13 +5,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👷 Check out what I'm currently working on
 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 week ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 week ago)
 

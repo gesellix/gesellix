@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-07-28T20-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-07-28T20-10-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-07-28T16-10-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-07-28T16-10-00), 2 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-07-28T00-22-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-07-28T00-22-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-07-26T14-32-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-07-26T14-32-00), 2 weeks ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-07-26T14-32-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-07-26T14-32-00), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 

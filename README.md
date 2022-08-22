@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v46.0.0](https://github.com/google/go-github/releases/tag/v46.0.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), today) - Go library for accessing the GitHub v3 API
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-07-31T15-12-00](https://github.com/docker-client/echo-server/releases/tag/v2022-07-31T15-12-00), 3 weeks ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-07-31T14-30-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-07-31T14-30-00), 3 weeks ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-07-28T23-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-07-28T23-30-00), 3 weeks ago) - Gradle Docker plugin

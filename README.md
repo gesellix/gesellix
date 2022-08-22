@@ -55,9 +55,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [Ontopic](https://github.com/Ontopic)
 - [dongshengjun](https://github.com/dongshengjun)
-- [ddVital](https://github.com/ddVital)
 - [agebhar1](https://github.com/agebhar1)
 - [mgred](https://github.com/mgred)
+- [FernandaDelbello](https://github.com/FernandaDelbello)
 
 #### 💬 Feedback
 

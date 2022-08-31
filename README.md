@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (today)
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 day ago)
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (3 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v4.30.0](https://github.com/integrations/terraform-provider-github/releases/tag/v4.30.0), 3 days ago) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v4.31.0](https://github.com/integrations/terraform-provider-github/releases/tag/v4.31.0), 1 day ago) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-07-31T15-12-00](https://github.com/docker-client/echo-server/releases/tag/v2022-07-31T15-12-00), 1 month ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-07-31T14-30-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-07-31T14-30-00), 1 month ago) - A Windows Named Pipe Http Echo Server

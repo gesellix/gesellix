@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), today) - A CouchDB client written in Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v4.31.0](https://github.com/integrations/terraform-provider-github/releases/tag/v4.31.0), 1 day ago) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-07-31T15-12-00](https://github.com/docker-client/echo-server/releases/tag/v2022-07-31T15-12-00), 1 month ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-07-28T22-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-07-28T22-55-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-07-28T22-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-07-28T22-30-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-07-28T20-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-07-28T20-10-00), 1 month ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-07-28T16-10-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-07-28T16-10-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

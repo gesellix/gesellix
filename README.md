@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [KonstantinGasser](https://github.com/KonstantinGasser)
 - [giantbrain0216](https://github.com/giantbrain0216)
 - [Ontopic](https://github.com/Ontopic)
 - [dongshengjun](https://github.com/dongshengjun)
 - [agebhar1](https://github.com/agebhar1)
-- [mgred](https://github.com/mgred)
 
 #### 💬 Feedback
 

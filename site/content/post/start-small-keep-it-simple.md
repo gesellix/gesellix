@@ -1,6 +1,6 @@
 
 +++
-date = "2022-09-05"
+date = "2022-09-04"
 draft = false
 title = "Start Small and Keep it Simple: Overview"
 slug = "start-small-keep-it-simple--overview"

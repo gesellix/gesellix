@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 1 week ago) - A CouchDB client written in Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v4.31.0](https://github.com/integrations/terraform-provider-github/releases/tag/v4.31.0), 1 week ago) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v47.0.0](https://github.com/google/go-github/releases/tag/v47.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-07-28T23-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-07-28T23-30-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2022-07-28T23-23-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2022-07-28T23-23-00), 1 month ago) - Gradle plugin to create Debian packages
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-07-28T22-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-07-28T22-55-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-07-28T22-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-07-28T22-30-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

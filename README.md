@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 days ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 days ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 days ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 days ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (1 week ago)
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (1 week ago)
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. (3 weeks ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), today) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 1 week ago) - A CouchDB client written in Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v4.31.0](https://github.com/integrations/terraform-provider-github/releases/tag/v4.31.0), 1 week ago) - Terraform GitHub provider
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-07-31T14-30-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-07-31T14-30-00), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-07-28T23-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-07-28T23-30-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2022-07-28T23-23-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2022-07-28T23-23-00), 1 month ago) - Gradle plugin to create Debian packages
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-07-28T22-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-07-28T22-55-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 
 #### 📜 My recent blog posts
 

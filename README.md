@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.0.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.0.0), 3 days ago) - Terraform GitHub provider
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.0), 3 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.0.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.0.0), 4 days ago) - Terraform GitHub provider
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.0), 4 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), 1 week ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 2 weeks ago) - A CouchDB client written in Groovy
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (1 week ago)
+- [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (2 weeks ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)
 - [Blue/Green Deployment with Docker InfraKit](https://www.gesellix.net/post/blue-green-deployment-with-docker-infrakit/) (5 years ago)

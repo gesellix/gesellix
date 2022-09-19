@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.1.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.1.0), today) - Terraform GitHub provider
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.2), today) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0), today) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.0.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.0.0), 5 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.0), 5 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), 1 week ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems

@@ -13,7 +13,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (3 weeks ago)
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies. (3 weeks ago)
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (3 weeks ago)
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) - Terraform GitHub provider (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 3 days ago) - Terraform GitHub provider
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 6 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 4 days ago) - Terraform GitHub provider
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.2), 1 week ago) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.

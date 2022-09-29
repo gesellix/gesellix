@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.4](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.4), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 6 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.2), 1 week ago) - CouchDB stats exporter for Prometheus
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 4 weeks ago) - A CouchDB client written in Groovy
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-07-31T15-12-00](https://github.com/docker-client/echo-server/releases/tag/v2022-07-31T15-12-00), 2 months ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-07-31T14-30-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-07-31T14-30-00), 2 months ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-07-28T23-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-07-28T23-30-00), 2 months ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

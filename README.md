@@ -30,14 +30,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.4](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.4), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 6 days ago) - Terraform GitHub provider
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.4](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.4), 1 day ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 1 week ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.2), 1 week ago) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 2 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 4 weeks ago) - A CouchDB client written in Groovy
+- [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2022-08-31T20-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2022-08-31T20-25-00), 1 month ago) - A CouchDB client written in Groovy
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2022-07-31T15-12-00](https://github.com/docker-client/echo-server/releases/tag/v2022-07-31T15-12-00), 2 months ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2022-07-31T14-30-00](https://github.com/gesellix/go-npipe/releases/tag/v2022-07-31T14-30-00), 2 months ago) - A Windows Named Pipe Http Echo Server
 

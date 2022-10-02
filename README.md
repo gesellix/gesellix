@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-10-02T13-22-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-10-02T13-22-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-02T13-21-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-02T13-21-00), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-10-01T21-14-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-10-01T21-14-00), 1 day ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-10-01T21-12-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-10-01T21-12-00), 1 day ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-09-30T19-52-00](https://github.com/docker-client/testutil/releases/tag/v2022-09-30T19-52-00), 2 days ago) - 
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.2), 1 week ago) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v47.1.0](https://github.com/google/go-github/releases/tag/v47.1.0), 1 week ago) - Go library for accessing the GitHub v3 API
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.2), 3 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [moby/moby](https://github.com/moby/moby) ([v20.10.18](https://github.com/moby/moby/releases/tag/v20.10.18), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### 📜 My recent blog posts
 

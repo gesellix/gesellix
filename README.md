@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.5](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.5), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-10-03T21-18-00](https://github.com/docker-client/testutil/releases/tag/v2022-10-03T21-18-00), 1 day ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-10-02T17-31-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-10-02T17-31-00), 2 days ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-10-02T17-12-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-10-02T17-12-00), 2 days ago) - Bare HTTP client for the Docker engine api
@@ -37,7 +38,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-02T13-21-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-02T13-21-00), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-10-01T21-14-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-10-01T21-14-00), 3 days ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-10-01T21-12-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-10-01T21-12-00), 3 days ago) - 
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.4](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.4), 5 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 1 week ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.2.1), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 

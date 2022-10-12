@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.4.0), today) - Terraform GitHub provider
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.3), 1 week ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.5](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.5), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-10-03T21-18-00](https://github.com/docker-client/testutil/releases/tag/v2022-10-03T21-18-00), 1 week ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-02T13-21-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-02T13-21-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-10-01T21-14-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-10-01T21-14-00), 1 week ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-10-01T21-12-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-10-01T21-12-00), 1 week ago) - 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.3.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.3.0), 2 weeks ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
 

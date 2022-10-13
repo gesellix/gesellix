@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.4.0), today) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.4.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.4.0), 1 day ago) - Terraform GitHub provider
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.3), 1 week ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.5](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.5), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-10-03T21-18-00](https://github.com/docker-client/testutil/releases/tag/v2022-10-03T21-18-00), 1 week ago) - 

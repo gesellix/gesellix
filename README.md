@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.0), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [moby/moby](https://github.com/moby/moby) ([v20.10.20](https://github.com/moby/moby/releases/tag/v20.10.20), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [google/go-github](https://github.com/google/go-github) ([v48.0.0](https://github.com/google/go-github/releases/tag/v48.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.5.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.5.0), 6 days ago) - Terraform GitHub provider
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-10-02T17-31-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-10-02T17-31-00), 2 weeks ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-10-02T17-12-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-10-02T17-12-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-10-02T13-22-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-10-02T13-22-00), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-02T13-21-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-02T13-21-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

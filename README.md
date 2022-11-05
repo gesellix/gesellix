@@ -5,15 +5,15 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👷 Check out what I'm currently working on
 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (2 weeks ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 weeks ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (3 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
 

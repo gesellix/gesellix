@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (2 weeks ago)

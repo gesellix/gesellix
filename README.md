@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-11-06T12-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-11-06T12-07-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-11-06T10-42-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-11-06T10-42-00), today) - Bare HTTP client for the Docker engine api
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.7.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.7.0), 1 week ago) - Terraform GitHub provider
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-27T21-00-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-27T21-00-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [google/go-github](https://github.com/google/go-github) ([v48.0.0](https://github.com/google/go-github/releases/tag/v48.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.3), 1 month ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.5](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.5), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2022-10-03T21-18-00](https://github.com/docker-client/testutil/releases/tag/v2022-10-03T21-18-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

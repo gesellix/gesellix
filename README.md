@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-11-07T20-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-11-07T20-55-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-11-07T07-35-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-11-07T07-35-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-11-06T18-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-11-06T18-25-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-11-06T12-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-11-06T12-07-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [moby/moby](https://github.com/moby/moby) ([v20.10.21](https://github.com/moby/moby/releases/tag/v20.10.21), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.3), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.0), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [google/go-github](https://github.com/google/go-github) ([v48.0.0](https://github.com/google/go-github/releases/tag/v48.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 
 #### 📜 My recent blog posts
 

@@ -4,10 +4,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 day ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 days ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (2 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-11-07T07-35-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-11-07T07-35-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-11-06T18-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-11-06T18-25-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-11-06T12-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-11-06T12-07-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-11-06T10-42-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-11-06T10-42-00), 1 day ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.3), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.0), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [google/go-github](https://github.com/google/go-github) ([v48.0.0](https://github.com/google/go-github/releases/tag/v48.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.3), 1 month ago) - CouchDB stats exporter for Prometheus
 
 #### 📜 My recent blog posts
 

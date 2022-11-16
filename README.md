@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 1 day ago) - Go library for accessing the GitHub v3 API
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-11-09T21-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-11-09T21-45-00), 1 week ago) - Gradle Docker plugin
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.8.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.8.0), 1 week ago) - Terraform GitHub provider
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-11-06T12-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-11-06T12-07-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-11-06T10-42-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-11-06T10-42-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2022-10-27T21-00-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2022-10-27T21-00-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [moby/moby](https://github.com/moby/moby) ([v20.10.21](https://github.com/moby/moby/releases/tag/v20.10.21), 3 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### 📜 My recent blog posts
 

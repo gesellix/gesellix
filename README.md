@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 1 day ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 2 days ago) - Go library for accessing the GitHub v3 API
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 2 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-11-09T21-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-11-09T21-45-00), 1 week ago) - Gradle Docker plugin
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.8.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.8.0), 1 week ago) - Terraform GitHub provider
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-11-07T20-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-11-07T20-55-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy

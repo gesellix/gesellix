@@ -13,7 +13,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.9.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.9.0), today) - Terraform GitHub provider
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.2), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 2 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.9.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.9.0), 1 day ago) - Terraform GitHub provider
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.2), 1 day ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 3 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
+- [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 4 days ago) - Go library for accessing the GitHub v3 API
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-11-09T21-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-11-09T21-45-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-11-07T20-55-00](https://github.com/gesellix/docker-client/releases/tag/v2022-11-07T20-55-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-11-07T07-35-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-11-07T07-35-00), 1 week ago) - 

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.2](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.2), today) - Plugin to create and publish a docker image of a spring-boot-service
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.9.2](https://github.com/integrations/terraform-provider-github/releases/tag/v5.9.2), today) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.2), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2022-11-07T07-35-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2022-11-07T07-35-00), 3 weeks ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-11-06T18-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-11-06T18-25-00), 3 weeks ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-11-06T12-07-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-11-06T12-07-00), 3 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-11-06T10-42-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-11-06T10-42-00), 3 weeks ago) - Bare HTTP client for the Docker engine api
 
 #### 📜 My recent blog posts
 

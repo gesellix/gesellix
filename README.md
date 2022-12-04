@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.4.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.4.0), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.11.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.11.0), 2 days ago) - Terraform GitHub provider
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.2](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.2), 6 days ago) - Plugin to create and publish a docker image of a spring-boot-service
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.3.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.3.2), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.17.6](https://github.com/testcontainers/testcontainers-java/releases/tag/1.17.6), 2 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [google/go-github](https://github.com/google/go-github) ([v48.1.0](https://github.com/google/go-github/releases/tag/v48.1.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-11-09T21-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-11-09T21-45-00), 3 weeks ago) - Gradle Docker plugin

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.4](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.4), today) - CouchDB stats exporter for Prometheus
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.12.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.12.0), 2 days ago) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v48.2.0](https://github.com/google/go-github/releases/tag/v48.2.0), 2 days ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.4.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.4.1), 2 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-12-06T00-21-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-12-06T00-21-00), 6 days ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2022-12-06T00-05-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2022-12-06T00-05-00), 6 days ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2022-12-05T23-21-00](https://github.com/docker-client/docker-engine/releases/tag/v2022-12-05T23-21-00), 6 days ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2022-12-05T22-47-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2022-12-05T22-47-00), 6 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 
 #### 📜 My recent blog posts
 

@@ -3,3 +3,10 @@
 
 [context.deploy-preview.environment]
   HUGO_VERSION = "0.85.0"
+
+[[redirects]]
+  # this is the default path used by IONOS/1&1
+  from = "/defaultsite"
+  to = "/"
+#  status = 301
+#  force = false

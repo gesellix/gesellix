@@ -30,11 +30,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v20.10.22](https://github.com/moby/moby/releases/tag/v20.10.22), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.4](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.4), 5 days ago) - CouchDB stats exporter for Prometheus
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.12.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.12.0), 1 week ago) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v48.2.0](https://github.com/google/go-github/releases/tag/v48.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.4.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.4.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [moby/moby](https://github.com/moby/moby) ([v23.0.0-beta.1](https://github.com/moby/moby/releases/tag/v23.0.0-beta.1), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2022-12-06T08-00-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2022-12-06T08-00-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2022-12-06T00-40-00](https://github.com/gesellix/docker-client/releases/tag/v2022-12-06T00-40-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2022-12-06T00-21-00](https://github.com/docker-client/docker-registry/releases/tag/v2022-12-06T00-21-00), 1 week ago) - 

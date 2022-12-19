@@ -1,0 +1,23 @@
+{
+  "subject": "acct:gesellix@hachyderm.io",
+  "aliases": [
+    "https://hachyderm.io/@gesellix",
+    "https://hachyderm.io/users/gesellix"
+  ],
+  "links": [
+    {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://hachyderm.io/@gesellix"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://hachyderm.io/users/gesellix"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://hachyderm.io/authorize_interaction?uri={uri}"
+    }
+  ]
+}

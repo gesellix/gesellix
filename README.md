@@ -10,8 +10,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (3 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 weeks ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 month ago)
 

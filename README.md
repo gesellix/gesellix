@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-01-11T07-55-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-01-11T07-55-00), today) - Bare HTTP client for the Docker engine api
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-01-11T07-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-01-11T07-45-00), today) - A Windows Named Pipe Http Echo Server
 - [google/go-github](https://github.com/google/go-github) ([v49.1.0](https://github.com/google/go-github/releases/tag/v49.1.0), today) - Go library for accessing the GitHub v3 API
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-01-10T23-23-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-01-10T23-23-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-01-10T22-03-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-01-10T22-03-00), 1 day ago) - 
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-01-10T21-33-00](https://github.com/docker-client/echo-server/releases/tag/v2023-01-10T21-33-00), 1 day ago) - 
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v7.4.4](https://github.com/jeremylong/DependencyCheck/releases/tag/v7.4.4), 5 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.13.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.13.0), 1 week ago) - Terraform GitHub provider
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.4.5](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.4.5), 2 weeks ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.2.8](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.2.8), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

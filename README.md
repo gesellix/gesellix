@@ -17,6 +17,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🌱 My latest projects
 
+- [gesellix/fontconfig-check](https://github.com/gesellix/fontconfig-check) - 
 - [gesellix/docker-client-examples](https://github.com/gesellix/docker-client-examples) - 
 - [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - Example project for the issue at https://github.com/gradle/gradle/issues/18671
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626
@@ -26,7 +27,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments
 - [gesellix/dotfiles](https://github.com/gesellix/dotfiles) - 
 - [gesellix/maven-gradle-resolution](https://github.com/gesellix/maven-gradle-resolution) - Example to show different dependency resolution for org.apache.cxf:cxf-rt-ws-security:3.2.11
-- [gesellix/terrahelp-github-action](https://github.com/gesellix/terrahelp-github-action) - GitHub Action for opencredo/terrahelp
 
 #### 🔭 Latest releases I've contributed to
 

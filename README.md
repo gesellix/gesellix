@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.0), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.2](https://github.com/moby/moby/releases/tag/v23.0.0-rc.2), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.14.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.14.0), 4 days ago) - Terraform GitHub provider
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-01-11T19-35-00](https://github.com/gesellix/docker-client/releases/tag/v2023-01-11T19-35-00), 4 days ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-01-11T07-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-01-11T07-45-00), 4 days ago) - A Windows Named Pipe Http Echo Server
 - [google/go-github](https://github.com/google/go-github) ([v49.1.0](https://github.com/google/go-github/releases/tag/v49.1.0), 4 days ago) - Go library for accessing the GitHub v3 API
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-01-10T23-23-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-01-10T23-23-00), 5 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-01-10T22-03-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-01-10T22-03-00), 5 days ago) - 
 
 #### 📜 My recent blog posts
 

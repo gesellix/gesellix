@@ -9,7 +9,7 @@ banner = ""
 aliases = ['/on-the-road-again/']
 +++
 
-After 10 years of not riding a bike, I finally got my hands on a gravel bike.
+After 10 years without a bike, I finally got my hands on a gravel bike.
 I wasn't aware how much I missed biking!
 
 # How I got back to biking

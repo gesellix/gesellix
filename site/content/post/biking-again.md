@@ -2,9 +2,9 @@
 +++
 date = "2023-01-22"
 draft = false
-title = "On the Road Again"
-slug = "on-the-road-again"
-tags = ['bike', 'biking', 'fun', 'gravel', 'canyon']
+title = "On the Bike Again"
+slug = "on-the-bike-again"
+tags = ['bike', 'biking', 'bike packing', 'fun', 'gravel', 'canyon']
 banner = ""
 aliases = ['/on-the-road-again/']
 +++

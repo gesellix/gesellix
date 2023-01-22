@@ -6,7 +6,7 @@ title = "On the Bike Again"
 slug = "on-the-bike-again"
 tags = ['bike', 'biking', 'bike packing', 'fun', 'gravel', 'canyon']
 banner = ""
-aliases = ['/on-the-road-again/']
+aliases = ['/on-the-bike-again/']
 +++
 
 After 10 years without a bike, I finally got my hands on a gravel bike.

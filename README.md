@@ -43,11 +43,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (today)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (4 months ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)
 - [Blue/Green Deployment with Docker InfraKit](https://www.gesellix.net/post/blue-green-deployment-with-docker-infrakit/) (6 years ago)
-- [On Library Dependencies and API Evolution](https://www.gesellix.net/post/choosing-a-library/) (7 years ago)
 
 
 

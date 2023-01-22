@@ -84,7 +84,12 @@ and I became also curious for bike backing.
 Long story short: I guess I'm going all-in and I'll keep inspirational
 stories by [Giant Cheerio](https://www.youtube.com/@giantcheerio)
 and [Wiebke Lühmann](https://www.youtube.com/@wiebkelueh) in my mind.
-The very first goal is probably a Brevet of 200km, or a tour up and down
-the hills to the [Westerwald](https://en.wikipedia.org/wiki/Westerwald).
+Yet, before going on a ride of 10.000km, I'll start with a Brevet of 200km
+or a tour up and down the hills to the [Westerwald](https://en.wikipedia.org/wiki/Westerwald).
+Other channels by [GCN auf Deutsch](https://www.youtube.com/@gcnaufdeutsch)
+and [Bastian Brutzer](https://www.youtube.com/@BastianBrutzer91)
+will certainly help with their tips and tricks, and I will certainly
+go for shorter/easier rides to [Cologne](https://en.wikipedia.org/wiki/Cologne)
+and [Koblenz](https://en.wikipedia.org/wiki/Koblenz).
 
 I'll keep you updated!

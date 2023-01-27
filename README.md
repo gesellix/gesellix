@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v50.0.0](https://github.com/google/go-github/releases/tag/v50.0.0), today) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.16.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.16.0), 5 days ago) - Terraform GitHub provider
-- [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.3](https://github.com/moby/moby/releases/tag/v23.0.0-rc.3), 6 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [google/go-github](https://github.com/google/go-github) ([v50.0.0](https://github.com/google/go-github/releases/tag/v50.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.16.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.16.0), 6 days ago) - Terraform GitHub provider
+- [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.3](https://github.com/moby/moby/releases/tag/v23.0.0-rc.3), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-01-11T19-35-00](https://github.com/gesellix/docker-client/releases/tag/v2023-01-11T19-35-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-01-11T17-30-00](https://github.com/docker-client/echo-server/releases/tag/v2023-01-11T17-30-00), 2 weeks ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (4 days ago)
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (5 days ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (4 months ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)

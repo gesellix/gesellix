@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.2), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [google/go-github](https://github.com/google/go-github) ([v50.0.0](https://github.com/google/go-github/releases/tag/v50.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.16.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.16.0), 1 week ago) - Terraform GitHub provider
 - [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.3](https://github.com/moby/moby/releases/tag/v23.0.0-rc.3), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-01-11T19-35-00](https://github.com/gesellix/docker-client/releases/tag/v2023-01-11T19-35-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-01-11T17-30-00](https://github.com/docker-client/echo-server/releases/tag/v2023-01-11T17-30-00), 2 weeks ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-01-11T17-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-01-11T17-25-00), 2 weeks ago) - 

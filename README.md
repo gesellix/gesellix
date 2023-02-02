@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v23.0.0-rc.4](https://github.com/moby/moby/releases/tag/v23.0.0-rc.4), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v23.0.0](https://github.com/moby/moby/releases/tag/v23.0.0), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.2), 5 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [google/go-github](https://github.com/google/go-github) ([v50.0.0](https://github.com/google/go-github/releases/tag/v50.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.16.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.16.0), 1 week ago) - Terraform GitHub provider

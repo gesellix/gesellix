@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (4 days ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (6 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (5 days ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v23.0.1](https://github.com/moby/moby/releases/tag/v23.0.1), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v23.0.1](https://github.com/moby/moby/releases/tag/v23.0.1), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.17.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.17.0), 1 week ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.0.2](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.0.2), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [google/go-github](https://github.com/google/go-github) ([v50.0.0](https://github.com/google/go-github/releases/tag/v50.0.0), 2 weeks ago) - Go library for accessing the GitHub v3 API
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (2 weeks ago)
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (3 weeks ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (5 months ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)

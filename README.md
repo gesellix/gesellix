@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (today)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (today)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (today)
 
 #### 🌱 My latest projects
 

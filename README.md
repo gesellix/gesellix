@@ -9,11 +9,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 day ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 day ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-02-20T22-10-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-02-20T22-10-00), today) - A CouchDB client written in Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.18.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.18.0), 2 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.1.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.1.0), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [moby/moby](https://github.com/moby/moby) ([v23.0.1](https://github.com/moby/moby/releases/tag/v23.0.1), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-01-11T17-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-01-11T17-25-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-01-11T07-55-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-01-11T07-55-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-01-11T07-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-01-11T07-45-00), 1 month ago) - A Windows Named Pipe Http Echo Server
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-01-10T23-23-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-01-10T23-23-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 
 #### 📜 My recent blog posts
 

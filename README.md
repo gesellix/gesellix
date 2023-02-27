@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.1.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.1.1), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-02-24T21-32-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-02-24T21-32-00), 3 days ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v50.1.0](https://github.com/google/go-github/releases/tag/v50.1.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.18.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.18.0), 1 week ago) - Terraform GitHub provider
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.1.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.1.0), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [moby/moby](https://github.com/moby/moby) ([v23.0.1](https://github.com/moby/moby/releases/tag/v23.0.1), 2 weeks ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-01-11T19-35-00](https://github.com/gesellix/docker-client/releases/tag/v2023-01-11T19-35-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-01-11T17-30-00](https://github.com/docker-client/echo-server/releases/tag/v2023-01-11T17-30-00), 1 month ago) - 

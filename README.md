@@ -10,10 +10,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 days ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (3 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (3 weeks ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-15T00-35-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-15T00-35-00), 1 day ago) - A CouchDB client written in Groovy
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-15T21-18-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-15T21-18-00), today) - A CouchDB client written in Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.18.3](https://github.com/integrations/terraform-provider-github/releases/tag/v5.18.3), 1 day ago) - Terraform GitHub provider
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-03-13T01-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-03-13T01-10-00), 2 days ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-03-13T00-25-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-03-13T00-25-00), 3 days ago) - 

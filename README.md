@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.2.0), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 4 days ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v50.2.0](https://github.com/google/go-github/releases/tag/v50.2.0), 5 days ago) - Go library for accessing the GitHub v3 API
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.5.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.5.0), 6 days ago) - CouchDB stats exporter for Prometheus
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-03-13T00-10-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-03-13T00-10-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-03-12T23-42-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-03-12T23-42-00), 1 week ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-03-12T23-41-00](https://github.com/docker-client/testutil/releases/tag/v2023-03-12T23-41-00), 1 week ago) - 
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-03-12T23-40-00](https://github.com/docker-client/echo-server/releases/tag/v2023-03-12T23-40-00), 1 week ago) - 
 
 #### 📜 My recent blog posts
 

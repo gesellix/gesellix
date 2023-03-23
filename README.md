@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (4 days ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (6 days ago)
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (5 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.2.0), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 4 days ago) - A CouchDB client written in Groovy
-- [google/go-github](https://github.com/google/go-github) ([v50.2.0](https://github.com/google/go-github/releases/tag/v50.2.0), 5 days ago) - Go library for accessing the GitHub v3 API
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.5.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.5.0), 6 days ago) - CouchDB stats exporter for Prometheus
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.2.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.2.0), 1 day ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 5 days ago) - A CouchDB client written in Groovy
+- [google/go-github](https://github.com/google/go-github) ([v50.2.0](https://github.com/google/go-github/releases/tag/v50.2.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.5.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.5.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.18.3](https://github.com/integrations/terraform-provider-github/releases/tag/v5.18.3), 1 week ago) - Terraform GitHub provider
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-03-13T01-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-03-13T01-10-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-03-13T00-25-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-03-13T00-25-00), 1 week ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (1 month ago)
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (2 months ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (6 months ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)

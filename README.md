@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-03-28T00-05-00](https://github.com/gesellix/docker-client/releases/tag/v2023-03-28T00-05-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-03-27T23-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-03-27T23-15-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-03-27T22-30-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-03-27T22-30-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-03-26T23-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-03-26T23-05-00), 1 day ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.1), 2 days ago) - Compare directories and zip/jar artifacts
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.2.1), 4 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 1 week ago) - A CouchDB client written in Groovy
-- [google/go-github](https://github.com/google/go-github) ([v50.2.0](https://github.com/google/go-github/releases/tag/v50.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 
 #### 📜 My recent blog posts
 

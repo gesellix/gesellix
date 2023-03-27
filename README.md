@@ -4,6 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
@@ -13,7 +14,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 days ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-03-27T20-55-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-03-27T20-55-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-03-26T23-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-03-26T23-05-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-03-26T22-22-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-03-26T22-22-00), 1 day ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-03-26T22-18-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-03-26T22-18-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 1 week ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v50.2.0](https://github.com/google/go-github/releases/tag/v50.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.5.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.5.0), 1 week ago) - CouchDB stats exporter for Prometheus
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.18.3](https://github.com/integrations/terraform-provider-github/releases/tag/v5.18.3), 1 week ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
 

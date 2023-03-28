@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v23.0.2](https://github.com/moby/moby/releases/tag/v23.0.2), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-03-28T00-05-00](https://github.com/gesellix/docker-client/releases/tag/v2023-03-28T00-05-00), 1 day ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-03-27T23-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-03-27T23-15-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-03-27T22-30-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-03-27T22-30-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-03-26T22-03-00](https://github.com/docker-client/testutil/releases/tag/v2023-03-26T22-03-00), 2 days ago) - 
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.1), 3 days ago) - Compare directories and zip/jar artifacts
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.2.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.2.1), 5 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-03-18T09-12-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-03-18T09-12-00), 1 week ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

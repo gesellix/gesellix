@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v20.10.24](https://github.com/moby/moby/releases/tag/v20.10.24), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.20.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.20.0), today) - Terraform GitHub provider
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.0), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [moby/moby](https://github.com/moby/moby) ([v24.0.0-beta.1](https://github.com/moby/moby/releases/tag/v24.0.0-beta.1), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-03-28T00-05-00](https://github.com/gesellix/docker-client/releases/tag/v2023-03-28T00-05-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-03-27T23-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-03-27T23-15-00), 1 week ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-03-27T22-30-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-03-27T22-30-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

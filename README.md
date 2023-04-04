@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.0), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.19.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.19.0), 1 day ago) - Terraform GitHub provider
 - [moby/moby](https://github.com/moby/moby) ([v24.0.0-beta.1](https://github.com/moby/moby/releases/tag/v24.0.0-beta.1), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-03-28T00-05-00](https://github.com/gesellix/docker-client/releases/tag/v2023-03-28T00-05-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-03-26T22-22-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-03-26T22-22-00), 1 week ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-03-26T22-18-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-03-26T22-18-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-03-26T22-03-00](https://github.com/docker-client/testutil/releases/tag/v2023-03-26T22-03-00), 1 week ago) - 
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.1), 1 week ago) - Compare directories and zip/jar artifacts
 
 #### 📜 My recent blog posts
 

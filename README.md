@@ -4,11 +4,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (today)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 days ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 days ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 days ago)
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), today) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-05T23-42-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-05T23-42-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-05T21-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-05T21-10-00), today) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-04-05T21-08-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-04-05T21-08-00), today) - A Windows Named Pipe Http Echo Server
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-04-05T20-02-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-04-05T20-02-00), today) - 
 - [google/go-github](https://github.com/google/go-github) ([v51.0.0](https://github.com/google/go-github/releases/tag/v51.0.0), today) - Go library for accessing the GitHub v3 API
 - [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.20.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.20.0), 1 day ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
 

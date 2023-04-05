@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-05T23-42-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-05T23-42-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-05T21-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-05T21-10-00), today) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-04-05T21-08-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-04-05T21-08-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-04-05T20-08-00](https://github.com/docker-client/echo-server/releases/tag/v2023-04-05T20-08-00), today) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [google/go-github](https://github.com/google/go-github) ([v51.0.0](https://github.com/google/go-github/releases/tag/v51.0.0), today) - Go library for accessing the GitHub v3 API
 - [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.20.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.20.0), 1 day ago) - Terraform GitHub provider
-- [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.0), 1 day ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 
 #### 📜 My recent blog posts
 

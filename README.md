@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.24](https://github.com/moby/moby/releases/tag/v20.10.24), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.20.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.20.0), 1 day ago) - Terraform GitHub provider
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.0](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.0), 1 day ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-03-28T00-05-00](https://github.com/gesellix/docker-client/releases/tag/v2023-03-28T00-05-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy

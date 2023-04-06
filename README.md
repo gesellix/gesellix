@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.21.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.21.1), today) - Terraform GitHub provider
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 1 day ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-05T23-42-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-05T23-42-00), 1 day ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-05T21-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-05T21-10-00), 1 day ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-04-05T20-03-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-04-05T20-03-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-04-05T20-02-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-04-05T20-02-00), 1 day ago) - 
 - [google/go-github](https://github.com/google/go-github) ([v51.0.0](https://github.com/google/go-github/releases/tag/v51.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
-- [moby/moby](https://github.com/moby/moby) ([v23.0.3](https://github.com/moby/moby/releases/tag/v23.0.3), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 
 #### 📜 My recent blog posts
 

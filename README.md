@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v24.0.0-beta.2](https://github.com/moby/moby/releases/tag/v24.0.0-beta.2), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.22.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.22.0), 3 days ago) - Terraform GitHub provider
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.3), 3 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 1 week ago) - Gradle Docker plugin
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-04-05T20-08-00](https://github.com/docker-client/echo-server/releases/tag/v2023-04-05T20-08-00), 1 week ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-04-05T20-06-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-04-05T20-06-00), 1 week ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-04-05T20-03-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-04-05T20-03-00), 1 week ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-04-05T20-02-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-04-05T20-02-00), 1 week ago) - 
 
 #### 📜 My recent blog posts
 

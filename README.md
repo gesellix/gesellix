@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v23.0.4](https://github.com/moby/moby/releases/tag/v23.0.4), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-14T21-08-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-14T21-08-00), 3 days ago) - A CouchDB client written in Groovy
-- [moby/moby](https://github.com/moby/moby) ([v24.0.0-beta.2](https://github.com/moby/moby/releases/tag/v24.0.0-beta.2), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.22.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.22.0), 6 days ago) - Terraform GitHub provider
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.3), 6 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 1 week ago) - Gradle Docker plugin

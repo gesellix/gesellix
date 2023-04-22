@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-22T21-28-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-22T21-28-00), today) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 4 days ago) - Terraform GitHub provider
 - [moby/moby](https://github.com/moby/moby) ([v23.0.4](https://github.com/moby/moby/releases/tag/v23.0.4), 5 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-14T21-08-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-14T21-08-00), 1 week ago) - A CouchDB client written in Groovy
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.3), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-05T23-42-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-05T23-42-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy

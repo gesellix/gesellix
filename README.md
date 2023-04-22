@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (4 days ago)
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (5 days ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 weeks ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), today) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 3 days ago) - Terraform GitHub provider
-- [moby/moby](https://github.com/moby/moby) ([v23.0.4](https://github.com/moby/moby/releases/tag/v23.0.4), 4 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 4 days ago) - Terraform GitHub provider
+- [moby/moby](https://github.com/moby/moby) ([v23.0.4](https://github.com/moby/moby/releases/tag/v23.0.4), 5 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-14T21-08-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-14T21-08-00), 1 week ago) - A CouchDB client written in Groovy
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.3), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 2 weeks ago) - Gradle Docker plugin
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (2 months ago)
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (3 months ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (7 months ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (5 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (5 years ago)

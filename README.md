@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (today)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (5 days ago)
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 weeks ago)

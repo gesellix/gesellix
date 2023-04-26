@@ -34,12 +34,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-22T21-28-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-22T21-28-00), 4 days ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), 5 days ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 1 week ago) - Terraform GitHub provider
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v1.4.3](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v1.4.3), 2 weeks ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 3 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-05T23-42-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-05T23-42-00), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-05T21-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-05T21-10-00), 3 weeks ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-04-05T21-08-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-04-05T21-08-00), 3 weeks ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-04-05T20-08-00](https://github.com/docker-client/echo-server/releases/tag/v2023-04-05T20-08-00), 3 weeks ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-04-05T20-06-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-04-05T20-06-00), 3 weeks ago) - 
 
 #### 📜 My recent blog posts
 

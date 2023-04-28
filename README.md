@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-28T13-53-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-28T13-53-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-04-30T11-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-04-30T11-10-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-04-28T10-46-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-04-28T10-46-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-04-28T10-37-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-04-28T10-37-00), today) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-22T21-28-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-22T21-28-00), 6 days ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 1 week ago) - Terraform GitHub provider
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-06T00-22-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-06T00-22-00), 3 weeks ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

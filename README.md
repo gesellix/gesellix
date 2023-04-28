@@ -6,13 +6,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 days ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 days ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (6 days ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-28T15-28-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-28T15-28-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-28T13-53-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-28T13-53-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-04-30T11-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-04-30T11-10-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-04-28T10-46-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-04-28T10-46-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [moby/moby](https://github.com/moby/moby) ([v23.0.5](https://github.com/moby/moby/releases/tag/v23.0.5), 2 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-04-22T21-28-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-04-22T21-28-00), 6 days ago) - A CouchDB client written in Groovy
 - [google/go-github](https://github.com/google/go-github) ([v52.0.0](https://github.com/google/go-github/releases/tag/v52.0.0), 1 week ago) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.23.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.23.0), 1 week ago) - Terraform GitHub provider
 
 #### 📜 My recent blog posts
 

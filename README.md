@@ -30,13 +30,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v24.0.0-rc.2](https://github.com/moby/moby/releases/tag/v24.0.0-rc.2), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.25.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.25.0), 1 day ago) - Terraform GitHub provider
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-05-02T22-00-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-05-02T22-00-00), 4 days ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-05-01T14-09-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-05-01T14-09-00), 5 days ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-05-01T14-07-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-05-01T14-07-00), 5 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-05-01T14-06-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-05-01T14-06-00), 5 days ago) - 
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-04-28T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-04-28T20-50-00), 1 week ago) - Gradle Docker plugin
-- [moby/moby](https://github.com/moby/moby) ([v24.0.0-rc.1](https://github.com/moby/moby/releases/tag/v24.0.0-rc.1), 1 week ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-04-28T15-28-00](https://github.com/gesellix/docker-client/releases/tag/v2023-04-28T15-28-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-04-28T13-53-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-04-28T13-53-00), 1 week ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-04-28T10-46-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-04-28T10-46-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

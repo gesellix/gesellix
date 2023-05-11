@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [moby/moby](https://github.com/moby/moby) ([v24.0.0-rc.3](https://github.com/moby/moby/releases/tag/v24.0.0-rc.3), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.1), today) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [moby/moby](https://github.com/moby/moby) ([v23.0.6](https://github.com/moby/moby/releases/tag/v23.0.6), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 3 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-05-07T23-22-00](https://github.com/gesellix/docker-client/releases/tag/v2023-05-07T23-22-00), 4 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-05-07T22-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-05-07T22-22-00), 4 days ago) - 

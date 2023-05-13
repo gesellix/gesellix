@@ -4,19 +4,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (5 days ago)
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (5 days ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (6 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (5 days ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (6 days ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (6 days ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (6 days ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (3 weeks ago)
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (3 weeks ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts
 - [gesellix/fontconfig-check](https://github.com/gesellix/fontconfig-check) - 
 - [gesellix/docker-client-examples](https://github.com/gesellix/docker-client-examples) - 
@@ -26,10 +27,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system.
 - [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments
-- [gesellix/dotfiles](https://github.com/gesellix/dotfiles) - 
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), today) - Send Notifications to Slack in a GitHub Workflow
 - [moby/moby](https://github.com/moby/moby) ([v24.0.0-rc.4](https://github.com/moby/moby/releases/tag/v24.0.0-rc.4), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.1), 2 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 5 days ago) - Gradle Docker plugin
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.25.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.25.0), 1 week ago) - Terraform GitHub provider
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-05-01T14-09-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-05-01T14-09-00), 1 week ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-05-01T14-07-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-05-01T14-07-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-05-01T14-06-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-05-01T14-06-00), 1 week ago) - 
 
 #### 📜 My recent blog posts
 

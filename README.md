@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.2), today) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 2 days ago) - Send Notifications to Slack in a GitHub Workflow
 - [moby/moby](https://github.com/moby/moby) ([v24.0.0-rc.4](https://github.com/moby/moby/releases/tag/v24.0.0-rc.4), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.1), 4 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-05-07T21-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-05-07T21-30-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.25.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.25.0), 1 week ago) - Terraform GitHub provider
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-05-01T14-09-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-05-01T14-09-00), 2 weeks ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-05-01T14-07-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-05-01T14-07-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

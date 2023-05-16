@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v20.10.25](https://github.com/moby/moby/releases/tag/v20.10.25), 1 day ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) ([v24.0.0](https://github.com/moby/moby/releases/tag/v24.0.0), today) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.2), 1 day ago) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 3 days ago) - Send Notifications to Slack in a GitHub Workflow
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.1), 5 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.

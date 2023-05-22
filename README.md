@@ -30,7 +30,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [moby/moby](https://github.com/moby/moby) ([v24.0.1](https://github.com/moby/moby/releases/tag/v24.0.1), 3 days ago) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.25.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.25.1), 4 days ago) - Terraform GitHub provider
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.1.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.1.2), 1 week ago) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 1 week ago) - Send Notifications to Slack in a GitHub Workflow
@@ -40,6 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-05-07T22-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-05-07T22-22-00), 2 weeks ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-05-07T21-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-05-07T21-30-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-05-01T14-09-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-05-01T14-09-00), 3 weeks ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-05-01T14-07-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-05-01T14-07-00), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

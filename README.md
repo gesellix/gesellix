@@ -10,8 +10,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (4 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
 

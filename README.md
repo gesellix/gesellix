@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (today)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 day ago)
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.0](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.0), today) - Compare directories and zip/jar artifacts
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.0](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.0), 1 day ago) - Compare directories and zip/jar artifacts
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.25.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.25.1), 1 week ago) - Terraform GitHub provider
-- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 1 week ago) - Send Notifications to Slack in a GitHub Workflow
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 2 weeks ago) - Send Notifications to Slack in a GitHub Workflow
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.1](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.1), 2 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-05-07T23-22-00](https://github.com/gesellix/docker-client/releases/tag/v2023-05-07T23-22-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [google/go-github](https://github.com/google/go-github) ([v53.0.0](https://github.com/google/go-github/releases/tag/v53.0.0), today) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.26.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.26.0), 5 days ago) - Terraform GitHub provider
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 6 days ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 1 week ago) - Compare directories and zip/jar artifacts
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-05-07T22-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-05-07T22-22-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-05-07T21-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-05-07T21-30-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-05-01T14-09-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-05-01T14-09-00), 1 month ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-05-01T14-07-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-05-01T14-07-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v53.0.0](https://github.com/google/go-github/releases/tag/v53.0.0), 1 day ago) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.26.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.26.0), 6 days ago) - Terraform GitHub provider
+- [google/go-github](https://github.com/google/go-github) ([v53.0.0](https://github.com/google/go-github/releases/tag/v53.0.0), 2 days ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.26.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.26.0), 1 week ago) - Terraform GitHub provider
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 1 week ago) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 3 weeks ago) - Send Notifications to Slack in a GitHub Workflow

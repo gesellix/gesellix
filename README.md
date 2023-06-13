@@ -4,13 +4,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (4 days ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (4 days ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 days ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (4 days ago)
-- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (4 days ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (5 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (5 days ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (5 days ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (5 days ago)
+- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (5 days ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 weeks ago)
-- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (4 weeks ago)
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), today) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 4 days ago) - CouchDB stats exporter for Prometheus
-- [google/go-github](https://github.com/google/go-github) ([v53.0.0](https://github.com/google/go-github/releases/tag/v53.0.0), 6 days ago) - Go library for accessing the GitHub v3 API
+- [google/go-github](https://github.com/google/go-github) ([v53.1.0](https://github.com/google/go-github/releases/tag/v53.1.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 1 day ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 5 days ago) - CouchDB stats exporter for Prometheus
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.26.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.26.0), 1 week ago) - Terraform GitHub provider
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 1 week ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 2 weeks ago) - Compare directories and zip/jar artifacts

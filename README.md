@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.27.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.27.0), 1 day ago) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), today) - Terraform GitHub provider
 - [google/go-github](https://github.com/google/go-github) ([v53.1.0](https://github.com/google/go-github/releases/tag/v53.1.0), 4 days ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 4 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 1 week ago) - CouchDB stats exporter for Prometheus

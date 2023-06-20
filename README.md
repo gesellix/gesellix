@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), today) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), 3 days ago) - Terraform GitHub provider
+- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 1 day ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), 4 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 2 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.

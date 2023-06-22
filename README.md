@@ -4,11 +4,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
-- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (1 week ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
+- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (2 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 2 days ago) - Go library for accessing the GitHub v3 API
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), 5 days ago) - Terraform GitHub provider
+- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 3 days ago) - Go library for accessing the GitHub v3 API
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), 6 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 1 week ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 3 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 3 weeks ago) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 1 month ago) - Send Notifications to Slack in a GitHub Workflow

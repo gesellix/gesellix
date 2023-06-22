@@ -4,19 +4,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - Example of a splash widget for Gio UI (today)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
 - [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (2 weeks ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 month ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - Example of a splash widget for Gio UI
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts
 - [gesellix/fontconfig-check](https://github.com/gesellix/fontconfig-check) - 
@@ -26,10 +27,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) - 
 - [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
 - [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system.
-- [gesellix/gh-deployments](https://github.com/gesellix/gh-deployments) - Util to manage GitHub Deployments
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), today) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 3 days ago) - Go library for accessing the GitHub v3 API
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.0), 6 days ago) - Terraform GitHub provider
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-05-07T23-22-00](https://github.com/gesellix/docker-client/releases/tag/v2023-05-07T23-22-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-05-07T22-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-05-07T22-22-00), 1 month ago) - 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-05-07T21-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-05-07T21-30-00), 1 month ago) - Bare HTTP client for the Docker engine api
 
 #### 📜 My recent blog posts
 

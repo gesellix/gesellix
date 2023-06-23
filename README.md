@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - Example of a splash widget for Gio UI (today)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
@@ -17,7 +17,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🌱 My latest projects
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - Example of a splash widget for Gio UI
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts
 - [gesellix/fontconfig-check](https://github.com/gesellix/fontconfig-check) - 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.1.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.1.0), today) - A cross-platform splash screen for Go, based on Gio UI
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.1), 1 day ago) - Terraform GitHub provider
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 1 day ago) - A CouchDB client written in Groovy
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 1 day ago) - CouchDB stats exporter for Prometheus
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 3 weeks ago) - Compare directories and zip/jar artifacts
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 1 month ago) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 1 month ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-05-07T23-22-00](https://github.com/gesellix/docker-client/releases/tag/v2023-05-07T23-22-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 
 #### 📜 My recent blog posts
 

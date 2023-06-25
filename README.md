@@ -30,11 +30,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), today) - A cross-platform splash screen for Go, based on Gio UI
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.1), 2 days ago) - Terraform GitHub provider
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 2 days ago) - A CouchDB client written in Groovy
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 2 days ago) - CouchDB stats exporter for Prometheus
-- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 5 days ago) - Go library for accessing the GitHub v3 API
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.1), 3 days ago) - Terraform GitHub provider
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 3 days ago) - A CouchDB client written in Groovy
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 3 days ago) - CouchDB stats exporter for Prometheus
+- [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 6 days ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 3 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 4 weeks ago) - Compare directories and zip/jar artifacts

@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), today) - Terraform GitHub provider
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 4 days ago) - A cross-platform splash screen for Go, based on Gio UI
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.28.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.28.1), 6 days ago) - Terraform GitHub provider
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 6 days ago) - A CouchDB client written in Groovy
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 6 days ago) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 1 week ago) - Go library for accessing the GitHub v3 API

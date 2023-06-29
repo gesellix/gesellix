@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 days ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
-- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (2 weeks ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 days ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
+- [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (3 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), today) - Terraform GitHub provider
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 4 days ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 6 days ago) - A CouchDB client written in Groovy
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 6 days ago) - CouchDB stats exporter for Prometheus
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), 1 day ago) - Terraform GitHub provider
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 5 days ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 1 week ago) - A CouchDB client written in Groovy
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 1 week ago) - CouchDB stats exporter for Prometheus
 - [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 4 weeks ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.

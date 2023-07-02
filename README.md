@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
 - [okeuday/erlang_go](https://github.com/okeuday/erlang_go) - Erlang External Term Format for Go (3 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
-- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-07-02T12-00-00](https://github.com/docker-client/echo-server/releases/tag/v2023-07-02T12-00-00), today) - 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-07-02T11-43-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-07-02T11-43-00), today) - A Windows Named Pipe Http Echo Server
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-07-02T11-35-00](https://github.com/docker-client/testutil/releases/tag/v2023-07-02T11-35-00), today) - 
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), 4 days ago) - Terraform GitHub provider
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 1 week ago) - A CouchDB client written in Groovy
@@ -37,9 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [google/go-github](https://github.com/google/go-github) ([v53.2.0](https://github.com/google/go-github/releases/tag/v53.2.0), 1 week ago) - Go library for accessing the GitHub v3 API
 - [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.3.1](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.3.1), 2 weeks ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [testcontainers/testcontainers-java](https://github.com/testcontainers/testcontainers-java) ([1.18.3](https://github.com/testcontainers/testcontainers-java/releases/tag/1.18.3), 1 month ago) - Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.2), 1 month ago) - Compare directories and zip/jar artifacts
-- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.1](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.1), 1 month ago) - Send Notifications to Slack in a GitHub Workflow
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-05-08T08-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-05-08T08-15-00), 1 month ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-07-02T20-30-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-07-02T20-30-00), today) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-07-02T20-10-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-07-02T20-10-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-07-02T13-00-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-07-02T13-00-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-07-02T12-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-07-02T12-35-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-07-02T12-10-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-07-02T12-10-00), today) - 
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-07-02T11-35-00](https://github.com/docker-client/testutil/releases/tag/v2023-07-02T11-35-00), today) - 
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), 4 days ago) - Terraform GitHub provider
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 1 week ago) - A CouchDB client written in Groovy
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 1 week ago) - CouchDB stats exporter for Prometheus
 
 #### 📜 My recent blog posts
 

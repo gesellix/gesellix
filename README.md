@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (6 days ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), 3 days ago) - Terraform GitHub provider
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.29.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.29.0), 4 days ago) - Terraform GitHub provider
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.0), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-06-22T18-05-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-06-22T18-05-00), 1 week ago) - A CouchDB client written in Groovy
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.6.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.6.1), 1 week ago) - CouchDB stats exporter for Prometheus

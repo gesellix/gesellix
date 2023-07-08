@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-07-08T12-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-07-08T12-40-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.30.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.30.0), 3 days ago) - Terraform GitHub provider
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.7.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.7.0), 3 days ago) - CouchDB stats exporter for Prometheus
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-07-05T22-50-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-07-05T22-50-00), 3 days ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-07-02T20-30-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-07-02T20-30-00), 6 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-07-02T20-10-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-07-02T20-10-00), 6 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-07-02T12-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-07-02T12-35-00), 6 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-07-02T12-10-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-07-02T12-10-00), 6 days ago) - 
 
 #### 📜 My recent blog posts
 

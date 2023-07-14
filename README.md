@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.31.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.31.0), today) - Terraform GitHub provider
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-07-12T08-22-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-07-12T08-22-00), 2 days ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-07-11T22-35-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-07-11T22-35-00), 3 days ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.30.1](https://github.com/integrations/terraform-provider-github/releases/tag/v5.30.1), 3 days ago) - Terraform GitHub provider
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-07-10T21-34-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-07-10T21-34-00), 4 days ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-07-10T21-32-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-07-10T21-32-00), 4 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-07-10T21-32-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-07-10T21-32-00), 4 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

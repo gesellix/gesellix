@@ -4,19 +4,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/java-iconified](https://github.com/gesellix/java-iconified) - Demo/test for working or broken support of iconified (J)Frame (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 days ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 days ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (4 days ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (6 days ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (6 days ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (6 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (6 days ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (6 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (6 days ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/java-iconified](https://github.com/gesellix/java-iconified) - Demo/test for working or broken support of iconified (J)Frame
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts
@@ -26,7 +27,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) - 
 - [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
-- [gesellix/teamcity-deployments-status-publisher](https://github.com/gesellix/teamcity-deployments-status-publisher) - A TeamCity plugin to publish deployment status updates to an external system.
 
 #### 🔭 Latest releases I've contributed to
 

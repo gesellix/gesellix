@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) - https://wiki.openjdk.org/display/jdk8u (4 days ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (5 days ago)
+- [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) - https://wiki.openjdk.org/display/jdk8u (5 days ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (6 days ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.33.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.33.0), today) - Terraform GitHub provider
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.2), 5 days ago) - A cross-platform splash screen for Go, based on Gio UI
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.33.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.33.0), 1 day ago) - Terraform GitHub provider
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.2), 6 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.0](https://github.com/gesellix/titlelink/releases/tag/v3.8.0), 1 week ago) - Joomla! TitleLink plugin
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-07-16T20-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-07-16T20-22-00), 3 weeks ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-07-16T20-20-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-07-16T20-20-00), 3 weeks ago) - 

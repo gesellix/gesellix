@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
 - [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) - https://wiki.openjdk.org/display/jdk8u (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (2 weeks ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [gesellix/java-iconified](https://github.com/gesellix/java-iconified) - Demo/test for working or broken support of iconified (J)Frame (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-08-15T23-03-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-08-15T23-03-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-08-15T22-14-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-08-15T22-14-00), today) - 
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-08-15T22-07-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-08-15T22-07-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-08-15T21-29-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-08-15T21-29-00), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-08-15T21-00-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-08-15T21-00-00), today) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-08-15T20-58-00](https://github.com/docker-client/testutil/releases/tag/v2023-08-15T20-58-00), today) - 
@@ -37,9 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.0](https://github.com/gesellix/titlelink/releases/tag/v3.8.0), 2 weeks ago) - Joomla! TitleLink plugin
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-07-16T20-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-07-16T20-22-00), 1 month ago) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-07-16T20-20-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-07-16T20-20-00), 1 month ago) - 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-07-12T08-22-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-07-12T08-22-00), 1 month ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-07-10T21-32-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-07-10T21-32-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 
 #### 📜 My recent blog posts
 

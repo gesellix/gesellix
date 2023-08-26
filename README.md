@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.34.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.34.0), 1 day ago) - Terraform GitHub provider
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.4.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.4.0), 6 days ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+- [integrations/terraform-provider-github](https://github.com/integrations/terraform-provider-github) ([v5.34.0](https://github.com/integrations/terraform-provider-github/releases/tag/v5.34.0), 2 days ago) - Terraform GitHub provider
+- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.4.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.4.0), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-08-16T20-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-08-16T20-30-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-08-16T19-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-08-16T19-55-00), 1 week ago) - 
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-08-16T09-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-08-16T09-45-00), 1 week ago) - Gradle Docker plugin

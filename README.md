@@ -30,7 +30,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) ([v8.4.0](https://github.com/jeremylong/DependencyCheck/releases/tag/v8.4.0), 1 week ago) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-08-16T20-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-08-16T20-30-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-08-16T19-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-08-16T19-55-00), 2 weeks ago) - 
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-08-16T09-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-08-16T09-45-00), 2 weeks ago) - Gradle Docker plugin
@@ -40,6 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-08-15T22-14-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-08-15T22-14-00), 2 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-08-15T21-29-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-08-15T21-29-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-08-15T20-58-00](https://github.com/docker-client/testutil/releases/tag/v2023-08-15T20-58-00), 2 weeks ago) - 
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.2.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.2.2), 3 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 
 #### 📜 My recent blog posts
 

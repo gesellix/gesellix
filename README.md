@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (today)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.3.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.3.0), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.3.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.3.0), 2 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-09-08T21-55-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-09-08T21-55-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-08-16T20-30-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-08-16T20-30-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-08-16T19-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-08-16T19-55-00), 1 month ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (7 months ago)
+- [On the Bike Again](https://www.gesellix.net/post/on-the-bike-again/) (8 months ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/post/start-small-keep-it-simple-overview/) (1 year ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/post/running-docker-linuxkit-on-linode/) (6 years ago)
 - [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/post/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (6 years ago)

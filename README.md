@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 day ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 day ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-10-01T23-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-10-01T23-30-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-10-01T21-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-10-01T21-35-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-10-01T12-25-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-10-01T12-25-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-09-30T12-48-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-09-30T12-48-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-09-23T20-25-00](https://github.com/docker-client/echo-server/releases/tag/v2023-09-23T20-25-00), 1 week ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-09-23T20-23-00](https://github.com/docker-client/testutil/releases/tag/v2023-09-23T20-23-00), 1 week ago) - 
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.3.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.3.0), 2 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-08-16T09-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-08-16T09-45-00), 1 month ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

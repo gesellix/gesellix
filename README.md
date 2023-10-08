@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.3](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.3), today) - Compare directories and zip/jar artifacts
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-10-08T11-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-10-08T11-40-00), today) - 
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-10-04T10-00-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-10-04T10-00-00), 4 days ago) - A CouchDB client written in Groovy
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-10-04T09-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-10-04T09-45-00), 4 days ago) - Gradle Docker plugin
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-10-03T20-55-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-10-03T20-55-00), 5 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-10-01T21-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-10-01T21-35-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.8.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.8.0), 1 week ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.3.2](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.3.2), 1 week ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

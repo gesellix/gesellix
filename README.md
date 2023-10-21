@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), today) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-10-18T23-25-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-10-18T23-25-00), 3 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-10-18T22-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-10-18T22-40-00), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-10-18T12-42-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-10-18T12-42-00), 3 days ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-10-17T21-05-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-10-17T21-05-00), 4 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.3](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.3), 1 week ago) - Compare directories and zip/jar artifacts
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-10-04T10-00-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-10-04T10-00-00), 2 weeks ago) - A CouchDB client written in Groovy
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-10-03T20-58-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-10-03T20-58-00), 2 weeks ago) - 
 
 #### 📜 My recent blog posts
 

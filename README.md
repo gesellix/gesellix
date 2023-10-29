@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (1 day ago)
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (today)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), today) - Joomla! TitleLink plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-10-18T23-25-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-10-18T23-25-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-10-18T22-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-10-18T22-40-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-10-17T22-40-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-10-17T22-40-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-10-17T21-05-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-10-17T21-05-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.3](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.3), 3 weeks ago) - Compare directories and zip/jar artifacts
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2023-10-04T10-00-00](https://github.com/gesellix/couchdb-client/releases/tag/v2023-10-04T10-00-00), 3 weeks ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

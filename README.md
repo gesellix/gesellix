@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (today)
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (1 day ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), today) - Joomla! TitleLink plugin
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), 1 day ago) - Joomla! TitleLink plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-10-18T23-25-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-10-18T23-25-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-10-18T22-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-10-18T22-40-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-11-01T18-45-00](https://github.com/gesellix/docker-client/releases/tag/v2023-11-01T18-45-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-11-01T12-00-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-11-01T12-00-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-11-01T11-00-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-11-01T11-00-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-11-01T10-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-11-01T10-55-00), today) - 
@@ -38,7 +39,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), 3 days ago) - Joomla! TitleLink plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), 1 week ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-10-18T23-25-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-10-18T23-25-00), 2 weeks ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-10-18T22-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-10-18T22-40-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.392.08.1](https://github.com/corretto/corretto-8/releases/tag/8.392.08.1), 2 weeks ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 
 #### 📜 My recent blog posts

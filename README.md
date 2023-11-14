@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-11-01T09-20-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-11-01T09-20-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), 2 weeks ago) - Joomla! TitleLink plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.392.08.1](https://github.com/corretto/corretto-8/releases/tag/8.392.08.1), 3 weeks ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.392.08.1](https://github.com/corretto/corretto-8/releases/tag/8.392.08.1), 4 weeks ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 
 #### 📜 My recent blog posts
 

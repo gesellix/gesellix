@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-11-16T20-25-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-11-16T20-25-00), today) - Bare HTTP client for the Docker engine api
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-11-16T20-20-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-11-16T20-20-00), today) - 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-11-16T20-20-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-11-16T20-20-00), today) - 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-11-16T20-20-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-11-16T20-20-00), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2023-11-14T22-40-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2023-11-14T22-40-00), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-11-05T19-45-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-11-05T19-45-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-11-01T18-45-00](https://github.com/gesellix/docker-client/releases/tag/v2023-11-01T18-45-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-11-01T12-00-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-11-01T12-00-00), 2 weeks ago) - 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-11-01T11-00-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-11-01T11-00-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2023-11-01T10-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2023-11-01T10-55-00), 2 weeks ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-11-01T09-25-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-11-01T09-25-00), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.1](https://github.com/gesellix/titlelink/releases/tag/v3.8.1), 2 weeks ago) - Joomla! TitleLink plugin
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.392.08.1](https://github.com/corretto/corretto-8/releases/tag/8.392.08.1), 1 month ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 
 #### 📜 My recent blog posts
 

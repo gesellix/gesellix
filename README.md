@@ -5,8 +5,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👷 Check out what I'm currently working on
 
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (today)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (today)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (3 days ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 days ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (5 days ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (5 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (6 days ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.3), today) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.4.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.4.0), today) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.2), 3 days ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.3.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.3.3), 3 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-12-01T19-40-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-12-01T19-40-00), 5 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-12-01T19-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-12-01T19-40-00), 6 days ago) - A Docker client for Java written in Kotlin and Groovy

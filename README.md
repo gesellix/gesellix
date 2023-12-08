@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-12-08T18-16-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-12-08T18-16-00), today) - A Windows Named Pipe Http Echo Server
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.4), today) - Compare directories and zip/jar artifacts
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.3), 1 day ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.4.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.4.0), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.3.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.3.3), 4 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-12-01T00-22-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-12-01T00-22-00), 1 week ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2023-12-01T00-00-00](https://github.com/docker-client/docker-engine/releases/tag/v2023-12-01T00-00-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-11-30T21-50-00](https://github.com/docker-client/testutil/releases/tag/v2023-11-30T21-50-00), 1 week ago) - 
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-11-30T21-25-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-11-30T21-25-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2023-11-30T21-24-00](https://github.com/docker-client/docker-registry/releases/tag/v2023-11-30T21-24-00), 1 week ago) - 
 
 #### 📜 My recent blog posts
 

@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (5 days ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (5 days ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (6 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (6 days ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 week ago)
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-12-08T18-16-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-12-08T18-16-00), 4 days ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.4), 4 days ago) - Compare directories and zip/jar artifacts
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.3), 5 days ago) - CouchDB stats exporter for Prometheus
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.4.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.4.0), 5 days ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-12-08T18-16-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-12-08T18-16-00), 5 days ago) - A Windows Named Pipe Http Echo Server
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.4), 5 days ago) - Compare directories and zip/jar artifacts
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.3](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.3), 6 days ago) - CouchDB stats exporter for Prometheus
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.4.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.4.0), 6 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.3.3](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.3.3), 1 week ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2023-12-01T19-40-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2023-12-01T19-40-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2023-12-01T19-40-00](https://github.com/gesellix/docker-client/releases/tag/v2023-12-01T19-40-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy

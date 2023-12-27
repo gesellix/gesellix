@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) ([v0.0.2](https://github.com/gesellix/slack-notify-action/releases/tag/v0.0.2), today) - Send Notifications to Slack in a GitHub Workflow
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.9.4](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.9.4), 4 days ago) - CouchDB stats exporter for Prometheus
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2023-12-21T13-00-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2023-12-21T13-00-00), 6 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2023-12-19T23-50-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2023-12-19T23-50-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2023-12-19T09-55-00](https://github.com/docker-client/testutil/releases/tag/v2023-12-19T09-55-00), 1 week ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2023-12-19T09-50-00](https://github.com/docker-client/echo-server/releases/tag/v2023-12-19T09-50-00), 1 week ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2023-12-08T18-16-00](https://github.com/gesellix/go-npipe/releases/tag/v2023-12-08T18-16-00), 2 weeks ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.2.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.2.4), 2 weeks ago) - Compare directories and zip/jar artifacts
 
 #### 📜 My recent blog posts
 

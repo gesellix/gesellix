@@ -1,3 +1,4 @@
+#theme = "congo-2.7.6"
 baseurl = "https://www.gesellix.net"
 title = "gesellix.net"
 copyright = "&copy; Tobias Gesellchen"

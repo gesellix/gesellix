@@ -13,3 +13,10 @@
   to = "/"
 #  status = 301
 #  force = false
+
+[[redirects]]
+  # /post was for the vienna theme, /posts is for the congo theme
+  from = "/post/*"
+  to = "/posts/:splat"
+#  status = 301
+#  force = false

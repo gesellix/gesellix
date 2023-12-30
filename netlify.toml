@@ -1,3 +1,6 @@
+[context.production.environment]
+  HUGO_VERSION = "0.119.0"
+
 [context.deploy-preview]
   command = "hugo --buildDrafts --buildFuture -s site -b / -t congo-2.7.6"
 

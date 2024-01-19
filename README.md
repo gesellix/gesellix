@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.402.08.1](https://github.com/corretto/corretto-8/releases/tag/8.402.08.1), today) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-01-17T08-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-01-17T08-50-00), 2 days ago) - Gradle Docker plugin
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.402.07.1](https://github.com/corretto/corretto-8/releases/tag/8.402.07.1), 3 days ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-01-16T21-45-00](https://github.com/gesellix/docker-client/releases/tag/v2024-01-16T21-45-00), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-01-16T20-15-00](https://github.com/docker-client/testutil/releases/tag/v2024-01-16T20-15-00), 3 days ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-01-16T20-10-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-01-16T20-10-00), 3 days ago) - 

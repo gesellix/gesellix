@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-02-22T07-50-00](https://github.com/gesellix/docker-client/releases/tag/v2024-02-22T07-50-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-02-21T23-45-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-02-21T23-45-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-02-21T22-15-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-02-21T22-15-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-02-21T19-40-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-02-21T19-40-00), 1 day ago) - Bare HTTP client for the Docker engine api
@@ -37,7 +38,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-02-21T19-25-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-02-21T19-25-00), 1 day ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2024-02-21T19-20-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2024-02-21T19-20-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.5.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.5.0), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-02-10T12-30-00](https://github.com/gesellix/docker-client/releases/tag/v2024-02-10T12-30-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.402.08.1](https://github.com/corretto/corretto-8/releases/tag/8.402.08.1), 1 month ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-01-17T08-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-01-17T08-50-00), 1 month ago) - Gradle Docker plugin
 

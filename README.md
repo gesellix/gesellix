@@ -54,10 +54,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 👯 Check out some of my recent followers
 
 - [jankal](https://github.com/jankal)
-- [mohammadhasanii](https://github.com/mohammadhasanii)
 - [Huangxuny1](https://github.com/Huangxuny1)
 - [surfskyio](https://github.com/surfskyio)
 - [Mroczek1992](https://github.com/Mroczek1992)
+- [jkuelheim](https://github.com/jkuelheim)
 
 #### 💬 Feedback
 

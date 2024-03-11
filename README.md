@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.7.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.7.0), 2 days ago) - Schedule Moby/Docker containers cleanup after specific delay.
+- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.7.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.7.0), 3 days ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-02-22T21-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-02-22T21-15-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-02-22T07-50-00](https://github.com/gesellix/docker-client/releases/tag/v2024-02-22T07-50-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-02-21T23-45-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-02-21T23-45-00), 2 weeks ago) - 

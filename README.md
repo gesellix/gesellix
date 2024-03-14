@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) - Schedule Moby/Docker containers cleanup after specific delay. (1 week ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.0](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.0), today) - Compare directories and zip/jar artifacts
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-03-14T19-35-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-03-14T19-35-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-03-14T08-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-03-14T08-10-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-03-13T22-25-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-03-13T22-25-00), 1 day ago) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.7.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.7.0), 6 days ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-02-22T21-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-02-22T21-15-00), 3 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-02-22T07-50-00](https://github.com/gesellix/docker-client/releases/tag/v2024-02-22T07-50-00), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.5.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.5.0), 4 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 
 #### 📜 My recent blog posts
 

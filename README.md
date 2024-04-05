@@ -6,7 +6,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 weeks ago)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 weeks ago)
@@ -33,7 +33,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 2 weeks ago) - A CouchDB client written in Groovy
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-03-16T11-35-00](https://github.com/gesellix/docker-client/releases/tag/v2024-03-16T11-35-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.1), 2 weeks ago) - Compare directories and zip/jar artifacts
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.1), 3 weeks ago) - Compare directories and zip/jar artifacts
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-03-14T19-35-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-03-14T19-35-00), 3 weeks ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-03-14T08-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-03-14T08-10-00), 3 weeks ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-03-13T22-25-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-03-13T22-25-00), 3 weeks ago) - Bare HTTP client for the Docker engine api

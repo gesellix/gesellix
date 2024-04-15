@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 days ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (4 weeks ago)
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (4 weeks ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
@@ -30,10 +30,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 3 days ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 4 weeks ago) - Gradle Docker plugin
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 4 weeks ago) - A CouchDB client written in Groovy
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-03-16T11-35-00](https://github.com/gesellix/docker-client/releases/tag/v2024-03-16T11-35-00), 4 weeks ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 4 days ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 1 month ago) - Gradle Docker plugin
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 1 month ago) - A CouchDB client written in Groovy
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-03-16T11-35-00](https://github.com/gesellix/docker-client/releases/tag/v2024-03-16T11-35-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.1), 1 month ago) - Compare directories and zip/jar artifacts
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-03-14T19-35-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-03-14T19-35-00), 1 month ago) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-03-14T08-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-03-14T08-10-00), 1 month ago) - 

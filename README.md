@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.412.08.1](https://github.com/corretto/corretto-8/releases/tag/8.412.08.1), today) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 5 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 1 month ago) - A CouchDB client written in Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-03-14T08-10-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-03-14T08-10-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-03-13T22-25-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-03-13T22-25-00), 1 month ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-03-13T21-50-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-03-13T21-50-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-03-13T21-20-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-03-13T21-20-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

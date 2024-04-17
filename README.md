@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (5 days ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (6 days ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.412.08.1](https://github.com/corretto/corretto-8/releases/tag/8.412.08.1), today) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 5 days ago) - A cross-platform splash screen for Go, based on Gio UI
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.412.08.1](https://github.com/corretto/corretto-8/releases/tag/8.412.08.1), 1 day ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 6 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 1 month ago) - A CouchDB client written in Groovy
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-03-16T11-35-00](https://github.com/gesellix/docker-client/releases/tag/v2024-03-16T11-35-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
@@ -46,7 +46,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (1 year ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (2 years ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/posts/running-docker-linuxkit-on-linode/) (6 years ago)
-- [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/posts/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (6 years ago)
+- [Zero Downtime Deployment with Docker Stack and Spring Boot](https://www.gesellix.net/posts/zero-downtime-deployment-with-docker-stack-and-spring-boot/) (7 years ago)
 - [Blue/Green Deployment with Docker InfraKit](https://www.gesellix.net/posts/blue-green-deployment-with-docker-infrakit/) (7 years ago)
 
 

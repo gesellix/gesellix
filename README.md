@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (2 days ago)
+- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (3 days ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.0](https://github.com/tobischo/kp2/releases/tag/v1.2.0), 1 day ago) - A commandline client for accessing Keepass 2 files (kdbx)
-- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.412.08.1](https://github.com/corretto/corretto-8/releases/tag/8.412.08.1), 5 days ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
+- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.0](https://github.com/tobischo/kp2/releases/tag/v1.2.0), 2 days ago) - A commandline client for accessing Keepass 2 files (kdbx)
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.412.08.1](https://github.com/corretto/corretto-8/releases/tag/8.412.08.1), 6 days ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.0), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 1 month ago) - A CouchDB client written in Groovy

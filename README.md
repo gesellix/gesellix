@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (1 week ago)
+- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (2 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (1 day ago)
+- [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 days ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (1 year ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (2 years ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/posts/running-docker-linuxkit-on-linode/) (6 years ago)

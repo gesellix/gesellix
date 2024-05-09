@@ -4,6 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue (today)
 - [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (2 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
@@ -11,12 +12,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue
 - [gesellix/java-iconified](https://github.com/gesellix/java-iconified) - Demo/test for working or broken support of iconified (J)Frame
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/slack-notify-action](https://github.com/gesellix/slack-notify-action) - Send Notifications to Slack in a GitHub Workflow
@@ -26,7 +27,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - Example project for the issue at https://github.com/gradle/gradle/issues/18671
 - [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626
 - [gesellix/ossrh-test](https://github.com/gesellix/ossrh-test) - 
-- [gesellix/github-workflow-status-indicator](https://github.com/gesellix/github-workflow-status-indicator) - Shows GitHub Workflow Status&#39; in Your System Tray
 
 #### 🔭 Latest releases I've contributed to
 

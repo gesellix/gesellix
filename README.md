@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue (today)
-- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (2 weeks ago)
+- [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue (1 day ago)
+- [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (3 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)

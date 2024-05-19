@@ -6,14 +6,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (today)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (today)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (today)
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue (4 days ago)
 - [tobischo/kp2](https://github.com/tobischo/kp2) - A commandline client for accessing Keepass 2 files (kdbx) (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 months ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 months ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 months ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-05-19T19-15-00](https://github.com/docker-client/echo-server/releases/tag/v2024-05-19T19-15-00), today) - 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-05-19T19-10-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-05-19T19-10-00), today) - A Windows Named Pipe Http Echo Server
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.1), today) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.4.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.4.0), today) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.2), 3 days ago) - A cross-platform splash screen for Go, based on Gio UI
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-03-16T20-50-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-03-16T20-50-00), 2 months ago) - Gradle Docker plugin
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-03-16T14-45-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-03-16T14-45-00), 2 months ago) - A CouchDB client written in Groovy
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-03-16T11-35-00](https://github.com/gesellix/docker-client/releases/tag/v2024-03-16T11-35-00), 2 months ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.1](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.1), 2 months ago) - Compare directories and zip/jar artifacts
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-03-14T19-35-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-03-14T19-35-00), 2 months ago) - 
 
 #### 📜 My recent blog posts
 

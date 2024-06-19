@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.1), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.4.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.4.0), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
-- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.0](https://github.com/tobischo/kp2/releases/tag/v1.2.0), 1 month ago) - A commandline client for accessing Keepass 2 files (kdbx)
+- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.0](https://github.com/tobischo/kp2/releases/tag/v1.2.0), 2 months ago) - A commandline client for accessing Keepass 2 files (kdbx)
 
 #### 📜 My recent blog posts
 

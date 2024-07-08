@@ -6,12 +6,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (2 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (4 weeks ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (4 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (4 weeks ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (4 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (4 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (4 weeks ago)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (4 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 

@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), today) - Gradle plugin to create Debian packages
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 2 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-06-09T22-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-06-09T22-35-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-06-09T22-20-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-06-09T22-20-00), 1 month ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-05-19T19-10-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-05-19T19-10-00), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.1), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.4.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.4.0), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.6.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.6.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
 
 #### 📜 My recent blog posts
 

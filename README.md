@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 day ago)
-- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (2 weeks ago)
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (2 days ago)
+- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (3 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), today) - Gradle plugin to create Debian packages
-- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 2 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), 1 day ago) - Gradle plugin to create Debian packages
+- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 3 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-06-09T22-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-06-09T22-35-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-06-09T22-20-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-06-09T22-20-00), 1 month ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2024-06-09T21-00-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2024-06-09T21-00-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client

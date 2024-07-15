@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.0), today) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), 2 days ago) - Gradle plugin to create Debian packages
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 3 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-06-09T22-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-06-09T22-35-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-05-19T19-15-00](https://github.com/docker-client/echo-server/releases/tag/v2024-05-19T19-15-00), 1 month ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-05-19T19-10-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-05-19T19-10-00), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.1), 1 month ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.4.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.4.0), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

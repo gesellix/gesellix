@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.0), today) - Schedule Moby/Docker containers cleanup after specific delay.
+- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.1](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.1), today) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), 2 days ago) - Gradle plugin to create Debian packages
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 3 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-06-09T22-35-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-06-09T22-35-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec

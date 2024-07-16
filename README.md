@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.422.05.1](https://github.com/corretto/corretto-8/releases/tag/8.422.05.1), today) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.1](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.1), 1 day ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), 3 days ago) - Gradle plugin to create Debian packages
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 3 weeks ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-06-09T20-55-00](https://github.com/docker-client/testutil/releases/tag/v2024-06-09T20-55-00), 1 month ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-05-19T19-15-00](https://github.com/docker-client/echo-server/releases/tag/v2024-05-19T19-15-00), 1 month ago) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-05-19T19-10-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-05-19T19-10-00), 1 month ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.1), 1 month ago) - CouchDB stats exporter for Prometheus
 
 #### 📜 My recent blog posts
 

@@ -4,6 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (5 days ago)
@@ -11,9 +12,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (2 weeks ago)
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-07-28T19-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-07-28T19-45-00), today) - A Windows Named Pipe Http Echo Server
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-07-28T19-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-07-28T19-15-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-07-28T18-40-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-07-28T18-40-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-07-28T18-30-00](https://github.com/docker-client/echo-server/releases/tag/v2024-07-28T18-30-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-07-23T23-55-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-07-23T23-55-00), 5 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.1), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.422.05.1](https://github.com/corretto/corretto-8/releases/tag/8.422.05.1), 1 week ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.1](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.1), 1 week ago) - Schedule Moby/Docker containers cleanup after specific delay.
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2024-07-13T09-15-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2024-07-13T09-15-00), 2 weeks ago) - Gradle plugin to create Debian packages
-- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) ([v0.2.0](https://github.com/gesellix/windows-authenticode-cert-tagging/releases/tag/v0.2.0), 1 month ago) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 
 #### 📜 My recent blog posts
 

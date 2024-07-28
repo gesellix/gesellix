@@ -4,6 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
@@ -12,7 +13,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (2 weeks ago)
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (1 month ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-07-28T21-50-00](https://github.com/gesellix/docker-client/releases/tag/v2024-07-28T21-50-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-07-28T19-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-07-28T19-45-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-07-28T19-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-07-28T19-15-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-07-28T18-40-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-07-28T18-40-00), today) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2024-07-23T22-25-00](https://github.com/gesellix/couchdb-client/releases/tag/v2024-07-23T22-25-00), 5 days ago) - A CouchDB client written in Groovy
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.1), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [corretto/corretto-8](https://github.com/corretto/corretto-8) ([8.422.05.1](https://github.com/corretto/corretto-8/releases/tag/8.422.05.1), 1 week ago) - Amazon Corretto 8 is a no-cost, multi-platform, production-ready distribution of OpenJDK 8
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.8.1](https://github.com/testcontainers/moby-ryuk/releases/tag/0.8.1), 1 week ago) - Schedule Moby/Docker containers cleanup after specific delay.
 
 #### 📜 My recent blog posts
 

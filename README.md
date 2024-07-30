@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 days ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 days ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-07-28T22-25-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-07-28T22-25-00), 2 days ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-07-28T21-50-00](https://github.com/gesellix/docker-client/releases/tag/v2024-07-28T21-50-00), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-07-30T11-40-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-07-30T11-40-00), today) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-07-30T11-05-00](https://github.com/gesellix/docker-client/releases/tag/v2024-07-30T11-05-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-07-28T19-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-07-28T19-45-00), 2 days ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-07-28T19-15-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-07-28T19-15-00), 2 days ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-07-28T18-40-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-07-28T18-40-00), 2 days ago) - Bare HTTP client for the Docker engine api

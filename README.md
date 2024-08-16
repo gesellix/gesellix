@@ -12,7 +12,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 weeks ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 weeks ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 month ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.1](https://github.com/tobischo/kp2/releases/tag/v1.2.1), 1 week ago) - A commandline client for accessing Keepass 2 files (kdbx)
+- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.1](https://github.com/tobischo/kp2/releases/tag/v1.2.1), 2 weeks ago) - A commandline client for accessing Keepass 2 files (kdbx)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-07-30T11-40-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-07-30T11-40-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-07-30T11-05-00](https://github.com/gesellix/docker-client/releases/tag/v2024-07-30T11-05-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-07-28T19-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-07-28T19-45-00), 2 weeks ago) - A Windows Named Pipe Http Echo Server

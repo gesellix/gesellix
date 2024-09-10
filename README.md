@@ -31,7 +31,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 🔭 Latest releases I've contributed to
 
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.2), 1 week ago) - Compare directories and zip/jar artifacts
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.9.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.9.0), 1 week ago) - Schedule Moby/Docker containers cleanup after specific delay.
+- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.9.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.9.0), 2 weeks ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-08-24T11-30-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-08-24T11-30-00), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-08-24T11-11-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-08-24T11-11-00), 2 weeks ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-08-24T11-10-00](https://github.com/docker-client/testutil/releases/tag/v2024-08-24T11-10-00), 2 weeks ago) - 

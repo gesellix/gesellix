@@ -4,6 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (today)
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (today)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (5 days ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
@@ -11,8 +13,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (3 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (4 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.0), today) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.10.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.10.2), 2 days ago) - CouchDB stats exporter for Prometheus
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.2](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.2), 1 week ago) - Compare directories and zip/jar artifacts
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.9.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.9.0), 2 weeks ago) - Schedule Moby/Docker containers cleanup after specific delay.
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.1](https://github.com/tobischo/kp2/releases/tag/v1.2.1), 1 month ago) - A commandline client for accessing Keepass 2 files (kdbx)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-07-30T11-40-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-07-30T11-40-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-07-30T11-05-00](https://github.com/gesellix/docker-client/releases/tag/v2024-07-30T11-05-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-07-28T19-45-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-07-28T19-45-00), 1 month ago) - A Windows Named Pipe Http Echo Server
 
 #### 📜 My recent blog posts
 

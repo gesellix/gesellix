@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-09-15T22-35-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-09-15T22-35-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-09-15T21-00-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-09-15T21-00-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-09-15T20-35-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-09-15T20-35-00), today) - Bare HTTP client for the Docker engine api
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-09-15T20-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-09-15T20-15-00), today) - Gradle Docker plugin
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-09-15T19-35-00](https://github.com/docker-client/testutil/releases/tag/v2024-09-15T19-35-00), today) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-09-15T19-35-00](https://github.com/docker-client/echo-server/releases/tag/v2024-09-15T19-35-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-09-15T19-05-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-09-15T19-05-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-09-15T15-35-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-09-15T15-35-00), today) - 
 
 #### 📜 My recent blog posts
 

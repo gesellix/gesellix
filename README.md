@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.11.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.11.0), 6 days ago) - Schedule Moby/Docker containers cleanup after specific delay.
+- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.11.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.11.0), 1 week ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-09-15T22-35-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-09-15T22-35-00), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-09-15T21-00-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-09-15T21-00-00), 1 month ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-09-15T20-35-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-09-15T20-35-00), 1 month ago) - Bare HTTP client for the Docker engine api
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (6 days ago)
+- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (1 week ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (6 months ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (2 years ago)

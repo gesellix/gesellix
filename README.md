@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 month ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 month ago)
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), today) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-11-06T07-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-11-06T07-30-00), 5 days ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-11-05T20-15-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-11-05T20-15-00), 6 days ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-04T20-54-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-04T20-54-00), 1 week ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-11-04T20-50-00](https://github.com/docker-client/testutil/releases/tag/v2024-11-04T20-50-00), 1 week ago) - 
 - [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.11.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.11.0), 2 weeks ago) - Schedule Moby/Docker containers cleanup after specific delay.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-09-15T22-35-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-09-15T22-35-00), 1 month ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-09-15T20-15-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-09-15T20-15-00), 1 month ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

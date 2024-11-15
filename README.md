@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 days ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 months ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 months ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 months ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 3 days ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 3 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 4 days ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 4 days ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-11-06T07-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-11-06T07-30-00), 1 week ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-11-05T20-15-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-11-05T20-15-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-04T20-54-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-04T20-54-00), 1 week ago) - 

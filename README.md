@@ -4,6 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
@@ -12,8 +14,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 months ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-11-29T09-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-11-29T09-30-00), today) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-11-29T09-10-00](https://github.com/gesellix/docker-client/releases/tag/v2024-11-29T09-10-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-11-28T22-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-11-28T22-40-00), 1 day ago) - 
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-11-28T22-05-00), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-11-28T22-05-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -38,8 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 2 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2024-11-04T20-51-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2024-11-04T20-51-00), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2024-11-04T20-50-00](https://github.com/docker-client/testutil/releases/tag/v2024-11-04T20-50-00), 3 weeks ago) - 
-- [testcontainers/moby-ryuk](https://github.com/testcontainers/moby-ryuk) ([0.11.0](https://github.com/testcontainers/moby-ryuk/releases/tag/0.11.0), 1 month ago) - Schedule Moby/Docker containers cleanup after specific delay.
 
 #### 📜 My recent blog posts
 

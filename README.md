@@ -37,8 +37,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-11-28T22-05-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-11-28T22-05-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-24T11-22-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-24T11-22-00), 2 weeks ago) - 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 3 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 4 weeks ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 4 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2024-11-04T20-51-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2024-11-04T20-51-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts

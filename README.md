@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.2), today) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-11-29T09-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-11-29T09-30-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-11-29T09-10-00](https://github.com/gesellix/docker-client/releases/tag/v2024-11-29T09-10-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2024-11-28T22-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2024-11-28T22-40-00), 1 week ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-24T11-22-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-24T11-22-00), 2 weeks ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 4 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 4 weeks ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2024-11-04T20-51-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2024-11-04T20-51-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

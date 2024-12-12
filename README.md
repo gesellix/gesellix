@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [testcontainers/helloworld](https://github.com/testcontainers/helloworld) ([1.2.0](https://github.com/testcontainers/helloworld/releases/tag/1.2.0), today) - A Docker image to support Testcontainers&#39; self-test suites
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.2), 3 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-11-29T09-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-11-29T09-30-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-11-29T09-10-00](https://github.com/gesellix/docker-client/releases/tag/v2024-11-29T09-10-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-11-28T22-05-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-24T11-22-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-24T11-22-00), 2 weeks ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.11.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.11.0), 1 month ago) - CouchDB stats exporter for Prometheus
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.5.1](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.5.1), 1 month ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 
 #### 📜 My recent blog posts
 

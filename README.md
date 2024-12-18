@@ -12,7 +12,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
-- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (3 weeks ago)
+- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (4 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 months ago)
 
 #### 🌱 My latest projects
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.2](https://github.com/tobischo/kp2/releases/tag/v1.2.2), 2 days ago) - A commandline client for accessing Keepass 2 files (kdbx)
-- [testcontainers/helloworld](https://github.com/testcontainers/helloworld) ([1.2.0](https://github.com/testcontainers/helloworld/releases/tag/1.2.0), 5 days ago) - A Docker image to support Testcontainers&#39; self-test suites
+- [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.2](https://github.com/tobischo/kp2/releases/tag/v1.2.2), 3 days ago) - A commandline client for accessing Keepass 2 files (kdbx)
+- [testcontainers/helloworld](https://github.com/testcontainers/helloworld) ([1.2.0](https://github.com/testcontainers/helloworld/releases/tag/1.2.0), 6 days ago) - A Docker image to support Testcontainers&#39; self-test suites
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2024-11-29T09-30-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2024-11-29T09-30-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2024-11-29T09-10-00](https://github.com/gesellix/docker-client/releases/tag/v2024-11-29T09-10-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy

@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (today)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (3 weeks ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (3 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
-- [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag (1 month ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-12-22T12-25-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-12-22T12-25-00), today) - A Windows Named Pipe Http Echo Server
 - [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.2](https://github.com/tobischo/kp2/releases/tag/v1.2.2), 1 week ago) - A commandline client for accessing Keepass 2 files (kdbx)
 - [testcontainers/helloworld](https://github.com/testcontainers/helloworld) ([1.2.0](https://github.com/testcontainers/helloworld/releases/tag/1.2.0), 1 week ago) - A Docker image to support Testcontainers&#39; self-test suites
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.7.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.7.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2024-11-28T22-05-00), 3 weeks ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2024-11-28T22-05-00), 3 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2024-11-28T22-05-00](https://github.com/docker-client/docker-engine/releases/tag/v2024-11-28T22-05-00), 3 weeks ago) - Bare HTTP client for the Docker engine api
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2024-11-24T11-22-00](https://github.com/docker-client/docker-registry/releases/tag/v2024-11-24T11-22-00), 4 weeks ago) - 
 
 #### 📜 My recent blog posts
 

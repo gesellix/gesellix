@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 days ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (4 days ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 week ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.13.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.13.1), 3 days ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.13.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.13.1), 4 days ago) - CouchDB stats exporter for Prometheus
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-12-22T17-25-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-12-22T17-25-00), 1 week ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-12-22T16-35-00](https://github.com/docker-client/echo-server/releases/tag/v2024-12-22T16-35-00), 1 week ago) - 
 - [tobischo/kp2](https://github.com/tobischo/kp2) ([v1.2.2](https://github.com/tobischo/kp2/releases/tag/v1.2.2), 2 weeks ago) - A commandline client for accessing Keepass 2 files (kdbx)

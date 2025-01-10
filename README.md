@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
-- [XiaomingX](https://github.com/XiaomingX)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Fuctubetter22](https://github.com/Fuctubetter22)
 - [chemmi](https://github.com/chemmi)
 - [MauriIglesias](https://github.com/MauriIglesias)
+- [SandraAhlgrimm](https://github.com/SandraAhlgrimm)
 
 #### 💬 Feedback
 

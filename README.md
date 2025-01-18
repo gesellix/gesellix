@@ -4,10 +4,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 day ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (6 days ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (6 days ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (6 days ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 days ago)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (3 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.0), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.0), 2 days ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.13.1](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.13.1), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2024-12-22T17-25-00](https://github.com/gesellix/go-npipe/releases/tag/v2024-12-22T17-25-00), 3 weeks ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2024-12-22T16-35-00](https://github.com/docker-client/echo-server/releases/tag/v2024-12-22T16-35-00), 3 weeks ago) - 

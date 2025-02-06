@@ -12,7 +12,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 weeks ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 weeks ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 
 #### 🌱 My latest projects

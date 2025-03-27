@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 week ago)
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 weeks ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
@@ -44,7 +44,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 #### 📜 My recent blog posts
 
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (5 months ago)
-- [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (10 months ago)
+- [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (11 months ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (2 years ago)
 - [Running Docker LinuxKit on Linode](https://www.gesellix.net/posts/running-docker-linuxkit-on-linode/) (7 years ago)

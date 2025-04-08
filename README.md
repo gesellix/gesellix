@@ -6,9 +6,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (3 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 weeks ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (1 month ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 months ago)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 months ago)
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) - Util to configure a CouchDB 2.x cluster with several nodes. (2 months ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 months ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 months ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.13.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.13.2), 1 month ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.13.2](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.13.2), 2 months ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-01-19T11-11-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-01-19T11-11-00), 2 months ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-01-19T00-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-01-19T00-00-00), 2 months ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-01-18T21-41-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-01-18T21-41-00), 2 months ago) - 

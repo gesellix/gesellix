@@ -6,7 +6,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [pact-contract-test-demo/pact-broker](https://github.com/pact-contract-test-demo/pact-broker) - Pact Broker examples (local and remote) (1 week ago)
 - [pact-contract-test-demo/.github](https://github.com/pact-contract-test-demo/.github) -  (1 week ago)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (4 weeks ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 months ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 months ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 months ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.14.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.14.0), 4 weeks ago) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.14.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.14.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-01-19T11-11-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-01-19T11-11-00), 3 months ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-01-19T00-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-01-19T00-00-00), 3 months ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-01-18T21-41-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-01-18T21-41-00), 3 months ago) - 

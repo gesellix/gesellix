@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-05-17T19-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-05-17T19-00-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-05-17T13-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-05-17T13-25-00), today) - 
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2025-05-17T11-00-00](https://github.com/gesellix/go-npipe/releases/tag/v2025-05-17T11-00-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-05-17T10-55-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-05-17T10-55-00), today) - Bare HTTP client for the Docker engine api
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2025-05-16T22-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2025-05-16T22-55-00), 1 day ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-05-16T22-45-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-05-16T22-45-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-05-16T22-30-00](https://github.com/docker-client/testutil/releases/tag/v2025-05-16T22-30-00), 1 day ago) - 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.14.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.14.0), 1 month ago) - CouchDB stats exporter for Prometheus
 
 #### 📜 My recent blog posts
 

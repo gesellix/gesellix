@@ -6,8 +6,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)

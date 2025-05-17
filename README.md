@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-05-17T01-30-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-05-17T01-30-00), 1 day ago) - 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2025-05-17T11-00-00](https://github.com/gesellix/go-npipe/releases/tag/v2025-05-17T11-00-00), today) - A Windows Named Pipe Http Echo Server
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-05-17T10-55-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-05-17T10-55-00), today) - 
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-05-17T10-55-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-05-17T10-55-00), today) - Bare HTTP client for the Docker engine api
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-05-17T10-55-00](https://github.com/docker-client/echo-server/releases/tag/v2025-05-17T10-55-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-05-17T01-12-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-05-17T01-12-00), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-05-17T01-00-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-05-17T01-00-00), 1 day ago) - 
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-05-16T23-15-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-05-16T23-15-00), 1 day ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2025-05-16T22-55-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2025-05-16T22-55-00), 1 day ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-05-16T22-45-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-05-16T22-45-00), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-05-16T22-30-00](https://github.com/docker-client/testutil/releases/tag/v2025-05-16T22-30-00), 1 day ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.14.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.14.0), 1 month ago) - CouchDB stats exporter for Prometheus
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-01-19T11-11-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-01-19T11-11-00), 3 months ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-01-19T00-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-01-19T00-00-00), 3 months ago) - A Docker client for Java written in Kotlin and Groovy
 
 #### 📜 My recent blog posts
 

@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (5 days ago)
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (6 days ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2025-05-30T13-20-00](https://github.com/gesellix/couchdb-client/releases/tag/v2025-05-30T13-20-00), 5 days ago) - A CouchDB client written in Groovy
+- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2025-05-30T13-20-00](https://github.com/gesellix/couchdb-client/releases/tag/v2025-05-30T13-20-00), 6 days ago) - A CouchDB client written in Groovy
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.3](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.3), 2 weeks ago) - Compare directories and zip/jar artifacts
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-05-17T21-05-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-05-17T21-05-00), 2 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-05-17T19-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-05-17T19-00-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy

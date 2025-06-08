@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (today)
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 day ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2025-06-07T11-50-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2025-06-07T11-50-00), today) - Gradle plugin to create Debian packages
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.1), today) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.6.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.6.0), today) - Util to configure a CouchDB 2.x cluster with several nodes.
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2025-06-07T11-50-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2025-06-07T11-50-00), 1 day ago) - Gradle plugin to create Debian packages
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.1), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.6.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.6.0), 1 day ago) - Util to configure a CouchDB 2.x cluster with several nodes.
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2025-05-30T13-20-00](https://github.com/gesellix/couchdb-client/releases/tag/v2025-05-30T13-20-00), 1 week ago) - A CouchDB client written in Groovy
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.3](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.3), 2 weeks ago) - Compare directories and zip/jar artifacts
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-05-17T21-05-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-05-17T21-05-00), 3 weeks ago) - Gradle Docker plugin

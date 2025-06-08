@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (1 day ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 week ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (3 weeks ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2025-06-08T23-00-00](https://github.com/gesellix/go-npipe/releases/tag/v2025-06-08T23-00-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-06-08T17-40-00](https://github.com/docker-client/echo-server/releases/tag/v2025-06-08T17-40-00), today) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-06-08T17-40-00), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-06-08T17-40-00), today) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2025-06-07T11-50-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2025-06-07T11-50-00), 1 day ago) - Gradle plugin to create Debian packages
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.1), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/couchdb-cluster-config](https://github.com/gesellix/couchdb-cluster-config) ([v17.6.0](https://github.com/gesellix/couchdb-cluster-config/releases/tag/v17.6.0), 1 day ago) - Util to configure a CouchDB 2.x cluster with several nodes.
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) ([v2025-05-30T13-20-00](https://github.com/gesellix/couchdb-client/releases/tag/v2025-05-30T13-20-00), 1 week ago) - A CouchDB client written in Groovy
 
 #### 📜 My recent blog posts
 

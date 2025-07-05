@@ -7,7 +7,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 weeks ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (3 weeks ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (3 weeks ago)
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (3 weeks ago)
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (4 weeks ago)
 - [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (1 month ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.4), today) - Compare directories and zip/jar artifacts
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.4), 1 day ago) - Compare directories and zip/jar artifacts
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2025-06-08T23-00-00](https://github.com/gesellix/go-npipe/releases/tag/v2025-06-08T23-00-00), 3 weeks ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-06-08T17-40-00](https://github.com/docker-client/echo-server/releases/tag/v2025-06-08T17-40-00), 3 weeks ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-06-08T17-40-00), 3 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -38,8 +38,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2025-06-08T17-40-00), 3 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-06-08T17-40-00), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-06-08T17-40-00](https://github.com/docker-client/testutil/releases/tag/v2025-06-08T17-40-00), 3 weeks ago) - 
-- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2025-06-07T11-50-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2025-06-07T11-50-00), 3 weeks ago) - Gradle plugin to create Debian packages
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.1), 3 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) ([v2025-06-07T11-50-00](https://github.com/gesellix/gradle-debian-plugin/releases/tag/v2025-06-07T11-50-00), 4 weeks ago) - Gradle plugin to create Debian packages
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.8.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.8.1), 4 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 
 #### 📜 My recent blog posts
 

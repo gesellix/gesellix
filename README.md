@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (8 months ago)
+- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (9 months ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (1 year ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (2 years ago)

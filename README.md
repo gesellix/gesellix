@@ -4,19 +4,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (3 weeks ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (4 weeks ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (4 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (4 weeks ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (4 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (4 weeks ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 months ago)
 - [gesellix/gradle-debian-plugin](https://github.com/gesellix/gradle-debian-plugin) - Gradle plugin to create Debian packages (2 months ago)
-- [gesellix/couchdb-client](https://github.com/gesellix/couchdb-client) - A CouchDB client written in Groovy (2 months ago)
 
 #### 🌱 My latest projects
 
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue
 - [gesellix/java-iconified](https://github.com/gesellix/java-iconified) - Demo/test for working or broken support of iconified (J)Frame
@@ -26,10 +27,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/fontconfig-check](https://github.com/gesellix/fontconfig-check) - 
 - [gesellix/docker-client-examples](https://github.com/gesellix/docker-client-examples) - 
 - [gesellix/gradle-groovy-jdk17](https://github.com/gesellix/gradle-groovy-jdk17) - Example project for the issue at https://github.com/gradle/gradle/issues/18671
-- [gesellix/gradle-plugin-variants-mcve](https://github.com/gesellix/gradle-plugin-variants-mcve) - Trying to reproduce https://discuss.gradle.org/t/declare-compatible-gradle-version-s-in-plugin-bundle-and-on-the-plugin-portal/39626
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.0.1](https://github.com/gesellix/gioui-dialog/releases/tag/v0.0.1), today) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-08-10T18-27-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-08-10T18-27-00), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.15.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.15.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-07-27T22-12-00](https://github.com/docker-client/echo-server/releases/tag/v2025-07-27T22-12-00), 4 weeks ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-07-26T18-20-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-07-26T18-20-00), 4 weeks ago) - Bare HTTP client for the Docker engine api
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.4](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.4), 1 month ago) - Compare directories and zip/jar artifacts
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2025-06-08T23-00-00](https://github.com/gesellix/go-npipe/releases/tag/v2025-06-08T23-00-00), 2 months ago) - A Windows Named Pipe Http Echo Server
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-06-08T17-40-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-06-08T17-40-00), 2 months ago) - 
 
 #### 📜 My recent blog posts
 

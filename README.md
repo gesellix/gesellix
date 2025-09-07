@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (1 week ago)
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (4 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 month ago)

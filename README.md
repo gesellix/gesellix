@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.0.2](https://github.com/gesellix/gioui-dialog/releases/tag/v0.0.2), 1 week ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.0.3](https://github.com/gesellix/gioui-dialog/releases/tag/v0.0.3), today) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-08-10T18-27-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-08-10T18-27-00), 4 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.15.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.15.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-07-27T22-12-00](https://github.com/docker-client/echo-server/releases/tag/v2025-07-27T22-12-00), 1 month ago) - 

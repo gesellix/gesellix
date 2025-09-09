@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (today)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (4 weeks ago)
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (1 day ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 month ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 month ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.0.7](https://github.com/gesellix/gioui-dialog/releases/tag/v0.0.7), today) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-08-10T18-27-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-08-10T18-27-00), 4 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.0.7](https://github.com/gesellix/gioui-dialog/releases/tag/v0.0.7), 1 day ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-08-10T18-27-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-08-10T18-27-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.15.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.15.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-07-27T22-12-00](https://github.com/docker-client/echo-server/releases/tag/v2025-07-27T22-12-00), 1 month ago) - 
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-07-26T19-45-00](https://github.com/gesellix/docker-client/releases/tag/v2025-07-26T19-45-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy

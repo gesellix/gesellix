@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.0), today) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.1.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.1.0), today) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.0), 1 day ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.1.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.1.0), 1 day ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-08-10T18-27-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-08-10T18-27-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.15.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.15.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-07-27T22-12-00](https://github.com/docker-client/echo-server/releases/tag/v2025-07-27T22-12-00), 1 month ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (10 months ago)
+- [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (11 months ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (1 year ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (3 years ago)

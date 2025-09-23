@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
+- [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
 - [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications (2 weeks ago)

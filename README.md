@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 day ago)
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (4 days ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (4 days ago)

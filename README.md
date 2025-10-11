@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-10-11T21-04-00](https://github.com/docker-client/echo-server/releases/tag/v2025-10-11T21-04-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-09-28T00-18-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-09-28T00-18-00), 2 weeks ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-09-27T28-03-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-09-27T28-03-00), 2 weeks ago) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-09-27T23-27-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-09-27T23-27-00), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-09-27T22-37-00](https://github.com/docker-client/testutil/releases/tag/v2025-09-27T22-37-00), 2 weeks ago) - 
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.0), 3 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.1.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.1.0), 3 weeks ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.15.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.15.0), 2 months ago) - CouchDB stats exporter for Prometheus
 
 #### 📜 My recent blog posts
 

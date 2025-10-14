@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-10-14T22-35-00](https://github.com/gesellix/docker-client/releases/tag/v2025-10-14T22-35-00), today) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-10-14T21-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-10-14T21-25-00), today) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-10-14T20-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-10-14T20-10-00), today) - Bare HTTP client for the Docker engine api
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-10-12T22-15-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-10-12T22-15-00), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-10-11T21-04-00](https://github.com/docker-client/echo-server/releases/tag/v2025-10-11T21-04-00), 3 days ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-09-27T22-37-00](https://github.com/docker-client/testutil/releases/tag/v2025-09-27T22-37-00), 2 weeks ago) - 
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.0), 3 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
-- [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.1.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.1.0), 3 weeks ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 
 #### 📜 My recent blog posts
 

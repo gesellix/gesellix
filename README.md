@@ -10,7 +10,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (2 weeks ago)
 - [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (2 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
@@ -37,8 +37,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-10-14T22-35-00](https://github.com/gesellix/docker-client/releases/tag/v2025-10-14T22-35-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-10-14T21-25-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-10-14T21-25-00), 1 week ago) - 
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-10-14T20-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-10-14T20-10-00), 1 week ago) - Bare HTTP client for the Docker engine api
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-10-11T21-04-00](https://github.com/docker-client/echo-server/releases/tag/v2025-10-11T21-04-00), 1 week ago) - 
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-09-27T22-37-00](https://github.com/docker-client/testutil/releases/tag/v2025-09-27T22-37-00), 3 weeks ago) - 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-10-11T21-04-00](https://github.com/docker-client/echo-server/releases/tag/v2025-10-11T21-04-00), 2 weeks ago) - 
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-09-27T22-37-00](https://github.com/docker-client/testutil/releases/tag/v2025-09-27T22-37-00), 4 weeks ago) - 
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.0](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.0), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
 
 #### 📜 My recent blog posts

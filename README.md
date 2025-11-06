@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [onamfc](https://github.com/onamfc)
 - [standardgalactic](https://github.com/standardgalactic)
 - [shuoros](https://github.com/shuoros)
 - [billyclay833-afk](https://github.com/billyclay833-afk)
 - [Irsathz](https://github.com/Irsathz)
-- [RomanRichert](https://github.com/RomanRichert)
 
 #### 💬 Feedback
 

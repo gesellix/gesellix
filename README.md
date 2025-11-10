@@ -4,14 +4,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 day ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (6 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 week ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 week ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 week ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
+- [square/okhttp](https://github.com/square/okhttp) - Square’s meticulous HTTP client for the JVM, Android, and GraalVM. (1 week ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 week ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 week ago)
 
@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-11-10T22-20-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-11-10T22-20-00), today) - 
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-11-09T15-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-11-09T15-40-00), 1 day ago) - 
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-11-01T22-05-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-11-01T22-05-00), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-11-01T13-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-11-01T13-00-00), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
@@ -37,7 +38,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-10-31T17-49-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-10-31T17-49-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-10-31T17-48-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-10-31T17-48-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2025-10-31T17-47-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2025-10-31T17-47-00), 1 week ago) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-10-31T17-45-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-10-31T17-45-00), 1 week ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2025-10-11T21-04-00](https://github.com/docker-client/echo-server/releases/tag/v2025-10-11T21-04-00), 1 month ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-09-27T22-37-00](https://github.com/docker-client/testutil/releases/tag/v2025-09-27T22-37-00), 1 month ago) - 
 

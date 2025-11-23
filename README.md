@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (5 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 days ago)
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (6 days ago)
 - [gesellix/docker-client-examples](https://github.com/gesellix/docker-client-examples) -  (1 week ago)
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) - Bare HTTP client for the Docker engine api (1 week ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 week ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (3 weeks ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (3 weeks ago)
@@ -30,12 +30,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-11-20T23-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-11-20T23-00-00), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.3](https://github.com/gesellix/titlelink/releases/tag/v3.8.3), 5 days ago) - Joomla! TitleLink plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-11-20T23-00-00](https://github.com/gesellix/docker-client/releases/tag/v2025-11-20T23-00-00), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.3](https://github.com/gesellix/titlelink/releases/tag/v3.8.3), 6 days ago) - Joomla! TitleLink plugin
 - [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-11-13T22-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-11-13T22-10-00), 1 week ago) - Bare HTTP client for the Docker engine api
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-11-12T23-20-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-11-12T23-20-00), 1 week ago) - Gradle Docker plugin
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-11-10T22-20-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-11-10T22-20-00), 1 week ago) - 
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-11-09T15-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-11-09T15-40-00), 1 week ago) - 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-11-09T15-40-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-11-09T15-40-00), 2 weeks ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-10-31T17-49-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-10-31T17-49-00), 3 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-10-31T17-48-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-10-31T17-48-00), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2025-10-31T17-47-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2025-10-31T17-47-00), 3 weeks ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (2 weeks ago)
+- [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (3 weeks ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (1 year ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 years ago)
 - [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)

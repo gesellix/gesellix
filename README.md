@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2025-11-30T20-20-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2025-11-30T20-20-00), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2025-11-30T16-46-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2025-11-30T16-46-00), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v3.8.3](https://github.com/gesellix/titlelink/releases/tag/v3.8.3), 3 weeks ago) - Joomla! TitleLink plugin
-- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-11-13T22-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-11-13T22-10-00), 3 weeks ago) - Bare HTTP client for the Docker engine api
+- [docker-client/docker-engine](https://github.com/docker-client/docker-engine) ([v2025-11-13T22-10-00](https://github.com/docker-client/docker-engine/releases/tag/v2025-11-13T22-10-00), 4 weeks ago) - Bare HTTP client for the Docker engine api
 
 #### 📜 My recent blog posts
 

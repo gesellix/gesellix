@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (4 days ago)
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (5 days ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 6 days ago) - Joomla! TitleLink plugin
+- [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 1 week ago) - Joomla! TitleLink plugin
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.1), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.18](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.18), 1 month ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-12-01T21-21-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-12-01T21-21-00), 1 month ago) - Gradle Docker plugin

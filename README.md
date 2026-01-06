@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), today) - CouchDB stats exporter for Prometheus
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 1 day ago) - CouchDB stats exporter for Prometheus
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 1 week ago) - Joomla! TitleLink plugin
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.1), 2 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.18](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.18), 1 month ago) - Plugin to create and publish a docker image of a spring-boot-service
@@ -46,7 +46,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (2 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (1 year ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 years ago)
-- [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (2 years ago)
+- [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (3 years ago)
 - [Start Small and Keep it Simple: Overview](https://www.gesellix.net/posts/start-small-keep-it-simple--overview/) (3 years ago)
 
 

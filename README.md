@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), today) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.6.3](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.6.3), 1 week ago) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 3 weeks ago) - Joomla! TitleLink plugin
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2025-11-30T22-30-00](https://github.com/gesellix/docker-client/releases/tag/v2025-11-30T22-30-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-11-30T21-55-00](https://github.com/docker-client/testutil/releases/tag/v2025-11-30T21-55-00), 1 month ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-11-30T21-04-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-11-30T21-04-00), 1 month ago) - 
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2025-11-30T21-03-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2025-11-30T21-03-00), 1 month ago) - 
 
 #### 📜 My recent blog posts
 

@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 days ago)
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API. (1 week ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (3 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 1 day ago) - 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 2 days ago) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.6.3](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.6.3), 1 week ago) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 4 weeks ago) - Joomla! TitleLink plugin

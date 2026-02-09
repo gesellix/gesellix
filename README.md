@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API. (today)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API. (1 day ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.11.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.11.2), today) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.11.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.11.2), 1 day ago) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-01-24T11-45-00](https://github.com/gesellix/docker-client/releases/tag/v2026-01-24T11-45-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 2 weeks ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 1 month ago) - CouchDB stats exporter for Prometheus

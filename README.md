@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API. (today)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 weeks ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 weeks ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (1 month ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
@@ -17,7 +17,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🌱 My latest projects
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [gesellix/windows-authenticode-cert-tagging](https://github.com/gesellix/windows-authenticode-cert-tagging) - Standalone certificate_tag tool from https://github.com/google/omaha/tree/main/common/certificate_tag
 - [gesellix/IDEA-353229](https://github.com/gesellix/IDEA-353229) - Example project for the IDEA-353229 issue
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.12.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.12.2), today) - A modern Go library and CLI tool for interacting with Bose SoundTouch devices via their Web API.
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-01-24T11-45-00](https://github.com/gesellix/docker-client/releases/tag/v2026-01-24T11-45-00), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.13.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.13.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-01-24T11-45-00](https://github.com/gesellix/docker-client/releases/tag/v2026-01-24T11-45-00), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 3 weeks ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 1 month ago) - Joomla! TitleLink plugin

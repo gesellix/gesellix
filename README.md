@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.31.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.31.2), today) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.31.4](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.31.4), today) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-01-24T11-45-00](https://github.com/gesellix/docker-client/releases/tag/v2026-01-24T11-45-00), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 3 weeks ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 1 month ago) - CouchDB stats exporter for Prometheus

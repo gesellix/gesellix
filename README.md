@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (2 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (3 days ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
@@ -30,14 +30,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.42.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.42.0), 2 days ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.42.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.42.0), 3 days ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-01-24T11-45-00](https://github.com/gesellix/docker-client/releases/tag/v2026-01-24T11-45-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-01-22T20-11-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-01-22T20-11-00), 1 month ago) - 
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.16.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.16.0), 1 month ago) - CouchDB stats exporter for Prometheus
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) ([v4.0.1](https://github.com/gesellix/titlelink/releases/tag/v4.0.1), 2 months ago) - Joomla! TitleLink plugin
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.1](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.1), 2 months ago) - A cross-platform splash screen for Go, based on Gio UI
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.18](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.18), 2 months ago) - Plugin to create and publish a docker image of a spring-boot-service
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-12-01T21-21-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-12-01T21-21-00), 2 months ago) - Gradle Docker plugin
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2025-12-01T21-21-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2025-12-01T21-21-00), 3 months ago) - Gradle Docker plugin
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2025-11-30T21-55-00](https://github.com/docker-client/testutil/releases/tag/v2025-11-30T21-55-00), 3 months ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2025-11-30T21-04-00](https://github.com/docker-client/docker-registry/releases/tag/v2025-11-30T21-04-00), 3 months ago) - 
 

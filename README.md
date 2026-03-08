@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (2 months ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 months ago)
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) - Plugin to create and publish a docker image of a spring-boot-service (3 months ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (3 months ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 months ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 months ago)
-- [docker-client/testutil](https://github.com/docker-client/testutil) -  (3 months ago)
 
 #### 🌱 My latest projects
 

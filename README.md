@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), today) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2026-03-13T20-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2026-03-13T20-15-00), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2026-03-13T20-13-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2026-03-13T20-13-00), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2026-03-12T22-20-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2026-03-12T22-20-00), 1 day ago) - Gradle Docker plugin
@@ -38,7 +39,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 3 days ago) - Compare directories and zip/jar artifacts
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2026-03-08T22-20-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2026-03-08T22-20-00), 5 days ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2026-03-08T21-27-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2026-03-08T21-27-00), 5 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-08T13-38-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-08T13-38-00), 5 days ago) - 
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2026-03-08T13-36-00](https://github.com/docker-client/testutil/releases/tag/v2026-03-08T13-36-00), 5 days ago) - 
 
 #### 📜 My recent blog posts

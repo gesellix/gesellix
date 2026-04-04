@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.54.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.54.0), 2 days ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.54.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.54.0), 3 days ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), 3 weeks ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2026-03-13T20-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2026-03-13T20-15-00), 3 weeks ago) - 

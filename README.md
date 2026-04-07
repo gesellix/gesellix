@@ -4,14 +4,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 weeks ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (3 weeks ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 weeks ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (4 weeks ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (4 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (4 weeks ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (4 weeks ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 month ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 months ago)
 - [gesellix/titlelink](https://github.com/gesellix/titlelink) - Joomla! TitleLink plugin (3 months ago)
 
@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.56.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.56.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.56.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.56.0), 2 days ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), 3 weeks ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2026-03-13T20-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2026-03-13T20-15-00), 3 weeks ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2026-03-13T20-13-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2026-03-13T20-13-00), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2026-03-12T22-20-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2026-03-12T22-20-00), 3 weeks ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-03-11T08-30-00](https://github.com/gesellix/docker-client/releases/tag/v2026-03-11T08-30-00), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 3 weeks ago) - Compare directories and zip/jar artifacts
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2026-03-08T22-20-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2026-03-08T22-20-00), 4 weeks ago) - 
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2026-03-08T21-27-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2026-03-08T21-27-00), 4 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 4 weeks ago) - Compare directories and zip/jar artifacts
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2026-03-08T22-20-00](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2026-03-08T22-20-00), 1 month ago) - 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2026-03-08T21-27-00](https://github.com/docker-client/docker-remote-api/releases/tag/v2026-03-08T21-27-00), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 
 #### 📜 My recent blog posts
 

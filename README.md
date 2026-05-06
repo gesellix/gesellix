@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (today)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (2 days ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), today) - Plugin to create and publish a docker image of a spring-boot-service
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.70.1](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.70.1), 2 days ago) - Controlling and preserving Bose SoundTouch devices
-- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 2 weeks ago) - CouchDB stats exporter for Prometheus
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 1 day ago) - Plugin to create and publish a docker image of a spring-boot-service
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.70.1](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.70.1), 3 days ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), 1 month ago) - 
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2026-03-13T20-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2026-03-13T20-15-00), 1 month ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (today)
+- [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (1 day ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (6 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 years ago)

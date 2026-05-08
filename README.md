@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.71.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.71.2), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.72.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.72.0), today) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 3 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI

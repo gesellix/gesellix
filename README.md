@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
-- [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (3 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (4 days ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 months ago)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 months ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 months ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 months ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.72.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.72.0), today) - Controlling and preserving Bose SoundTouch devices
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 3 days ago) - Plugin to create and publish a docker image of a spring-boot-service
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.72.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.72.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 4 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 3 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), 1 month ago) - 
@@ -39,11 +39,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2026-03-13T20-13-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2026-03-13T20-13-00), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2026-03-12T22-20-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2026-03-12T22-20-00), 1 month ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-03-11T08-30-00](https://github.com/gesellix/docker-client/releases/tag/v2026-03-11T08-30-00), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 1 month ago) - Compare directories and zip/jar artifacts
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 2 months ago) - Compare directories and zip/jar artifacts
 
 #### 📜 My recent blog posts
 
-- [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (3 days ago)
+- [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (4 days ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (6 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 years ago)

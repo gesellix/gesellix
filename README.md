@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), today) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132320](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132320), today) - 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), today) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202605132305](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202605132305), today) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v1.0.0-202605132300](https://github.com/docker-client/testutil/releases/tag/v1.0.0-202605132300), today) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.77.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.77.0), 2 days ago) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 4 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2026-03-13T20-16-00](https://github.com/docker-client/docker-compose-v3/releases/tag/v2026-03-13T20-16-00), 2 months ago) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2026-03-13T20-15-00](https://github.com/docker-client/docker-registry/releases/tag/v2026-03-13T20-15-00), 2 months ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2026-03-13T20-13-00](https://github.com/docker-client/docker-filesocket/releases/tag/v2026-03-13T20-13-00), 2 months ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2026-03-12T22-20-00](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2026-03-12T22-20-00), 2 months ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2026-03-11T08-30-00](https://github.com/gesellix/docker-client/releases/tag/v2026-03-11T08-30-00), 2 months ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) ([v0.3.6](https://github.com/gesellix/artifact-diff/releases/tag/v0.3.6), 2 months ago) - Compare directories and zip/jar artifacts
 
 #### 📜 My recent blog posts
 

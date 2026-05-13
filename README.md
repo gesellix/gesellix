@@ -4,14 +4,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (1 week ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 months ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 months ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 months ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 months ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 months ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (3 months ago)
 
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), today) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), today) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132320](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132320), today) - 
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202605132305](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202605132305), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v1.0.0-202605132300](https://github.com/docker-client/testutil/releases/tag/v1.0.0-202605132300), today) - 

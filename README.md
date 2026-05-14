@@ -30,12 +30,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.78.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.78.0), today) - Controlling and preserving Bose SoundTouch devices
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 1 day ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), 1 day ago) - 
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), 1 day ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202605132305](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202605132305), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v1.0.0-202605132300](https://github.com/docker-client/testutil/releases/tag/v1.0.0-202605132300), 1 day ago) - 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.77.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.77.0), 3 days ago) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 4 weeks ago) - CouchDB stats exporter for Prometheus
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.9.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.9.2), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI

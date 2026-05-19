@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (5 days ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (6 days ago)
 - [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (2 weeks ago)

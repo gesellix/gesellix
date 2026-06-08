@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.111.2](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.111.2), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.111.3](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.111.3), today) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 1 day ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 3 weeks ago) - 

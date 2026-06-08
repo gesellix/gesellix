@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 day ago)
 - [gesellix/.github](https://github.com/gesellix/.github) -  (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [Zimbo88](https://github.com/Zimbo88)
 - [eliotgevers](https://github.com/eliotgevers)
 - [RLoewenherz81](https://github.com/RLoewenherz81)
 - [JRpersonal](https://github.com/JRpersonal)
 - [TCQ391](https://github.com/TCQ391)
-- [TJGigs](https://github.com/TJGigs)
 
 #### 💬 Feedback
 

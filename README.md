@@ -4,15 +4,15 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (2 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (3 days ago)
 - [gesellix/.github](https://github.com/gesellix/.github) -  (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 weeks ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (4 weeks ago)
 - [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (1 month ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 months ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 months ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 months ago)
 
 #### 🌱 My latest projects
@@ -30,14 +30,14 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.112.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.112.0), today) - Controlling and preserving Bose SoundTouch devices
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 2 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.112.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.112.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 3 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.2), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 3 weeks ago) - 
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), 3 weeks ago) - 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), 3 weeks ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202605132305](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202605132305), 3 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v1.0.0-202605132300](https://github.com/docker-client/testutil/releases/tag/v1.0.0-202605132300), 3 weeks ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 4 weeks ago) - 
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), 4 weeks ago) - 
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), 4 weeks ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202605132305](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202605132305), 4 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v1.0.0-202605132300](https://github.com/docker-client/testutil/releases/tag/v1.0.0-202605132300), 4 weeks ago) - 
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 1 month ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) ([v30.17.0](https://github.com/gesellix/couchdb-prometheus-exporter/releases/tag/v30.17.0), 1 month ago) - CouchDB stats exporter for Prometheus
 

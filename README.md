@@ -43,11 +43,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
+- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (today)
 - [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (1 month ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (7 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)
 - [Ten Years of a Docker-Client for Java and a Docker-Plugin for Gradle](https://www.gesellix.net/posts/ten-years-docker-client-and-gradle-plugin/) (2 years ago)
-- [On the Bike Again](https://www.gesellix.net/posts/on-the-bike-again/) (3 years ago)
 
 
 

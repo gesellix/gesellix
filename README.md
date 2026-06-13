@@ -4,11 +4,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (3 days ago)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (5 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (4 days ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (6 days ago)
 - [gesellix/.github](https://github.com/gesellix/.github) -  (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 weeks ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (4 weeks ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 - [krahl/soundcork-stockholm-app](https://github.com/krahl/soundcork-stockholm-app) - Run SoundTouch Stockholm with self-hosted backend (1 month ago)
 - [gesellix/couchdb-prometheus-exporter](https://github.com/gesellix/couchdb-prometheus-exporter) - CouchDB stats exporter for Prometheus (2 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.112.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.112.0), 3 days ago) - Controlling and preserving Bose SoundTouch devices
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 5 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.112.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.112.0), 4 days ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 6 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.2), 2 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 1 month ago) - 
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), 1 month ago) - 
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (2 days ago)
+- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (3 days ago)
 - [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (1 month ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (7 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)

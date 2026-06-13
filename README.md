@@ -10,9 +10,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (today)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
 - [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (today)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.2-202606132309](https://github.com/docker-client/docker-registry/releases/tag/v2.0.2-202606132309), today) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.3-202606132347](https://github.com/docker-client/docker-registry/releases/tag/v2.0.3-202606132347), today) - 
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), today) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), today) - Unix domain socket and named pipe abstraction for the docker-client

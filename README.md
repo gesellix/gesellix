@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (today)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (today)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (today)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (today)
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (today)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (today)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (today)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (today)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (today)
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (4 days ago)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (6 days ago)
-- [gesellix/.github](https://github.com/gesellix/.github) -  (1 week ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (2 weeks ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.0-202606131232](https://github.com/docker-client/docker-registry/releases/tag/v2.0.0-202606131232), today) - 
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.0-202606131218](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.0-202606131218), today) - 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.0-202606131148](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.0-202606131148), today) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.0-202606131123](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.0-202606131123), today) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.0-202606131111](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.0-202606131111), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2026-06-13T10-37-00](https://github.com/gesellix/go-npipe/releases/tag/v2026-06-13T10-37-00), today) - A Windows Named Pipe Http Echo Server
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.0-202606131033](https://github.com/docker-client/testutil/releases/tag/v2.0.0-202606131033), today) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v1.0.0-202606131031](https://github.com/docker-client/docker-filesocket/releases/tag/v1.0.0-202606131031), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.112.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.112.0), 4 days ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.1.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.1.0), 6 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.2](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.2), 2 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v1.0.0-202605132355](https://github.com/docker-client/docker-registry/releases/tag/v1.0.0-202605132355), 1 month ago) - 
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v1.0.0-202605132322](https://github.com/docker-client/echo-server/releases/tag/v1.0.0-202605132322), 1 month ago) - 
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v1.0.0-202605132315](https://github.com/docker-client/docker-compose-v3/releases/tag/v1.0.0-202605132315), 1 month ago) - 
-- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.19](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.19), 1 month ago) - Plugin to create and publish a docker image of a spring-boot-service
 
 #### 📜 My recent blog posts
 

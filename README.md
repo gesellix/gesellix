@@ -30,9 +30,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.2-202606132309](https://github.com/docker-client/docker-registry/releases/tag/v2.0.2-202606132309), today) - 
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), today) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), today) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.1-202606132058](https://github.com/docker-client/docker-registry/releases/tag/v2.0.1-202606132058), today) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), today) - Unix domain socket and named pipe abstraction for the docker-client
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.0-202606131940](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.0-202606131940), today) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.0-202606131856](https://github.com/gesellix/docker-client/releases/tag/v2.0.0-202606131856), today) - A Docker client for Java written in Kotlin and Groovy

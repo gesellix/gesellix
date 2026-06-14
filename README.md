@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), today) - Controlling and preserving Bose SoundTouch devices
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.3-202606132347](https://github.com/docker-client/docker-registry/releases/tag/v2.0.3-202606132347), 1 day ago) - 
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), 1 day ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), 1 day ago) - 
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.0-202606131520](https://github.com/gesellix/go-npipe/releases/tag/v2.0.0-202606131520), 1 day ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2.0.0-202606131519](https://github.com/docker-client/echo-server/releases/tag/v2.0.0-202606131519), 1 day ago) - 
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.0-202606131148](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.0-202606131148), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.0-202606131123](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.0-202606131123), 1 day ago) - 
 
 #### 📜 My recent blog posts
 
@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [buzz8year](https://github.com/buzz8year)
 - [sfotiadis](https://github.com/sfotiadis)
 - [Zimbo88](https://github.com/Zimbo88)
 - [eliotgevers](https://github.com/eliotgevers)
 - [RLoewenherz81](https://github.com/RLoewenherz81)
-- [JRpersonal](https://github.com/JRpersonal)
 
 #### 💬 Feedback
 

@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.4-202606152215](https://github.com/docker-client/docker-registry/releases/tag/v2.0.4-202606152215), today) - 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.3-202606132347](https://github.com/docker-client/docker-registry/releases/tag/v2.0.3-202606132347), 2 days ago) - 
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), 2 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), 2 days ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client

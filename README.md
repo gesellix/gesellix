@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 day ago)
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 day ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 day ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 day ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (2 days ago)
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (2 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 days ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (2 days ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 days ago)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 days ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 days ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -30,20 +30,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), today) - Controlling and preserving Bose SoundTouch devices
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.3-202606132347](https://github.com/docker-client/docker-registry/releases/tag/v2.0.3-202606132347), 1 day ago) - 
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), 1 day ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), 1 day ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), 1 day ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.0-202606131940](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.0-202606131940), 1 day ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.0-202606131856](https://github.com/gesellix/docker-client/releases/tag/v2.0.0-202606131856), 1 day ago) - A Docker client for Java written in Kotlin and Groovy
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.0-202606131520](https://github.com/gesellix/go-npipe/releases/tag/v2.0.0-202606131520), 1 day ago) - A Windows Named Pipe Http Echo Server
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2.0.0-202606131519](https://github.com/docker-client/echo-server/releases/tag/v2.0.0-202606131519), 1 day ago) - 
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.0-202606131148](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.0-202606131148), 1 day ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.3-202606132347](https://github.com/docker-client/docker-registry/releases/tag/v2.0.3-202606132347), 2 days ago) - 
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), 2 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), 2 days ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.0-202606131940](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.0-202606131940), 2 days ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.0-202606131856](https://github.com/gesellix/docker-client/releases/tag/v2.0.0-202606131856), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.0-202606131520](https://github.com/gesellix/go-npipe/releases/tag/v2.0.0-202606131520), 2 days ago) - A Windows Named Pipe Http Echo Server
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) ([v2.0.0-202606131519](https://github.com/docker-client/echo-server/releases/tag/v2.0.0-202606131519), 2 days ago) - 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.0-202606131148](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.0-202606131148), 2 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 
 #### 📜 My recent blog posts
 
-- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (4 days ago)
+- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (5 days ago)
 - [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (1 month ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (7 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)

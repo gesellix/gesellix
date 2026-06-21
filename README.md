@@ -4,9 +4,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (5 days ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (5 days ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (6 days ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (6 days ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (6 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 week ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 week ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 week ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.4-202606152215](https://github.com/docker-client/docker-registry/releases/tag/v2.0.4-202606152215), 5 days ago) - 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), 6 days ago) - Controlling and preserving Bose SoundTouch devices
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.4-202606152215](https://github.com/docker-client/docker-registry/releases/tag/v2.0.4-202606152215), 6 days ago) - 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.113.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.113.0), 1 week ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.2.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.2.1), 1 week ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.1-202606132059](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.1-202606132059), 1 week ago) - 
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.1-202606132052](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.1-202606132052), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client

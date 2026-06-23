@@ -30,6 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.20](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.20), today) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.114.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.114.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.1-202606212120](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.1-202606212120), 2 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.1-202606212118](https://github.com/gesellix/docker-client/releases/tag/v2.0.1-202606212118), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
@@ -39,7 +40,6 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.1-202606212110](https://github.com/gesellix/go-npipe/releases/tag/v2.0.1-202606212110), 2 days ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.2-202606212109](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.2-202606212109), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.1-202606212108](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.1-202606212108), 2 days ago) - 
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.1-202606212107](https://github.com/docker-client/testutil/releases/tag/v2.0.1-202606212107), 2 days ago) - 
 
 #### 📜 My recent blog posts
 

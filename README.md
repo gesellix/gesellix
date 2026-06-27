@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.115.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.115.0), today) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.20](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.20), 4 days ago) - Plugin to create and publish a docker image of a spring-boot-service
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.114.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.114.0), 5 days ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.1-202606212120](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.1-202606212120), 6 days ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.1-202606212118](https://github.com/gesellix/docker-client/releases/tag/v2.0.1-202606212118), 6 days ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.2-202606212114](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.2-202606212114), 6 days ago) - 

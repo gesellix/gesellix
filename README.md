@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.116.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.116.0), today) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.117.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.117.0), today) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.20](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.20), 5 days ago) - Plugin to create and publish a docker image of a spring-boot-service
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.1-202606212120](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.1-202606212120), 1 week ago) - Gradle Docker plugin
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.1-202606212118](https://github.com/gesellix/docker-client/releases/tag/v2.0.1-202606212118), 1 week ago) - A Docker client for Java written in Kotlin and Groovy

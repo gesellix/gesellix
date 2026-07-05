@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (2 weeks ago)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 weeks ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (3 weeks ago)
@@ -30,16 +30,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.118.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.118.0), today) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.118.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.118.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.20](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.20), 1 week ago) - Plugin to create and publish a docker image of a spring-boot-service
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.1-202606212120](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.1-202606212120), 1 week ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.1-202606212118](https://github.com/gesellix/docker-client/releases/tag/v2.0.1-202606212118), 1 week ago) - A Docker client for Java written in Kotlin and Groovy
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.2-202606212114](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.2-202606212114), 1 week ago) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.5-202606212112](https://github.com/docker-client/docker-registry/releases/tag/v2.0.5-202606212112), 1 week ago) - 
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.1-202606212111](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.1-202606212111), 1 week ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.1-202606212110](https://github.com/gesellix/go-npipe/releases/tag/v2.0.1-202606212110), 1 week ago) - A Windows Named Pipe Http Echo Server
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.2-202606212109](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.2-202606212109), 1 week ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.1-202606212108](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.1-202606212108), 1 week ago) - 
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.1-202606212120](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.1-202606212120), 2 weeks ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.1-202606212118](https://github.com/gesellix/docker-client/releases/tag/v2.0.1-202606212118), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.2-202606212114](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.2-202606212114), 2 weeks ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.5-202606212112](https://github.com/docker-client/docker-registry/releases/tag/v2.0.5-202606212112), 2 weeks ago) - 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.1-202606212111](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.1-202606212111), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.1-202606212110](https://github.com/gesellix/go-npipe/releases/tag/v2.0.1-202606212110), 2 weeks ago) - A Windows Named Pipe Http Echo Server
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.2-202606212109](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.2-202606212109), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.1-202606212108](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.1-202606212108), 2 weeks ago) - 
 
 #### 📜 My recent blog posts
 

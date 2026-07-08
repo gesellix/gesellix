@@ -4,10 +4,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (2 days ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 days ago)
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 days ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (3 days ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (3 days ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (3 days ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (3 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (4 days ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 weeks ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (3 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 weeks ago)
@@ -30,20 +30,20 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.202607051315](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.202607051315), 2 days ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607051238](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607051238), 2 days ago) - A Docker client for Java written in Kotlin and Groovy
-- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.202607051118](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.202607051118), 2 days ago) - 
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202607051048](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202607051048), 2 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607051047](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607051047), 2 days ago) - 
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202607051046](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202607051046), 2 days ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202607051045](https://github.com/docker-client/testutil/releases/tag/v2.0.202607051045), 2 days ago) - 
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.202607051031](https://github.com/docker-client/docker-registry/releases/tag/v2.0.202607051031), 2 days ago) - 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.118.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.118.0), 3 days ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.202607051315](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.202607051315), 3 days ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607051238](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607051238), 3 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.202607051118](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.202607051118), 3 days ago) - 
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202607051048](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202607051048), 3 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607051047](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607051047), 3 days ago) - 
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202607051046](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202607051046), 3 days ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202607051045](https://github.com/docker-client/testutil/releases/tag/v2.0.202607051045), 3 days ago) - 
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.202607051031](https://github.com/docker-client/docker-registry/releases/tag/v2.0.202607051031), 3 days ago) - 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.118.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.118.0), 4 days ago) - Controlling and preserving Bose SoundTouch devices
 - [europace/docker-publish-gradle-plugin](https://github.com/europace/docker-publish-gradle-plugin) ([v2.0.20](https://github.com/europace/docker-publish-gradle-plugin/releases/tag/v2.0.20), 2 weeks ago) - Plugin to create and publish a docker image of a spring-boot-service
 
 #### 📜 My recent blog posts
 
-- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (3 weeks ago)
+- [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (4 weeks ago)
 - [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (2 months ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (8 months ago)
 - [A simple local media server](https://www.gesellix.net/posts/a-simple-local-media-server/) (2 years ago)

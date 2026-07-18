@@ -4,9 +4,9 @@ on:
   workflow_dispatch:
   push:
   schedule:
-    # Every hour.
-    # https://crontab.guru/#0_*/1_*_*_*
-    - cron: '0 */1 * * *'
+    # Every 5 hours.
+    # https://crontab.guru/#0_*/5_*_*_*
+    - cron: '0 */5 * * *'
 jobs:
   markscribe:
     runs-on: ubuntu-latest

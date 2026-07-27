@@ -21,7 +21,7 @@ jobs:
             -v "${{ github.workspace }}:/github/workspace" \
             -w /github/workspace \
             ghcr.io/gesellix/markscribe:latest -write README.md README.md.tpl
-      - uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: stefanzweifel/git-auto-commit-action@v7
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:

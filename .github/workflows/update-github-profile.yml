@@ -20,7 +20,7 @@ jobs:
             -e GITHUB_TOKEN \
             -v "${{ github.workspace }}:/github/workspace" \
             -w /github/workspace \
-            ghcr.io/gesellix/markscribe:fix-graphql-resource-limits -write README.md README.md.tpl
+            ghcr.io/gesellix/markscribe:latest -write README.md README.md.tpl
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

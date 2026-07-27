@@ -12,12 +12,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: muesli/readme-scribe@master
+      - name: Build markscribe
+        run: docker build -t markscribe https://github.com/gesellix/markscribe.git#fix-graphql-resource-limits
+      - name: Generate README
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
-        with:
-          template: "README.md.tpl"
-          writeTo: "README.md"
+        run: |
+          docker run --rm \
+            -e GITHUB_TOKEN \
+            -v "${{ github.workspace }}:/github/workspace" \
+            -w /github/workspace \
+            markscribe -write README.md README.md.tpl
       - uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

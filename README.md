@@ -36,10 +36,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607271550](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607271550), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.202607271334](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.202607271334), 2 weeks ago) - the one and only
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202607262220](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202607262220), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607262219](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607262219), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607262219](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607262219), 2 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202607262218](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202607262218), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.202607262217](https://github.com/docker-client/docker-registry/releases/tag/v2.0.202607262217), 2 weeks ago) - the one and only
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202607262216](https://github.com/docker-client/testutil/releases/tag/v2.0.202607262216), 2 weeks ago) - A Docker client for Java written in Kotlin and Groovy
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) ([v2.0.202607262217](https://github.com/docker-client/docker-registry/releases/tag/v2.0.202607262217), 2 weeks ago) - Gradle Docker plugin
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202607262216](https://github.com/docker-client/testutil/releases/tag/v2.0.202607262216), 2 weeks ago) - Unix domain socket and named pipe abstraction for the docker-client
 
 #### 📜 My recent blog posts
 

@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (3 days ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (3 days ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.126.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.126.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.127.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.127.0), today) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 3 days ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.2.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.2.0), 3 days ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.4](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.4), 3 days ago) - A cross-platform splash screen for Go, based on Gio UI

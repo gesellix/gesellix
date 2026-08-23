@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 day ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 day ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 day ago)
-- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 day ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 day ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 day ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 day ago)
-- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 day ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 day ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.128.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.128.0), 1 day ago) - Controlling and preserving Bose SoundTouch devices
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.129.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.129.0), today) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 1 week ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gioui-dialog](https://github.com/gesellix/gioui-dialog) ([v0.2.0](https://github.com/gesellix/gioui-dialog/releases/tag/v0.2.0), 1 week ago) - A cross-platform dialog library for Gio UI https://gioui.org/ applications
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.4](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.4), 1 week ago) - A cross-platform splash screen for Go, based on Gio UI
@@ -39,7 +39,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607271550](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607271550), 3 weeks ago) - A Docker client for Java written in Kotlin and Groovy
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) ([v2.0.202607271334](https://github.com/docker-client/docker-remote-api-client/releases/tag/v2.0.202607271334), 3 weeks ago) - the one and only
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202607262220](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202607262220), 4 weeks ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607262219](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607262219), 4 weeks ago) - Controlling and preserving Bose SoundTouch devices
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202607262219](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202607262219), 4 weeks ago) - Gradle Docker plugin
 
 #### 📜 My recent blog posts
 

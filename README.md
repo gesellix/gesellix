@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.6.1](https://github.com/gesellix/go-trmnl/releases/tag/v0.6.1), today) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.7.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.7.0), today) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.136.0](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.136.0), 1 week ago) - Controlling and preserving Bose SoundTouch devices
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.4](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.4), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI

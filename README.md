@@ -4,16 +4,16 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (3 days ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (3 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (3 days ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
+- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 month ago)
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
+- [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) - Unix domain socket and named pipe abstraction for the docker-client (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -32,9 +32,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.138.1](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.138.1), 3 days ago) - Controlling and preserving Bose SoundTouch devices
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202609282200](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202609282200), 3 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202609282159](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202609282159), 3 days ago) - Gradle Docker plugin
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202609282159](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202609282159), 3 days ago) - A Windows Named Pipe Http Echo Server
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202609282158](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202609282158), 3 days ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202609282157](https://github.com/docker-client/testutil/releases/tag/v2.0.202609282157), 3 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202609282157](https://github.com/docker-client/testutil/releases/tag/v2.0.202609282157), 3 days ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.8.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.8.0), 1 week ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.4](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.4), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI

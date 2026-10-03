@@ -9,11 +9,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (5 days ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (3 weeks ago)
-- [gesellix/gradle-docker-plugin-example](https://github.com/gesellix/gradle-docker-plugin-example) - Gradle-Docker-Plugin example (1 month ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (1 month ago)
+- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
+- [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202609282200](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202609282200), 5 days ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202609282159](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202609282159), 5 days ago) - Gradle Docker plugin
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202609282158](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202609282158), 5 days ago) - Unix domain socket and named pipe abstraction for the docker-client
-- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202609282157](https://github.com/docker-client/testutil/releases/tag/v2.0.202609282157), 5 days ago) - A Docker client for Java written in Kotlin and Groovy
+- [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202609282157](https://github.com/docker-client/testutil/releases/tag/v2.0.202609282157), 5 days ago) - Gradle Docker plugin
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.8.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.8.0), 1 week ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 1 month ago) - A Windows Named Pipe Http Echo Server
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.202607271700](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.202607271700), 2 months ago) - Gradle Docker plugin

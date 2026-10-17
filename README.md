@@ -13,7 +13,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (1 month ago)
 - [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (1 month ago)
 - [gesellix/docker-client](https://github.com/gesellix/docker-client) - A Docker client for Java written in Kotlin and Groovy (1 month ago)
-- [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (1 month ago)
+- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (1 month ago)
 
 #### 🌱 My latest projects
 

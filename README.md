@@ -13,7 +13,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (4 weeks ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
 - [docker-client/testutil](https://github.com/docker-client/testutil) -  (2 months ago)
-- [docker-client/docker-registry](https://github.com/docker-client/docker-registry) -  (2 months ago)
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) - Gradle Docker plugin (2 months ago)
 
 #### 🌱 My latest projects
 

@@ -4,12 +4,12 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (today)
-- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (3 days ago)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (3 days ago)
-- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (3 days ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (6 days ago)
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (3 weeks ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (1 day ago)
+- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (4 days ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (4 days ago)
+- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (4 days ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 week ago)
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (4 weeks ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
 - [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) -  (2 months ago)
@@ -30,8 +30,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.9.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.9.0), 3 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
-- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.5](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.5), 3 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.9.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.9.0), 4 days ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.5](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.5), 4 weeks ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.138.1](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.138.1), 1 month ago) - Controlling and preserving Bose SoundTouch devices
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202609282200](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202609282200), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
 - [docker-client/docker-compose-v3](https://github.com/docker-client/docker-compose-v3) ([v2.0.202609282159](https://github.com/docker-client/docker-compose-v3/releases/tag/v2.0.202609282159), 1 month ago) - Compare directories and zip/jar artifacts

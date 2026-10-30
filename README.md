@@ -4,7 +4,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (2 days ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (today)
 - [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (5 days ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (5 days ago)
 - [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (5 days ago)

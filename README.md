@@ -4,10 +4,10 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (today)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
-- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (1 day ago)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 day ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (2 days ago)
+- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (2 days ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (2 days ago)
 - [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (1 week ago)
 - [gioui/gio-x](https://github.com/gioui/gio-x) - Mirror of the Gio x repository (https://git.sr.ht/~whereswaldon/gio-x) (1 week ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)

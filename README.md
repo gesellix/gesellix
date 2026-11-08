@@ -4,15 +4,15 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (today)
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (6 days ago)
-- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (6 days ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (6 days ago)
-- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (1 week ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (1 day ago)
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
+- [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (1 week ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 week ago)
+- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (2 weeks ago)
 - [gioui/gio-x](https://github.com/gioui/gio-x) - Mirror of the Gio x repository (https://git.sr.ht/~whereswaldon/gio-x) (2 weeks ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
-- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (1 month ago)
+- [gesellix/artifact-diff](https://github.com/gesellix/artifact-diff) - Compare directories and zip/jar artifacts (2 months ago)
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) - A Docker Remote API model for Java, generated from the official OpenAPI spec (2 months ago)
 
 #### 🌱 My latest projects
@@ -30,7 +30,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 🔭 Latest releases I've contributed to
 
-- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.9.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.9.0), 1 week ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
+- [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) ([v0.9.0](https://github.com/gesellix/go-trmnl/releases/tag/v0.9.0), 2 weeks ago) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) ([v0.10.5](https://github.com/gesellix/gioui-splash/releases/tag/v0.10.5), 1 month ago) - A cross-platform splash screen for Go, based on Gio UI
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) ([v0.138.1](https://github.com/gesellix/Bose-SoundTouch/releases/tag/v0.138.1), 1 month ago) - Controlling and preserving Bose SoundTouch devices
 - [docker-client/docker-remote-api](https://github.com/docker-client/docker-remote-api) ([v2.0.202609282200](https://github.com/docker-client/docker-remote-api/releases/tag/v2.0.202609282200), 1 month ago) - A Docker Remote API model for Java, generated from the official OpenAPI spec
@@ -43,7 +43,7 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 📜 My recent blog posts
 
-- [PwdMgr: One Go Codebase for a Password Manager on Desktop, Mobile, and the Web](https://www.gesellix.net/posts/pwdmgr-one-codebase/) (1 day ago)
+- [PwdMgr: One Go Codebase for a Password Manager on Desktop, Mobile, and the Web](https://www.gesellix.net/posts/pwdmgr-one-codebase/) (2 days ago)
 - [The Multiplication Trap: Why Feedback Beats Perfection](https://www.gesellix.net/posts/success-in-iterations/) (5 months ago)
 - [AfterTouch: Keeping Bose SoundTouch Speakers Fully Featured After the Cloud Shutdown](https://www.gesellix.net/posts/aftertouch-bose-soundtouch/) (6 months ago)
 - [The Long Road to Connection Hijacking for Docker in OkHttp](https://www.gesellix.net/posts/connection-hijacking-for-docker-in-okhttp/) (1 year ago)

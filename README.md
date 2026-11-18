@@ -53,11 +53,11 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👯 Check out some of my recent followers
 
+- [TJGigs](https://github.com/TJGigs)
 - [ElectronicDegree](https://github.com/ElectronicDegree)
 - [Git-FED](https://github.com/Git-FED)
 - [BobCelso](https://github.com/BobCelso)
 - [starcatchr](https://github.com/starcatchr)
-- [0xbdleo](https://github.com/0xbdleo)
 
 #### 💬 Feedback
 

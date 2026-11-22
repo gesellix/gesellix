@@ -4,8 +4,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (1 week ago)
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 week ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (today)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (today)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 week ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 week ago)

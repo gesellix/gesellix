@@ -4,13 +4,13 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 #### 👷 Check out what I'm currently working on
 
-- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (1 day ago)
-- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (1 day ago)
+- [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (2 days ago)
+- [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (2 days ago)
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 week ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (1 week ago)
-- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (1 week ago)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 weeks ago)
+- [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 weeks ago)
 - [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (2 weeks ago)
-- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (4 weeks ago)
+- [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (1 month ago)
 - [gioui/gio-x](https://github.com/gioui/gio-x) - Mirror of the Gio x repository (https://git.sr.ht/~whereswaldon/gio-x) (1 month ago)
 - [gesellix/gioui-splash](https://github.com/gesellix/gioui-splash) - A cross-platform splash screen for Go, based on Gio UI (1 month ago)
 - [docker-client/docker-remote-api-client](https://github.com/docker-client/docker-remote-api-client) -  (1 month ago)
@@ -38,8 +38,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [docker-client/docker-filesocket](https://github.com/docker-client/docker-filesocket) ([v2.0.202609282158](https://github.com/docker-client/docker-filesocket/releases/tag/v2.0.202609282158), 1 month ago) - Unix domain socket and named pipe abstraction for the docker-client
 - [docker-client/testutil](https://github.com/docker-client/testutil) ([v2.0.202609282157](https://github.com/docker-client/testutil/releases/tag/v2.0.202609282157), 1 month ago) - A Docker client for Java written in Kotlin and Groovy
 - [gesellix/go-npipe](https://github.com/gesellix/go-npipe) ([v2.0.202608152202](https://github.com/gesellix/go-npipe/releases/tag/v2.0.202608152202), 3 months ago) - A Windows Named Pipe Http Echo Server
-- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.202607271700](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.202607271700), 3 months ago) - Gradle Docker plugin
-- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607271550](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607271550), 3 months ago) - A Docker client for Java written in Kotlin and Groovy
+- [gesellix/gradle-docker-plugin](https://github.com/gesellix/gradle-docker-plugin) ([v2.0.202607271700](https://github.com/gesellix/gradle-docker-plugin/releases/tag/v2.0.202607271700), 4 months ago) - Gradle Docker plugin
+- [gesellix/docker-client](https://github.com/gesellix/docker-client) ([v2.0.202607271550](https://github.com/gesellix/docker-client/releases/tag/v2.0.202607271550), 4 months ago) - A Docker client for Java written in Kotlin and Groovy
 
 #### 📜 My recent blog posts
 

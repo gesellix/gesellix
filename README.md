@@ -7,8 +7,8 @@ I'm Tobias Gesellchen, a software developer from Germany.
 - [gesellix/go-trmnl](https://github.com/gesellix/go-trmnl) - A self-hosted BYOS (Build Your Own Server) for the TRMNL e-ink display (1 day ago)
 - [gesellix/Bose-SoundTouch](https://github.com/gesellix/Bose-SoundTouch) - Controlling and preserving Bose SoundTouch devices (4 days ago)
 - [gesellix/gio-playground](https://github.com/gesellix/gio-playground) - GioUI playgound/demo app (4 days ago)
-- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 weeks ago)
 - [docker-client/echo-server](https://github.com/docker-client/echo-server) -  (2 weeks ago)
+- [gesellix/go-npipe](https://github.com/gesellix/go-npipe) - A Windows Named Pipe Http Echo Server (2 weeks ago)
 - [gesellix/gio-forked](https://github.com/gesellix/gio-forked) - Temporary fork of https://git.sr.ht/~eliasnaur/gio (2 weeks ago)
 - [gesellix/gio-cmd](https://github.com/gesellix/gio-cmd) - Fork of https://git.sr.ht/~eliasnaur/gio-cmd (1 month ago)
 - [gioui/gio-x](https://github.com/gioui/gio-x) - Mirror of the Gio x repository (https://git.sr.ht/~whereswaldon/gio-x) (1 month ago)
@@ -55,9 +55,9 @@ I'm Tobias Gesellchen, a software developer from Germany.
 
 - [TJGigs](https://github.com/TJGigs)
 - [ElectronicDegree](https://github.com/ElectronicDegree)
-- [Git-FED](https://github.com/Git-FED)
 - [BobCelso](https://github.com/BobCelso)
 - [starcatchr](https://github.com/starcatchr)
+- [0xbdleo](https://github.com/0xbdleo)
 
 #### 💬 Feedback
 
